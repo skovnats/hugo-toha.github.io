@@ -1,0 +1,26 @@
+# some information about you
+name: "Dr. Artiom Kovnatsky"
+nickname: "Артём aka Мастер Сплинтер"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Привет, я "
+image: "images/author/artiom_formal.jpg"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "artiom.kovnatsky@gmail.com"
+  phone: "+4917 630162834"
+  phone: "+972 547609790"
+  github: skovnats
+  linkedin: artiomkovnatsky
+  # upwork: john-doe
+
+# some summary about what you do
+summary:
+- Я - человек
+- Я математик
+- Я специалист по изучению и анализу данных
+- Я инженер по машинному обучению
+- Я тренер-наставник
+- Я специализируюсь на «бедных» или редких данных
+- Я исследователь
+- Я духовный практик
+- Люблю читать, писать и делиться знаниями

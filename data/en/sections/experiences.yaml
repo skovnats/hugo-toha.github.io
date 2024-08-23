@@ -8,6 +8,8 @@ section:
   # Can optionally hide the title in sections
   # hideTitle: true 
 
+#! You can use markdown syntax in overview field of company section and responsibilities field.
+
 # Your experiences
 experiences:
 - company:
