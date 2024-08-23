@@ -1,11 +1,11 @@
 # section information
 section:
-  name: About
-  id: about
-  enable: true
-  weight: 1
-  showOnNavbar: true
-  template: sections/about.html
+  name: About # Title of section (default: "")
+  id: about # url id/slug of section *Required*
+  enable: true # Boolean to determine if this section is enabled (default: false)
+  weight: 1 # Order to display section in (default: alphabetical followed by weight)
+  showOnNavbar: true # Boolean to determine if a link should be shown for this section on the navbar
+  template: sections/about.html # allows you to point to a specific template.
 
 # your designation
 designation: Software Engineer
@@ -60,8 +60,14 @@ socialLinks:
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
 resourceLinks:
-- title: "My Resume"
+- title: "CV"
   url: "files/resume.pdf"
+- title: "Business Card"
+  url: "files/business_card_q.pdf"
+- title: "QR Code"
+  url: "files/qr-code_mod.png"
+- title: "Logo"
+  url: "files/logo_opa.png"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
@@ -102,3 +108,7 @@ badges:
 #   name: Example 1
 #   percentage: 75
 #   color: "#00adb5"
+# blue
+# yellow
+# pink
+# green
