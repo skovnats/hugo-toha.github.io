@@ -70,7 +70,7 @@ params:
     favicon: /images/site/logo_opa.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/skovnats/hugo-toha.github.io
   # Default branch of your Git repo
   gitBranch: main
 
@@ -157,7 +157,8 @@ params:
           # # GoatCounter
           # goatCounter:
           #   code: <your goat counter code>
-          # # Matomo / Piwik
+          # 
+          # Matomo / Piwik
           # matomo:
           #   instance: matomo.example.com
           #   siteId: 1 # Or any other number
