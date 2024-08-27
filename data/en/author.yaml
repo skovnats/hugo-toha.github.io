@@ -1,21 +1,29 @@
 # some information about you
-name: "John Doe"
-nickname: "John"
+name: "Dr. Artiom Kovnatsky"
+nickname: "Artiom aka Master Splinter"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I am"
-image: "images/author/john.png"
+image: "images/author/artiom_formal.jpg"
 # give your some contact information. they will be used in the footer
 contactInfo:
-  email: "johndoe@example.com"
-  phone: "+0123456789"
-  github: johndoe
-  linkedin: johndoe
-  researchgate: john-doe
+  email: "artiom.kovnatsky@gmail.com"
+  phone: "+4917 630162834"
+  github: skovnats
+  linkedin: artiomkovnatsky
+  # upwork: john-doe
+  # stack-overflow:
+  # icon: stack-overflow
+  # url: "https://stackoverflow.com/users/1/exampleUser"
+  # text: "ExampleUser"
 
 # some summary about what you do
 summary:
-  - I am a Developer
-  - I am a Devops
-  - I love servers
-  - I work on open-source projects
-  - I love to work with some fun projects
+- I am a Human
+- I am a Mathematician
+- I am a Data Scientist & Analyst
+- I am a Machine Learning Engineer
+- I am a Mentoring Coach
+- I Specialise in "Poor" or Rara Data
+- I am a Researcher
+- I am Spiritual Practitioner
+- I love to read, write, and share knowledge
