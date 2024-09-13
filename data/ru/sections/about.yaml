@@ -1,104 +1,169 @@
 # section information
 section:
-  name: About
-  id: about
-  enable: true
-  weight: 1
-  showOnNavbar: true
-  template: sections/about.html
+  name: About # Title of section (default: "")
+  id: about # url id/slug of section *Required*
+  enable: true # Boolean to determine if this section is enabled (default: false)
+  weight: 1 # Order to display section in (default: alphabetical followed by weight)
+  showOnNavbar: true # Boolean to determine if a link should be shown for this section on the navbar
+  template: sections/about.html # allows you to point to a specific template.
 
 # your designation
-designation: Software Engineer
+designation: Data Professional | Mentoring Coach
 # your company information
-company:
-  name: Example Co.
-  url: "https://www.example.com"
+# company:
+#   name: Self-employment
+#   url: "http://artiomkovnatsky.com"
 
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
 # resume: "files/resume.pdf"
 
-# a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
 
+# a summary about you
+summary: 'Меня зовут Артём Ковнацкий, также иногда использую прозвище Мастер Сплинтер — мудрая крыса-учитель из черепашек-ниндзя. Это мой персональный сайт, где можно найти как профессиональную информацию, так и личные размышления. В разделе «Посты» находятся публикации на интересующие меня темы, включая очерк моей жизненной "Философии" и "Метафорическую автобиографию". <br> Из-за специфики моего жизненного опыта, бывает трудно подобрать точные слова для самовыражения, поэтому я использую метафоры. Но для начала, немного формальной информации: <br><br> Артём Ковнацкий, кандидат наук, высококвалифицированный Data Scientist и бизнес-аналитик с большим опытом предоставления комплексных услуг в области данных. Специализируюсь на науке о данных, бизнес-анализе, MLOps и консалтинге. Известен своей способностью извлекать бизнес-ценность из "плохих" или "редких" данных даже в сложных условиях. Успешно реализую проекты с высокой степенью риска, соблюдая сроки и обеспечивая высочайшее качество. Проявляю лидерские качества в формировании и наставничестве межфункциональных команд для достижения стратегических целей, используя инновационные инструменты и методологии с фокусом на эффективность. <br><br> Теперь, когда формальная часть завершена, перейду к неформальной. Моя жизнь складывалась таким образом, что каждые 3–6 месяцев, а иногда и несколько раз в день, я, образно говоря, "переезжал" в новую "страну". Мне приходилось постоянно учиться, адаптироваться, импровизировать и решать задачи с минимальными ресурсами. То, чему учат в умных книгах про стартапы — гибкость, стратегическое мышление, умение работать с ограниченными ресурсами, внимание к деталям и предвидение возможностей — для меня стало вопросом выживания. Эти навыки отточены у меня до совершенства. <br><br> Однако, человек создан не только для выживания, но и для жизни. Поэтому долгое время я занимался развитием внутреннего мира, практиковал медитации и духовные практики, чтобы обрести гармонию с собой и окружающим миром. В июле 2020 года я посвятил себя глубокой практике, которая помогла мне разрешить внутренние противоречия и найти ответы на важные вопросы. В ходе этого процесса я временно "вышел из социума". Однако я решил вернуться, чтобы поделиться тем, что осознал, и жить среди людей. Надеюсь, мне удастся донести свои мысли через статьи, видео, лекции, презентации или предпринимательство. Буду рад новым знакомствам!'
+
+#---------------
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "artiomkovnatsky@pm.me"
 
-- name: Github
-  icon: "fab fa-github"
-  url: "https://www.github.com/example"
+# - name: Github
+#   icon: "fab fa-github"
+#   url: "https://github.com/skovnats"
 
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
+# - name: Stackoverflow
+#   icon: "fab fa-stack-overflow"
+#   url: "#"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "https://www.linkedin.com/in/artiomkovnatsky"
 
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "#"
+- name: Uprowk # freelance icon
+  icon: "fas fa-briefcase"
+  url: "https://www.upwork.com/freelancers/~01ed48886816aa8edb"
+
+# - name: Mastadon
+#   icon: "fab fa-mastodon"
+#   url: "#"
+#   rel: "me noopener"
+
+- name: Google Scholar
+  icon: "fas fa-graduation-cap"
+  url: "https://tinyurl.com/3rz8mjyr"
 
 - name: Facebook
   icon: "fab fa-facebook"
-  url: "#"
+  url: "https://www.facebook.com/artiom.kovnatsky"
 
-- name: Mastadon
-  icon: "fab fa-mastodon"
-  url: "#"
-  rel: "me noopener"
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://x.com/ArtiomKovnatsky"
 
-- name: ResearchGate
-  icon: "fab fa-researchgate"
-  url: "https://www.researchgate.net/profile/john-doe"
+- name: Telegram
+  icon: "fab fa-telegram"
+  url: "https://t.me/soul_from_crete"
+#---------------
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
 resourceLinks:
-- title: "My Resume"
-  url: "files/resume.pdf"
+- title: "Self-Intro"
+  url: "files/self_introduction.pdf"
+# - title: "Business Card"
+#   url: "files/business_card_q.pdf"
+- title: "CV"
+  url: "files/cv_ArtiomKovnatsky_improved.pdf"
+# - title: "QR Code"
+#   url: "files/qr-code_mod.png"
+# - title: "Logo"
+#   url: "files/logo_opa.png"
+- title: "Sample Projects"
+  url: "files/sample_projects_DrArtiomKovnatsky.pdf"
+- title: "Recommendations"
+  url: "files/recommendations_DrArtiomKovnatsky_full.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
-- type: certification
-  name: Certified Kubernetes Security Specialist
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+# - type: certification
+#   name: PhD in Computational Science, Ms.C. & Bs.C. in Applied Mathematics
+#   url: "https://sonar.ch/global/documents/318738"
+#   badge: "https://photos.google.com/u/1/album/AF1QipMRNbTBGdoEixXTksfZondciYFtdqQftu616PoS/photo/AF1QipMlsONfh12F1jzk6vmFCJR_1YxnimWzJGxGKuBA"
 
-- type: certification
-  name: Istio and IBM Cloud Kubernetes Service
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
+# - type: certification
+#   name: Istio and IBM Cloud Kubernetes Service
+#   url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+#   badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
 
-- type: certification
-  name: Artificial Intelligence and Machine Learning
-  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
-  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+# - type: certification
+#   name: Artificial Intelligence and Machine Learning
+#   url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
+#   badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+
+#-----------
+- type: soft-skill-indicator
+  name: Out-of-the-box thinking
+  percentage: 100
+  color: "#ff9999"
+
+- type: soft-skill-indicator
+  name: Improvisation & Adaptability
+  percentage: 100
+  color: "#ff9999"
+
+- type: soft-skill-indicator
+  name: Creativity & Innovation
+  percentage: 95
+  color: "#ff9999"
+#-----------
+- type: soft-skill-indicator
+  name: Presentation
+  percentage: 95
+  color: "#87cefa"
 
 - type: soft-skill-indicator
   name: Leadership
   percentage: 85
-  color: blue
+  color: "#87cefa"
 
 - type: soft-skill-indicator
-  name: Team Work
-  percentage: 90
-  color: yellow
-
-- type: soft-skill-indicator
-  name: Hard Working
+  name: Collaboration
   percentage: 85
-  color: orange
+  color: "#87cefa"
+#-----------
+- type: soft-skill-indicator
+  name: Problem-Solving
+  percentage: 100
+  color: "#fada5e"
+
+- type: soft-skill-indicator
+  name: Time & Resource Management
+  percentage: 95
+  color: "#fada5e"
+
+- type: soft-skill-indicator
+  name: Mentorship & Hiring
+  percentage: 90
+  color: "#fada5e"
+#-----------
+# - type: soft-skill-indicator
+#   name: Results orientation with minimal resources
+#   percentage: 85
+#   color: green
 
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator
 #   name: Example 1
 #   percentage: 75
 #   color: "#00adb5"
+
+# "#008080"
+# blue
+# yellow
+# pink
+# green

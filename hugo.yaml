@@ -22,13 +22,13 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: "Personal site of Dr. Artiom Kovnatsky"
-    weight: 1
+    title: "Artiom Kovnatsky: Portfolio & Blog"
+    weight: 2
   ru:
     languageCode: ru
     languageName: Русский
-    title: "Личный сайт Артёма Ковнацкого"
-    weight: 2
+    title: "Артём Ковнацкий: Портфолио & Блог"
+    weight: 1
 # default language for the content
 defaultContentLanguage: en
 
@@ -76,7 +76,7 @@ params:
 
   # Configure the number of section title visible in the top navbar
   topNavbar:
-    maxVisibleSections: 6
+    maxVisibleSections: 4
 
   # Configure various features of this theme
   features:
@@ -95,12 +95,12 @@ params:
       showAuthor: true # shows the author of post (defaults true)
       # Share post on different social media
       shareButtons:
-        facebook: true
-        twitter: false
-        linkedin: true
-        reddit: false
-        whatsapp: true
         email: true
+        linkedin: true
+        facebook: true
+        twitter: true
+        whatsapp: true
+        # reddit: true
         # tumblr: true
         # pocket: true
         # diaspora: true
@@ -112,7 +112,7 @@ params:
 
     # Enable comment feature. There, should be only one of them.
     comment:
-      enable: true
+      enable: false
       services:
         disqus:
           shortName: https://https-skovnats-github-io.disqus
@@ -264,7 +264,7 @@ params:
 
         # Enable reading time support in post cards and in post pages
     readingTime:
-      enable: false
+      enable: true
 
     # Number of posts to show to each page. Default is "12"
     pagination:
@@ -279,7 +279,7 @@ params:
     template: footer.html
     # Show/hide navigation in the footer. Default is "true".
     navigation:
-      enable: true
+      enable: false
       # show custom menus in the footer
       customMenus: true
     # Show/hide "Contact Me" section in the footer. Default is "true".
@@ -287,7 +287,7 @@ params:
       enable: true
     # Show/hide credentials section in the footer. Default is "true".
     credentials:
-      enable: true
+      enable: false
 
     # Show/hide newsletter section in the footer. Default is "true".
     # Currently, it supports "mailchimp".

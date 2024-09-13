@@ -3,7 +3,7 @@ section:
   name: Projects
   id: projects
   enable: true
-  weight: 5
+  weight: 7
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
@@ -14,39 +14,53 @@ buttons:
   filter: "all"
 - name: Professional
   filter: "professional"
-- name: Academic
-  filter: "academic"
+# - name: Academic
+#   filter: "academic"
 - name: Hobby
   filter: "hobby"
+# - name: Hybrid
+#   filter: "hybrid"
+# - name: Ω
+#   filter: "omega"
+
 
 # your projects
 projects:
-- name: Kubernetes
-  logo: /images/sections/projects/kubernetes.png
-  role: Contributor
-  timeline: "March 2018 - Present"
-  repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Production-Grade Container Scheduling and Management.
-  tags: ["professional", "kubernetes", "cloud"]
+- name: Oméga
+  logo: /images/sections/projects/logo_Omega.png
+  role: Creator
+  timeline: "July 2020 - Present"
+  # repo: https://www.homeday.de/de/preisatlas # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://skovnats.github.io/posts/%CF%89/" # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: "Personal project: summarization of my life experiences and ideas. Rasing questions, sharing thoughts, and exploring alternatives to the current state of affairs."
+  tags: ["hobby", "omega"]
 
-- name: Tensorflow
-  logo: /images/sections/projects/tensorflow.png
-  role: Developer
-  timeline: "Jun 2018 - Present"
-  repo: https://github.com/tensorflow/tensorflow
+- name: HOMEDAY-PREISATLAS
+  logo: /images/sections/projects/homeday.png
+  role: Solo Data Scientist Contributor
+  timeline: "September 2018 - September 2019"
+  # repo: https://www.homeday.de/de/preisatlas # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://www.homeday.de/de/preisatlas" # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Real estate prices over time in Germany.
+  tags: ["professional", "AI"]
+
+- name: Sports Betting
+  logo: /images/sections/projects/betting.jpg
+  role: Contriver and Developer
+  timeline: "Feb 2019 - Mar 2019"
+  repo: https://github.com/skovnats/fifa-betting
   #url: ""
-  summary: An Open Source Machine Learning Framework for Everyone.
-  tags: ["professional", "machine-learning"]
+  summary: An attempt to predict the outcome of FIFA matches using machine learning; extension upon work of <a href="https://twitter.com/BradleyGrantham">Bradley Grantham</a>. A fun project with my friend to learn about sports betting.
+  tags: ["hobby", "AI"]
 
-- name: A sample academic paper
+- name: automatic land potential evaluation
   role: Team Lead
   timeline: "Jan 2017 - Nov 2017"
-  url: "https://www.example.com"
+  url: "https://bauvoranfrage24.de/"
   summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
-  tags: ["academic","iot"]
+  tags: ["academic", "iot"]
 
-- name: Nocode
+- name: digitalization of Ukrainian land taxation
   logo: /images/sections/projects/no-code.png
   role: Nothing
   timeline: "Oct 2019 - Dec 2019"
@@ -55,10 +69,57 @@ projects:
   summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
   tags: ["hobby", "fun"]
 
-- name: Toha
+- name: automatic scheduling
   logo: /images/sections/projects/toha.png
   role: Owner
   timeline: "Jun 2019 - Present"
-  repo: https://github.com/hossainemruz/toha
-  summary: A Hugo theme for personal portfolio.
-  tags: ["hobby","hugo","theme","professional"]
+  url: "https://www.dropbox.com/scl/fi/ks6mq95vi421p9z3yavjx/Pflege-EMPO-promo.pdf?rlkey=5h15k9j2f13h397gi8gnak7d8&dl=0"
+  # repo: https://github.com/hossainemruz/toha
+  summary: automatic scheduling of medical support appointments (applied for a grant & talked to an Institute in Optimization)
+  tags: ["hobby", "hugo", "theme", "professional"]
+
+- name: grants proposals
+  logo: /images/sections/projects/no-code.png
+  role: Nothing
+  timeline: "Oct 2019 - Dec 2019"
+  repo: https://github.com/kelseyhightower/nocode
+  #url: ""
+  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
+  tags: ["hobby", "fun"]
+
+- name: stockfishforex.org
+  logo: /images/sections/projects/no-code.png
+  role: Nothing
+  timeline: "Oct 2019 - Dec 2019"
+  repo: https://github.com/kelseyhightower/nocode
+  #url: ""
+  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
+  tags: ["hobby", "fun"]
+
+- name: spotting undervalued properties
+  logo: /images/sections/projects/no-code.png
+  role: Nothing
+  timeline: "Oct 2019 - Dec 2019"
+  repo: https://github.com/kelseyhightower/nocode
+  #url: ""
+  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
+  tags: ["hobby", "fun"]
+
+- name: maddmm
+  logo: /images/sections/projects/no-code.png
+  role: Nothing
+  timeline: "Oct 2019 - Dec 2019"
+  repo: https://github.com/kelseyhightower/nocode
+  #url: ""
+  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
+  tags: ["hobby", "fun"]
+
+
+- name: image stitching
+  logo: /images/sections/projects/no-code.png
+  role: Nothing
+  timeline: "Oct 2019 - Dec 2019"
+  repo: https://github.com/kelseyhightower/nocode
+  #url: ""
+  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
+  tags: ["hobby", "fun"]

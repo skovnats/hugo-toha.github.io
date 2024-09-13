@@ -3,7 +3,7 @@ section:
   name: Skills
   id: skills
   enable: true
-  weight: 2
+  weight: 3
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
@@ -11,39 +11,129 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+- name: 🔍📚 Data Science Expertise
+  # logo: /images/sections/skills/dsd.jpg
+  summary: "Advanced expertise in data science methodologies and tools. Proficient in extracting meaningful insights using machine learning and statistical analysis. <br><b>Tools:</b> Python, R, Scikit-Learn, TensorFlow, PyTorch, XGBoost, CatBoost, etc."
+  # url: "https://kubernetes.io/"
 
-- name: Go Development
-  logo: /images/sections/skills/go.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
+- name: 🤖 MLOps & Machine Learning Frameworks
+  # logo: /images/sections/skills/go.png
+  summary: "Skilled in integrating machine learning models into production. I specialize in deploying scalable machine learning pipelines and maintaining them in production environments. <br><b>Tools:</b> MLFlow, AirFlow, TensorFlow, PyTorch."
+  # url: "https://golang.org/"
+
+- name: 🛠️ Data Engineering
+  # logo: /images/sections/skills/go.png
+  summary: " I build and maintain scalable data infrastructure <br><b>Tools:</b> Apache AirFlow, Apache Kafka, SQL, NoSQL."
+  # url: "https://golang.org/"
+
+- name: 🎯✅ Results-Oriented Problem-Solving
+  # logo: /images/sections/skills/go.png
+  summary: "Focus on achieving results with minimal resources. I excel in delivering high-impact solutions efficiently, even in resource-constrained environments."
+  # url: "https://golang.org/"
+
+- name: 👥 Mentorship, Leadership & Team Building
+  # logo: /images/sections/skills/go.png
+  summary: "Proven leadership in managing and mentoring teams. I lead cross-functional teams and provide mentorship to junior colleagues, fostering collaboration and innovation."
+  # url: "https://golang.org/"
+
+- name: 💡⚙️🧠 Innovation & Adaptability
+  # logo: /images/sections/skills/go.png
+  summary: "Constantly exploring innovative tools and methodologies, I adapt quickly to new fields."
+  # url: "https://golang.org/"
+
+- name: 🤝 Client Relationship Management
+  # logo: /images/sections/skills/go.png
+  summary: "I work closely with clients to understand their needs, ensuring that data solutions are aligned with their goals and expectations, fostering long-term partnerships."
+  # url: "https://golang.org/"
+
+- name: 🌀 Flexibility & Resilience
+  # logo: /images/sections/skills/go.png
+  summary: "My experience in managing multiple roles and navigating diverse challenges allows me to maintain productivity and effectiveness in any situation."
+  # url: "https://golang.org/"
+
+- name: 📏 Attention to Detail
+  # logo: /images/sections/skills/go.png
+  summary: "Known for ensuring the precision and accuracy of data processes, I emphasize delivering high-quality outputs, regardless of project complexity."
+  # url: "https://golang.org/"
+
+- name: 🗂️ Project Management
+  # logo: /images/sections/skills/go.png
+  summary: "I manage all aspects of project execution, ensuring that deliverables meet both quality standards and deadlines, even in high-pressure environments."
+  # url: "https://golang.org/"
+
+- name: 💻 Technical Consulting
+  # logo: /images/sections/skills/go.png
+  summary: "I offer tailored data and analytics solutions to clients, helping them navigate complex technical challenges and improve their operational efficiency."
+  # url: "https://golang.org/"
+
+- name: ♟️ Strategic Thinking
+  # logo: /images/sections/skills/go.png
+  summary: "I focus on aligning data-driven initiatives with broader business goals, ensuring that every project contributes to the company’s growth and success."
+  # url: "https://golang.org/"
+
+- name: 🎨✨ Improvisation and Creativity
+  # logo: /images/sections/skills/go.png
+  summary: "I thrive in dynamic environments where quick decision-making and innovation are essential. My ability to improvise allows me to solve problems creatively and adapt to unexpected challenges."
+  # url: "https://golang.org/"
+
+- name: 🦄🚨 Expertise in Handling Rare Cases
+  # logo: /images/sections/skills/go.png
+  summary: "I excel in handling edge cases and scenarios that don’t fit standard frameworks, ensuring that every situation is properly addressed, no matter how rare or complex."
+  # url: "https://golang.org/"
+
+- name: 🧩 Business Value Extraction from Imperfect Data
+  # logo: /images/sections/skills/go.png
+  summary: "I specialize in deriving actionable insights and business value from flawed, sparse, or imperfect datasets that others might overlook."
+  # url: "https://golang.org/"
+
+- name: 🔓 Non-Standard Thinking
+  # logo: /images/sections/skills/go.png
+  summary: "I apply innovative thinking and non-traditional methods to solve complex problems and find unique solutions that go beyond conventional approaches."
+  # url: "https://golang.org/"
+
+- name: 👁️ Spotting Hidden Opportunities
+  # logo: /images/sections/skills/go.png
+  summary: "I have a talent for spotting untapped opportunities, helping businesses recognize and capitalize on hidden potential for growth and innovation."
+  # url: "https://golang.org/"
+
+- name: 🗣️🎤 Presentations & Public Speaking
+  # logo: /images/sections/skills/go.png
+  summary: "I excel at communicating complex ideas in a simple, relatable way, ensuring that audiences understand and retain key messages during presentations and public speaking engagements."
+  # url: "https://golang.org/"
+
+- name: 👨‍🏫 Teaching & Knowledge Sharing
+  # logo: /images/sections/skills/go.png
+  summary: "I have a passion for sharing knowledge and helping others grow, whether through structured teaching sessions, mentorship, or on-the-job training, ensuring complex concepts are understood by all."
+  # url: "https://golang.org/"
 
 - name: Cloud Computing
   logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+  summary: "Worked with most of the major clouds such as GCP, AWS etc."
 
 - name: Docker
   logo: /images/sections/skills/docker.svg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
+  summary: "Write most of the programs as dockerized container."
   url: "https://www.docker.com/"
 
 - name: Prometheus
   logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
+  summary: "Capable of setup, configure Prometheus metrics. "
   url: "https://prometheus.io/"
 
 - name: Linux
   logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+  summary: "Using as the second operating system. Capable of writing bash/shell scripts."
 
 - name: Git
   logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+  summary: "Experienced with git-based development. Mostly, use Github. "
   url: "https://git-scm.com/"
 
-- name: C++
-  logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+# - name: C++
+#   logo: /images/sections/skills/c++.png
+#   summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+
+# - name: Go Development
+#   logo: /images/sections/skills/go.png
+#   summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+#   url: "https://golang.org/"

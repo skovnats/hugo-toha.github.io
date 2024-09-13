@@ -4,7 +4,7 @@ section:
   id: education
   template: sections/education.html # Use "sections/education-alt.html for alternate template.
   enable: true
-  weight: 4
+  weight: 5
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
@@ -12,99 +12,150 @@ section:
 degrees:
 - name: Ph.D in Computational Science
   icon: fa-microscope
-  timeframe: 2016-2020
+  timeframe: 2011-2016
   institution:
     name: USI-Università della Svizzera italiana
     url: "https://www.usi.ch/en"
     logo: /images/sections/education/usi.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/tech_college.png
-  grade: #(optional)
-    scale: CGPA
-    achieved: 3.6
-    outOf: 4
+  # grade: #(optional)
+  #   scale: CGPA
+  #   achieved: 3.6
+  #   outOf: 4
+  customSections: #(optional)
+  - name: PhD Thesis
+    content: <a href="https://sonar.ch/global/documents/318738" target="_blank">Spectral Methods for Multimodal Data Analysis</a>
+  - name: Supervisor
+    content: <a href="https://www.cs.ox.ac.uk/people/michael.bronstein/" target="_blank">Prof. Michael M. Bronstein</a>
+
   publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
-    url: "#"
-  - title: Nullam vitae orci tincidunt purus viverra pulvinar.
-    url: "#"
-- name: B.Sc. in Computer Science & Engineering
+  - title: "\"Coupled quasi‐harmonic bases\", A. Kovnatsky, M.M. Bronstein, A.M. Bronstein, K. Glashoff, R. Kimmel (Computer Graphics Forum)"
+    url: "https://arxiv.org/pdf/1210.0026"
+  - title: "\"MADMM: a generic algorithm for non-smooth optimization on manifolds\", A. Kovnatsky, K. Glashoff, M.M. Bronstein (ECCV)"
+    url: "https://arxiv.org/pdf/1505.07676"
+  - title: "\"Multimodal manifold analysis by simultaneous diagonalization of laplacians\", D. Eynard, A. Kovnatsky, M.M. Bronstein, K. Glashoff, A.M. Bronstein (IEEE transactions on pattern analysis and machine intelligence)"
+    url: "https://ieeexplore.ieee.org/document/7053905"
+  - title: "\"Laplacian colormaps: a framework for structure‐preserving color transformations\", D. Eynard, A. Kovnatsky, M.M. Bronstein (Computer Graphics Forum)"
+    url: "https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.12295"
+  - title: "\"Stable spectral mesh filtering, Artiom Kovnatsky\", M.M. Bronstein, A.M. Bronstein (Workshop-ECCV)"
+    url: "https://projet.liris.cnrs.fr/imagine/pub/proceedings/ECCV-2012/papers/7583/75830083.pdf"
+  - title: "\"Gamut mapping with image Laplacian commutators\", A. Kovnatsky, D. Eynard, M.M. Bronstein (ICIP)"
+    url: "https://ieeexplore.ieee.org/abstract/document/7025127/"
+  extracurricularActivities: #(optional)
+  - PhD representative at the USI Doctoral School.
+  - Board games club organizer.
+  # - Culture sharing day organizer (<a href="https://www.youtube.com/watch?v=XRrTqPZjh7I" target="_blank">Israeli day</a> was organised thanks to Israel Association of Ticino and Israel Embassy in Switzerland).
+  - Culture sharing day organizer (<a href="https://www.youtube.com/watch?v=XRrTqPZjh7I" target="_blank">Israeli day</a> was organized thanks to the Israel Association of Ticino and the Israel Embassy in Switzerland).
+
+
+- name: M.Sc. in Applied Mathematics (in Hebrew)
   icon: fa-graduation-cap
-  timeframe: 2012-2016
+  timeframe: 2008-2013
   institution:
-    name: University of XYZ
-    url: "#"
-    logo: /images/sections/education/technion.png
+    name: Technion – Israel Institute of Technology
+    url: "https://graduate.technion.ac.il/en/department-en-19MSc/" # "https://www.technion.ac.il/en/home-2/"
+    logo: /images/sections/education/technion.jpeg
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/university.jpg
-  grade: #(optional)
-    scale: CGPA
-    achieved: 3.5
-    outOf: 4
+  # grade: #(optional)
+  #   scale: CGPA
+  #   achieved: 3.5
+  #   outOf: 4
+  customSections: #(optional)
+  - name: Thesis
+    content: Fusion of Geometric and Photometric Information in Non-rigid 3D Shape Retrieval
+  - name: Supervisors
+    content: <a href="https://ron.cs.technion.ac.il/" target="_blank">Prof. Ron Kimmel</a>, <a href="https://www.cs.ox.ac.uk/people/michael.bronstein/" target="_blank">Prof. Michael M. Bronstein</a>
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: true
+    collapseAfter: 4
+    courses:
+    - name: Acceleration of Convergence of Iterative Procedures
+      achieved: 95
+      outOf: 100
+    - name: Advanced Probability
+      achieved: 93
+      outOf: 100
+    - name: Probablistic Algorithms
+      achieved: 95
+      outOf: 100
+    - name: Stochastic Processes
+      achieved: 90
+      outOf: 100
+    - name: Visual Systems and Image Structure
+      achieved: 99
+      outOf: 100
+    - name: Geometric Computer Vision
+      achieved: 97
+      outOf: 100
+  publications: #(optional)
+  - title: "\"Photometric heat kernel signatures\", A. Kovnatsky, M.M. Bronstein, A.M. Bronstein, R. Kimmel (SSVM)"
+    url: "https://vista.cs.technion.ac.il/wp-content/uploads/2018/10/KovBroBroKimSSVM11.pdf"
+  - title: "\"Geometric and photometric data fusion in non-rigid shape analysis\", A. Kovnatsky, D. Raviv, M.M. Bronstein, A.M. Bronstein, R. Kimmel (Numerical Mathematics: Theory, Methods and Applications)"
+    url: "https://doc.rero.ch/record/304745/files/S1004897900001197.pdf"
+  extracurricularActivities: #(optional)
+  - Group child tutor and mentor.
+
+
+- name: B.Sc. in Applied Mathematics (in Hebrew)
+  icon: fa-graduation-cap
+  timeframe: 2003-2008
+  institution:
+    name: Technion – Israel Institute of Technology
+    url: "https://www.technion.ac.il/en/home-2/"
+    logo: /images/sections/education/technion.jpeg
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/education/university.jpg
+  # grade: #(optional)
+  #   scale: CGPA
+  #   achieved: 3.5
+  #   outOf: 4
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades: true
     collapseAfter: 3
     courses:
-    - name: Data Structures and Algorithm
-      achieved: 3.75
-      outOf: 4
-    - name: Network Security
-      achieved: 3.80
-      outOf: 4
-    - name: Operating System
-      achieved: 3.5
-      outOf: 4
-    - name: Artificial Intelligent
-      achieved: 3.75
-      outOf: 4
-  publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
-    url: "#"
+    - name: Optimization Theory
+      achieved: 95
+      outOf: 100
+    - name: Numerical Analysis
+      achieved: 95
+      outOf: 100
+    - name: Deterministic Models in Operations Research
+      achieved: 87
+      outOf: 100
+    - name: Combinatorics
+      achieved: 89
+      outOf: 100
+    - name: Set Theory
+      achieved: 98
+      outOf: 100
+    - name: Calculus of Variations
+      achieved: 88
+      outOf: 100
+      # publications: #(optional)
+      # - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      #   url: "#"
+      # - title: Fusce eu augue ut odio porttitor pulvinar.
+    # url: "#"
   extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
-  custonSections: #(optional)
-  - name: Thesis
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  - name: Supervisor
-    content: Fusce eu augue ut odio porttitor pulvinar.
-- name: Higher Secondary School Certificate
-  icon: fa-university
-  timeframe: 2010-2012
-  institution:
-    name: MST College of Science
-    url: "#"
-    logo: /images/sections/education/science_college.png
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/education/science_college.png
-  grade: #(optional)
-    scale: GPA
-    achieved: 5
-    outOf: 5
-  extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
-- name: Secondary School Certificate
-  icon: fa-school
-  timeframe: 2005-2010
-  institution:
-    name: JK School of Science
-  grade: #(optional)
-    scale: GPA
-    achieved: 4.5
-    outOf: 5
+  - Group child tutor and mentor.
+  - Boxing trainer assistant.
 
-  custonSections: #(optional)
-  - name: Thesis
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  - name: Supervisor
-    content: Fusce eu augue ut odio porttitor pulvinar.
+- name: High School Diploma
+  icon: fa-school
+  timeframe: 1990-2001
+  institution:
+    name: "School N33"
+  # grade: #(optional)
+  #   scale: GPA
+  #   achieved: 4.5
+  #   outOf: 5
+  extracurricularActivities: #(optional)
+  - I represented my school with three other guys in the city sports championship.
+  - I was a member of the school's shooting club.
+  customSections: #(optional)
+  - name: Location
+    content: <a href="https://mk.isuo.org/schools/view/id/8100" target="_blank">Nikolaev, Ukraine</a>

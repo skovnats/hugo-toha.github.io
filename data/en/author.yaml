@@ -1,16 +1,16 @@
 # some information about you
-name: "Dr. Artiom Kovnatsky"
-nickname: "Artiom aka Master Splinter"
+name: "Artiom Kovnatsky"
+nickname: "Art(iom), in greek Αρτέμιος"
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "Hi, I am"
+greeting: "Welcome, I am "
 image: "images/author/artiom_formal.jpg"
 # give your some contact information. they will be used in the footer
 contactInfo:
-  email: "artiom.kovnatsky@gmail.com"
+  email: "artiomkovnatsky@pm.me"
   phone: "+4917 630162834"
-  github: skovnats
   linkedin: artiomkovnatsky
-  # upwork: john-doe
+  # github: skovnats
+  # upwork: "[upwork](https://www.upwork.com/freelancers/~01ed48886816aa8edb)"
   # stack-overflow:
   # icon: stack-overflow
   # url: "https://stackoverflow.com/users/1/exampleUser"
@@ -18,12 +18,19 @@ contactInfo:
 
 # some summary about what you do
 summary:
-- I am a Human
-- I am a Mathematician
-- I am a Data Scientist & Analyst
-- I am a Machine Learning Engineer
-- I am a Mentoring Coach
-- I Specialise in "Poor" or Rara Data
-- I am a Researcher
-- I am Spiritual Practitioner
-- I love to read, write, and share knowledge
+- I'm a data professional and mentoring coach
+- I like solving complex problems
+- I can deal with rare cases
+- I'm good at extracting value from imperfect data
+# - I'm flexible with regards to instruments and approaches
+- See my posts for personal views (e.g., "Philosophy") and below for professional information
+
+# - I am a Human
+# - I am a Mathematician
+# - I am a Data Scientist & Analyst
+# - I am a Machine Learning Engineer
+# - I am a Mentoring Coach
+# - I Specialise in "Poor" or Rara Data
+# - I am a Researcher
+# - I am Spiritual Practitioner
+# - I love to read, write, and share knowledge

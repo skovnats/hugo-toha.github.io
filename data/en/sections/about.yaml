@@ -18,15 +18,17 @@ designation: Data Professional | Mentoring Coach
 # Dreprecated. Use resourceLinks instead.
 # resume: "files/resume.pdf"
 
-# a summary about you
-summary: 'I''m Artiom Kovnatsky asa Master Splinter, highly accomplished Data Scientist and Business Analyst with extensive experience in delivering end-to-end data services, including data science, business analysis, MLOps, and consultancy. Renowned for extracting meaningful business value from “poor” or “rare” data, even under challenging circumstances. Proven ability to manage and deliver high-impact projects within tight deadlines while maintaining the highest quality standards. Demonstrated leadership in assembling and mentoring cross-functional teams to achieve strategic goals. Proficient in various tools and methodologies, with a strong focus on innovation and efficiency.'
 
+# a summary about you
+summary: 'My name is Artiom, I also sometimes use the nickname Master Splinter 🐀 🥋, the wise rat-teacher from the Ninja Turtles. This is my personal website, where you can find both professional information and personal reflections. The posts section contains publications on topics of interest to me, including an outline of my life''s "Philosophy" and "Metaphorical Autobiography".<br>Because of the specifics of my life experiences, it can be difficult to find the exact words to express myself, so I use metaphors. But first, a bit of formal introduction:<br><br><blockquote> Artiom Kovnatsky, PhD, is a highly skilled Data Scientist and Business Analyst with extensive experience in providing complex data services. I specialise in data science, business analysis, MLOps and consulting. Known for my ability to extract business value from "bad" or "sparse" data even in challenging environments. I successfully deliver high-risk projects while meeting deadlines and ensuring the highest quality. Demonstrate leadership in building and mentoring cross-functional teams to achieve strategic goals, using innovative tools and methodologies with a focus on efficiency.</blockquote> <br><br>Now that the formal part is complete, I''ll move on to the informal part. My life developed in such a way that every 3-6 months, and sometimes several times a day, I figuratively speaking "moved" to a "new country". I had to constantly learn, adapt, improvise and solve problems with minimal resources. What they teach in smart books about startups - flexibility, strategic thinking, ability to work with limited resources, attention to detail and anticipation of opportunities - became a matter of survival for me. These skills are honed in me to perfection.<br><br>However, man is not only built for survival, but also for life. Therefore, for a long time I have been engaged in developing my inner world, practising meditation and spiritual practices to find harmony with myself and the world around me. In July 2020, I dedicated myself to a deep practice that helped me resolve inner contradictions and find answers to important questions. During this process, I temporarily "stepped out of society". However, I have decided to return to share what I realised and to live among people. I hope I will be able to communicate my thoughts through articles, videos, lectures, presentations and entrepreneurship. <br>I look forward to making new connections and "resetting" old ones!<br><br>You can schedule an appointment using Calendly <a href="https://calendly.com/artiom_kovnatsky" target="_blank">here</a>, or through Read.ai <a href="https://cal.read.ai/artiomkovnatsky" target="_blank">here</a>.'
+
+#---------------
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "artiom.kovnatsky@gmail.com"
+  url: "artiomkovnatsky@pm.me"
 
 # - name: Github
 #   icon: "fab fa-github"
@@ -40,49 +42,62 @@ socialLinks:
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/artiomkovnatsky"
 
-# - name: Twitter
-#   icon: "fab fa-twitter"
-#   url: "#"
-
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "https://www.facebook.com/artiom.kovnatsky"
+- name: Uprowk # freelance icon
+  icon: "fas fa-briefcase"
+  url: "https://www.upwork.com/freelancers/~01ed48886816aa8edb"
 
 # - name: Mastadon
 #   icon: "fab fa-mastodon"
 #   url: "#"
 #   rel: "me noopener"
 
-- name: Google Scholar
-  icon: "fab fa-google-scholar"
-  url: "https://tinyurl.com/3rz8mjyr"
+# - name: Google Scholar
+#   icon: "fas fa-graduation-cap"
+#   url: "https://tinyurl.com/3rz8mjyr"
 
-- name: Uprowk
-  icon: "fab fa-square-upwork"
-  url: "https://www.upwork.com/freelancers/~01ed48886816aa8edb"
+# - name: Facebook
+#   icon: "fab fa-facebook"
+#   url: "https://www.facebook.com/artiom.kovnatsky"
+
+# - name: Twitter
+#   icon: "fab fa-twitter"
+#   url: "https://x.com/ArtiomKovnatsky"
+
+- name: WhatsApp
+  icon: "fab fa-whatsapp"
+  url: "https://wa.me/4917630162834"
+
+- name: Telegram
+  icon: "fab fa-telegram"
+  url: "https://t.me/soul_from_crete"
+#---------------
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
 resourceLinks:
-- title: "Resume"
-  url: "files/resume.pdf"
-- title: "Self-Introduction"
-  url: "files/self_presentation.pdf"
-- title: "Business Card"
-  url: "files/business_card_q.pdf"
-- title: "QR Code"
-  url: "files/qr-code_mod.png"
-- title: "Logo"
-  url: "files/logo_opa.png"
+- title: "Self-Intro"
+  url: "files/Artiom_selfpresentation_eng_version_1.pdf"
+- title: "CV"
+  url: "files/cv_ArtiomKovnatsky.pdf"
+# - title: "QR Code"
+#   url: "files/qr-code_mod.png"
+# - title: "Logo"
+#   url: "files/logo_opa.png"
+- title: "Sample Projects"
+  url: "files/sample_projects_DrArtiomKovnatsky.pdf"
+- title: "Recommendations"
+  url: "files/recommendations_DrArtiomKovnatsky_full.pdf"
+# - title: "Business Card"
+#   url: "files/business_card_q.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
-- type: certification
-  name: PhD in Computational Science, Ms.C. & Bs.C. in Applied Mathematics
-  url: "https://sonar.ch/global/documents/318738"
-  badge: "https://photos.google.com/u/1/album/AF1QipMRNbTBGdoEixXTksfZondciYFtdqQftu616PoS/photo/AF1QipMlsONfh12F1jzk6vmFCJR_1YxnimWzJGxGKuBA"
+# - type: certification
+#   name: PhD in Computational Science, Ms.C. & Bs.C. in Applied Mathematics
+#   url: "https://sonar.ch/global/documents/318738"
+#   badge: "https://photos.google.com/u/1/album/AF1QipMRNbTBGdoEixXTksfZondciYFtdqQftu616PoS/photo/AF1QipMlsONfh12F1jzk6vmFCJR_1YxnimWzJGxGKuBA"
 
 # - type: certification
 #   name: Istio and IBM Cloud Kubernetes Service
@@ -94,36 +109,64 @@ badges:
 #   url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
 #   badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
 
+#-----------
 - type: soft-skill-indicator
-  name: Leadership
-  percentage: 85
-  color: blue
+  name: Original Thinking
+  percentage: 100
+  color: "#ff9999"
 
 - type: soft-skill-indicator
-  name: Leadership
-  percentage: 85
-  color: blue
+  name: Improvisation # & Adaptability
+  percentage: 100
+  color: "#ff9999"
 
 - type: soft-skill-indicator
-  name: Leadership
-  percentage: 85
-  color: blue
+  name: Creativity #& Innovation
+  percentage: 95
+  color: "#ff9999"
+#-----------
+- type: soft-skill-indicator
+  name: Productivity Optimization
+  percentage: 100
+  color: "#fada5e"
 
 - type: soft-skill-indicator
-  name: Team Work
+  name: Troubleshooting
+  percentage: 100
+  color: "#fada5e"
+
+- type: soft-skill-indicator
+  name: Mentorship # & Hiring
   percentage: 90
-  color: yellow
+  color: "#fada5e"
+#-----------
+- type: soft-skill-indicator
+  name: Presentation
+  percentage: 95
+  color: "#87cefa"
 
 - type: soft-skill-indicator
-  name: Hard Working
+  name: Leadership
   percentage: 85
-  color: orange
+  color: "#87cefa"
+
+- type: soft-skill-indicator
+  name: Collaboration
+  percentage: 85
+  color: "#87cefa"
+#-----------
+# - type: soft-skill-indicator
+#   name: Results orientation with minimal resources
+#   percentage: 85
+#   color: green
 
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator
 #   name: Example 1
 #   percentage: 75
 #   color: "#00adb5"
+
+# "#008080"
 # blue
 # yellow
 # pink

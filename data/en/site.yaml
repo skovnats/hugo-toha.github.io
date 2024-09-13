@@ -5,7 +5,7 @@
 disclaimer: "All views are of my own."
 
 # Meta description for your site.  This will help the search engines to find your site.
-description: Portfolio and personal blog of Dr. Artiom Kovnatsky.
+description: Portfolio and personal site of Dr. Artiom Kovnatsky.
 
 # Change Navbar Title
 # navBarTitle: "Title"
@@ -26,6 +26,6 @@ customMenus:
 openGraph:
   title: Dr. Artiom Kovnatsky
   type: website
-  description: Portfolio and personal blog of Dr. Artiom Kovnatsky.
+  description: Portfolio and personal site of Dr. Artiom Kovnatsky.
   image: images/author/artiom_formal.jpg
   url: https://skovnats.github.io
