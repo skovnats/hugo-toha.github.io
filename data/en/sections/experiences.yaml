@@ -188,16 +188,22 @@ experiences:
     overview: "The Università della Svizzera italiana (USI, literally University of Italian Switzerland), is a public Swiss university established in 1995, with campuses in Lugano, Mendrisio and Bellinzona (Canton Ticino, Switzerland)."
   positions:
   - designation: Teacher Assistant
-    start: Sep 2012
-    end: Jun 2016
+    start: Sep 2011
+    end: Jun 2015
     responsibilities:
-    - 'Teaching assistant for the courses:<br><ul> <li>"Calculus" (Bachelor): Fall 2011, Fall 2012</li> <li>"Geometric Image Processing and Computer Vision" (Master): Spring 2013, Spring 2014</li> <li>"Geometric Shape Analysis" (Master): Fall 2013</li> <li>"Computer Vision & Pattern Recognition" (Master): Spring 2015</li></ul>'
+    # - 'Teaching assistant for the courses:<br><ul> <li>"Calculus" (Bachelor): Fall 2011, Fall 2012</li> <li>"Geometric Image Processing and Computer Vision" (Master): Spring 2013, Spring 2014</li> <li>"Geometric Shape Analysis" (Master): Fall 2013</li> <li>"Computer Vision & Pattern Recognition" (Master): Spring 2015</li></ul>'
+    - '"Computer Vision & Pattern Recognition" (Master): Spring 2015.'
+    - '"Geometric Shape Analysis" (Master): Fall 2013.'
+    - '"Geometric Image Processing and Computer Vision" (Master): Spring 2013, Spring 2014.'
+    - '"Calculus" (Bachelor): Fall 2011, Fall 2012.'
   - designation: Scientific Researcher
     start: Dec 2011
     end: Nov 2016
     responsibilities:
-    - Conducted advanced research under <a href="https://www.cs.ox.ac.uk/people/michael.bronstein/" target="_blank">Prof. Michael M. Bronstein</a>, with work published in top-tier <a href="https://scholar.google.com/citations?user=o_aLFucAAAAJ&hl=en&oi=ao" target="_blank">journals and conferences</a>.
-    - Delivered presentations across various international venues.
+    # - Conducted advanced research under <a href="https://www.cs.ox.ac.uk/people/michael.bronstein/" target="_blank">Prof. Michael M. Bronstein</a>, with work published in top-tier <a href="https://scholar.google.com/citations?user=o_aLFucAAAAJ&hl=en&oi=ao" target="_blank">journals and conferences</a>.
+    - Conducted research under <a href="https://www.cs.ox.ac.uk/people/michael.bronstein/" target="_blank">Prof. Michael M. Bronstein</a>, with work published in leading <a href="https://scholar.google.com/citations?user=o_aLFucAAAAJ&hl=en&oi=ao" target="_blank">journals and conferences</a>.
+    # - Delivered presentations across various international venues.
+    - Delivered presentations at prestigious international venues across the USA, China, Italy, Switzerland, France, Belgium, Germany, Luxembourg, and Spain, sharing insights and research on a global stage.
 
 #------------------------------------------------------------
 # supporting experiences

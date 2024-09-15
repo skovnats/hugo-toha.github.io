@@ -31,7 +31,7 @@ projects:
   role: Creator
   timeline: "Mar 2024 - Present"
   url: "http://www.artiomkovnatsky.com/"
-  summary: "Entrepreneurship and implementation of ideas outlined in Project Ω (Oméga). <br>Opa (Greek: ώπα) is a word or pronouncement of celebration; the celebration of life itself."
+  summary: "Entrepreneurship and implementation of ideas outlined in Project Ω (Ómega). <br>Opa (Greek: ώπα) is a word or pronouncement of celebration; the celebration of life itself."
   tags: ["hobby", "omega", "opa"]
 
 - name: Sports Betting
@@ -96,7 +96,7 @@ projects:
   summary: "Feature points (read corners) in images are points that invariant under view changes, zoom, lightening conditions etc."
   tags: ["professional", "math"]
 
-- name: Oméga
+- name: Ómega
   logo: /images/sections/projects/logo_Omega.png
   role: Creator
   timeline: "July 2020 - Present"

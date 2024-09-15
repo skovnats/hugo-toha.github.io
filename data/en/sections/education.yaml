@@ -143,6 +143,7 @@ degrees:
   extracurricularActivities: #(optional)
   - Group child tutor and mentor.
   - Boxing trainer assistant.
+  - Won a student running competition of 4 km.
 
 - name: High School Diploma
   icon: fa-school

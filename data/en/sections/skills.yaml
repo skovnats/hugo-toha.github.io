@@ -16,19 +16,19 @@ skills:
   summary: "Expertise in deriving actionable insights from flawed or sparse data, turning imperfect information into valuable business intelligence​."
   # url: "https://golang.org/"
 
-- name: 🔍📚 Data Science Expertise
-  # logo: /images/sections/skills/dsd.jpg
-  summary: "Mastery in extracting meaningful insights from complex data using advanced machine learning techniques. Proficient in Python, R, Scikit-Learn, TensorFlow, and PyTorch."
-  # url: "https://kubernetes.io/"
-
-- name: 🤖 Cloud Computing & MLOps
+- name: 🔓 Non-Standard Problem Solving
   # logo: /images/sections/skills/go.png
-  summary: "Proficient in building scalable data infrastructure and managing cloud deployments with tools such as MLFlow, AirFlow, Docker, and AWS."
+  summary: "Specialized in handling unique and rare data challenges, providing innovative solutions where conventional methods fall short.​"
   # url: "https://golang.org/"
 
-- name: 💻 Technical Consulting
+- name: 🎨✨ Improvisation and Creativity
   # logo: /images/sections/skills/go.png
-  summary: "Providing tailored consulting solutions, helping businesses navigate complex data challenges and improve operational efficiency."
+  summary: "Skilled in improvising and inventing tools to solve complex, unexpected problems in real-time, particularly in high-stakes environments​."
+  # url: "https://golang.org/"
+
+- name: 💡⚙️🧠 Innovation & Adaptability
+  # logo: /images/sections/skills/go.png
+  summary: "Known for adapting to new technologies and rapidly shifting environments, consistently exploring innovative tools and methodologies​."
   # url: "https://golang.org/"
 
 - name: 🗂️ Project Management
@@ -40,22 +40,6 @@ skills:
   # logo: /images/sections/skills/go.png
   summary: "Experienced in building, leading, and mentoring cross-functional data science teams, fostering a collaborative and growth-oriented environment​."
   # url: "https://golang.org/"
-
-- name: 💡⚙️🧠 Innovation & Adaptability
-  # logo: /images/sections/skills/go.png
-  summary: "Known for adapting to new technologies and rapidly shifting environments, consistently exploring innovative tools and methodologies​."
-  # url: "https://golang.org/"
-
-- name: 🎨✨ Improvisation and Creativity
-  # logo: /images/sections/skills/go.png
-  summary: "Skilled in improvising and inventing tools to solve complex, unexpected problems in real-time, particularly in high-stakes environments​."
-  # url: "https://golang.org/"
-
-- name: 🔓 Non-Standard Problem Solving
-  # logo: /images/sections/skills/go.png
-  summary: "Specialized in handling unique and rare data challenges, providing innovative solutions where conventional methods fall short.​"
-  # url: "https://golang.org/"
-
 
 - name: ♟️ Strategic Thinking
   # logo: /images/sections/skills/go.png
@@ -86,6 +70,22 @@ skills:
 - name: 🎯✅ Results-Oriented Approach
   # logo: /images/sections/skills/go.png
   summary: "Proven ability to deliver impactful results even under resource-constrained environments, with a strong focus on meeting business objectives​."
+  # url: "https://golang.org/"
+
+
+- name: 🔍📚 Data Science Expertise
+  # logo: /images/sections/skills/dsd.jpg
+  summary: "Mastery in extracting meaningful insights from complex data using advanced machine learning techniques. Proficient in Python, R, Scikit-Learn, TensorFlow, and PyTorch."
+  # url: "https://kubernetes.io/"
+
+- name: 🤖 Cloud Computing & MLOps
+  # logo: /images/sections/skills/go.png
+  summary: "Proficient in building scalable data infrastructure and managing cloud deployments with tools such as MLFlow, AirFlow, Docker, and AWS."
+  # url: "https://golang.org/"
+
+- name: 💻 Technical Consulting
+  # logo: /images/sections/skills/go.png
+  summary: "Providing tailored consulting solutions, helping businesses navigate complex data challenges and improve operational efficiency."
   # url: "https://golang.org/"
 
 # - name: 🌀 Flexibility & Resilience

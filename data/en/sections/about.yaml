@@ -113,47 +113,47 @@ badges:
 - type: soft-skill-indicator
   name: Original Thinking
   percentage: 100
-  color: "#ff9999"
+  color: "#00bbf9"
 
 - type: soft-skill-indicator
   name: Improvisation # & Adaptability
   percentage: 100
-  color: "#ff9999"
+  color: "#00bbf9"
 
 - type: soft-skill-indicator
   name: Creativity #& Innovation
   percentage: 95
-  color: "#ff9999"
+  color: "#00bbf9"
 #-----------
 - type: soft-skill-indicator
   name: Productivity Optimization
   percentage: 100
-  color: "#fada5e"
+  color: "#eb5e28"
 
 - type: soft-skill-indicator
   name: Troubleshooting
   percentage: 100
-  color: "#fada5e"
+  color: "#eb5e28"
 
 - type: soft-skill-indicator
   name: Mentorship # & Hiring
   percentage: 90
-  color: "#fada5e"
+  color: "#eb5e28"
 #-----------
 - type: soft-skill-indicator
   name: Presentation
   percentage: 95
-  color: "#87cefa"
+  color: "#0a9396"
 
 - type: soft-skill-indicator
   name: Leadership
   percentage: 85
-  color: "#87cefa"
+  color: "#0a9396"
 
 - type: soft-skill-indicator
   name: Collaboration
   percentage: 85
-  color: "#87cefa"
+  color: "#0a9396"
 #-----------
 # - type: soft-skill-indicator
 #   name: Results orientation with minimal resources
