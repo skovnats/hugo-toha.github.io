@@ -14,13 +14,15 @@ section:
 experiences:
 - company:
     name: Self-employed
-    # url: "https://www.example.com"
+    # url: "https://www.upwork.com/freelancers/~01ed48886816aa8edb"
+    url: "https://cal.read.ai/artiomkovnatsky"
     location: Berlin, Germany
     logo: /images/sections/experiences/freelance.jpg
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company1.jpg
     # company overview
-    overview: As a self-employed Data Scientist and Business Consultant, I specialize in delivering data-driven solutions, optimizing MLOps pipelines, and extracting value from complex datasets. I manage end-to-end projects, from consulting to deployment, focusing on efficiency and innovation. My work includes leading teams, implementing scalable infrastructures, and providing strategic insights to help businesses achieve their goals, even with limited resources.
+    # overview: As a self-employed Data Scientist and Business Consultant, I specialize in delivering data-driven solutions, optimizing MLOps pipelines, and extracting value from complex datasets. I manage end-to-end projects, from consulting to deployment, focusing on efficiency and innovation. My work includes leading teams, implementing scalable infrastructures, and providing strategic insights to help businesses achieve their goals, even with limited resources.
+    overview: As a self-employed Data Specialist, I deliver data-driven insights and solutions by extracting value from complex datasets. I manage end-to-end projects, from consulting to deployment, with a strong emphasis on data analysis, modelling, and scalability. My experience includes providing actionable insights that drive business success, even with limited resources, leading teams, and designing efficient data infrastructures.
   positions:
   - designation: Data Science & Engineering Consultant
     start: Sep 2019
@@ -28,8 +30,9 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Provided hands-on and consultancy services across various industries, specializing in machine learning, business analysis, MLOps, and working with “imperfect, “rare” data.
-    - Successfully managed and delivered high-stakes projects, consistently meeting tight deadlines and exceeding client expectations.
+    - Delivered hands-on expertise and consultancy services across diverse industries, specializing in machine learning, business analysis, MLOps, and handling “imperfect” and “rare” data.
+    - Led and executed high-impact projects, consistently meeting tight deadlines while surpassing client expectations.
+    - Secured grants by proposing innovative AI research projects that utilized unconventional data sources.
 
   # - designation: Junior Software Engineer
   #   start: Nov 2017
@@ -48,7 +51,7 @@ experiences:
     # darkLogo: /images/sections/experiences/company2.jpg
     overview: Lot Internet GmbH is a data provider that serves B2B clients across various industries, including real estate, automotive, career, e-commerce, and telecommunications. Its data is utilized for market research, competitor analysis, and customer insights by leading online marketplaces in these sectors.
   positions:
-  - designation: Data Science Product Developer
+  - designation: Senior Data Scientist & Consultant
     start: Oct 2023
     end: Jul 2024
     responsibilities:
@@ -63,7 +66,7 @@ experiences:
     # darkLogo: /images/sections/experiences/company3.jpg
     overview: Fuchs & Eule is a revolutionary operating system for investment properties. Buying and selling made incredible easy, from everywhere.
   positions:
-  - designation: Head of Data Science
+  - designation: Lead Data Scientist
     start: Sep 2021
     end: Nov 2022
     responsibilities:
@@ -131,8 +134,9 @@ experiences:
     start: Jan 2019
     end: Dec 2019
     responsibilities:
-    - Consulted Estonian Land Board on building an automatic land valuation engine for taxation purposes to replace the manual process.
-    - Developed a prototype evaluation engine for cadastral land units, forming the foundation for Estonia’s 2020-2021 land tax reform.
+    - Consulted the Estonian Land Board on automating land valuation for taxation, replacing the manual process.
+    - Developed a prototype valuation engine for cadastral units, laying the groundwork for Estonia's land tax reform.
+    # - Developed a prototype evaluation engine for cadastral land units, forming the foundation for Estonia’s 2020-2021 land tax reform.
 
 
 - company:
@@ -159,7 +163,7 @@ experiences:
     start: Feb 2017
     end: Feb 2018
     responsibilities:
-    - Created the HOMEDAY-estimation package, a core tool for automatic property evaluation used daily by the company.
+    - Developed the HOMEDAY-estimation package, a key tool for daily automatic property evaluation.
     - Developed the <a href="https://www.homeday.de/de/preisatlas" target="_blank">PREISATLAS</a> real estate price map, resulting in a 1500% increase in traffic and a 750% increase in qualified leads.
 
 

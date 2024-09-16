@@ -1,5 +1,5 @@
 ---
-title: "Φιλοσοφία"
+title: "Φιλοσοφία | Philosophy | Философия"
 date: 2020-06-08T08:06:25+06:00
 description: Introduction to my life's Philosophy
 menu:
@@ -48,16 +48,36 @@ I know that God exists. Having spent significant part of my life as an atheist a
 
 #### Values | Ценности
 {{< split 6 6>}}
-xxx
+<ol> 
+<li>Compassion and humanity</li>
+When interacting with people, I try to understand them, put myself in their shoes, and see the world through their eyes.
+<li>Honesty and the pursuit of truth</li>
+<li>Kindness</li>
+<li>Bravery and courage</li>
+<li>People, connection with the living</li>
+<li>Win-win solutions</li>
+<li>Simplicity and minimalism</li>
+<li>Adaptation</li>
+<li>I prefer when things <b>work in real life</b></li>
+<li>Power, money, and fame</li>
+<li>Freedom</li>
+</ol>
 ---
-- win-win
-- simplicity & minimalism
-- people & connections
-- Changes and bottlenecks
-- Fitting in
-- Seek for the truth
-- I like things that <b>work</b>
-- Power, money & fame
+<ol>
+<li>Сострадание и человечность</li>
+В общении с людьми я стараюсь понять их, поставить себя на их место и увидеть мир их глазами.
+<li>Честность и стремление к истине</li>
+Стремлюсь быть честным с собой и окружающими.
+<li>Доброта</li>
+<li>Храбрость и мужество</li>
+<li>Люди, связь с живым</li>
+<li>Взаимовыгодные решение</li>
+<li>Простота и минимализм</li>
+<li>Адаптация</li>
+<li>Я предпочитаю, когда вещи <b>работают в жизни</b></li>
+<li>Власть, деньги и слава</li>
+<li>Свобода</li>
+</ol>
 {{< /split >}}
 
 
@@ -70,9 +90,10 @@ xxx
 ---
 {{< alert type="secondary" >}}
 Обратите внимание, что всё высказанное основано на моём личном опыте — возможно, это не отражает общую ситуацию... надеюсь, что так. 
- <!-- `type="info"`. -->
 {{< /alert >}}
+
 xxx
+
 {{< /split >}}
 
 #### The Meaning Behind the Symbols | Смысл символов
