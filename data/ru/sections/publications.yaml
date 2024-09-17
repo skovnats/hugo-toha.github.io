@@ -2,9 +2,9 @@
 section:
   name: Publications
   id: publications
-  enable: true
-  weight: 6
-  showOnNavbar: true
+  enable: false
+  weight: 7
+  showOnNavbar: false
   # Can optionally hide the title in sections
   # hideTitle: true
 
@@ -38,7 +38,7 @@ publications:
   paper:
     summary: Voluptate in id id voluptate laboris. Minim mollit aliquip sit aliqua ut exercitation voluptate eiusmod consequat pariatur sunt enim veniam. Velit esse tempor laboris anim tempor officia. Magna non labore duis do esse sit do ipsum culpa. Officia consequat id non duis culpa dolor. Excepteur magna non nostrud cupidatat aute aliqua aliquip.
     url: https://example.com
-  categories: ["machinelearning","image-processing"]
+  categories: ["machinelearning", "image-processing"]
   tags: ["Machine Learning", "Autonomous Driving", "Computer Vision"]
 
 - title: An Sample Paper on Image Processing

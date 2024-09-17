@@ -2,7 +2,8 @@
 # copyright: © 2020 Copyright.
 
 # A disclaimer notice for the footer. Make sure you have set "params.footer.disclaimer.enable: true" in your `config.yaml` file.
-disclaimer: "All views are of my own."
+# disclaimer: "All views are of my own.<br>{{< alert type="secondary" >}}xxx{{< /alert >}}"
+disclaimer: "All views expressed are my own.<br>❕I’d appreciate your help: if you know someone who could benefit from my skills, please contact us."
 
 # Meta description for your site.  This will help the search engines to find your site.
 description: Portfolio and personal site of Dr. Artiom Kovnatsky.

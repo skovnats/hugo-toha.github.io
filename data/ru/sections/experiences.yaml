@@ -3,71 +3,444 @@ section:
   name: Experiences
   id: experiences
   enable: true
-  weight: 3
+  weight: 4
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true 
 
+#! You can use markdown syntax in overview field of company section and responsibilities field.
+
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
-    logo: /images/sections/experiences/company1.jpg
+    name: Self-employed
+    # url: "https://www.upwork.com/freelancers/~01ed48886816aa8edb"
+    url: "https://cal.read.ai/artiomkovnatsky"
+    location: Berlin, Germany
+    logo: /images/sections/experiences/freelance.jpg
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company1.jpg
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    # overview: As a self-employed Data Scientist and Business Consultant, I specialize in delivering data-driven solutions, optimizing MLOps pipelines, and extracting value from complex datasets. I manage end-to-end projects, from consulting to deployment, focusing on efficiency and innovation. My work includes leading teams, implementing scalable infrastructures, and providing strategic insights to help businesses achieve their goals, even with limited resources.
+    overview: As a self-employed Data Specialist, I deliver data-driven insights and solutions by extracting value from complex datasets. I manage end-to-end projects, from consulting to deployment, with a strong emphasis on data analysis, modelling, and scalability. My experience includes providing actionable insights that drive business success, even with limited resources, leading teams, and designing efficient data infrastructures.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Data Science & Engineering Consultant
+    start: Sep 2019
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Delivered hands-on expertise and consultancy services across diverse industries, specializing in machine learning, business analysis, MLOps, and handling “imperfect” and “rare” data.
+    - Led and executed high-impact projects, consistently meeting tight deadlines while surpassing client expectations.
+    - Secured grants by proposing innovative AI research projects that utilized unconventional data sources.
 
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+  # - designation: Junior Software Engineer
+  #   start: Nov 2017
+  #   end: Oct 2019
+  #   responsibilities:
+  #   - Implement and test xyz feature for abc tool.
+  #   - Support client for abc tool.
+  #   - Learn k,d,w technology for xyz.
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    logo: /images/sections/experiences/company2.jpg
+    name: Lot Internet GmbH
+    url: "https://www.lot-internet.com/"
+    location: Berlin, Germany
+    logo: /images/sections/experiences/lot_logo.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company2.jpg
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    overview: Lot Internet GmbH is a data provider that serves B2B clients across various industries, including real estate, automotive, career, e-commerce, and telecommunications. Its data is utilized for market research, competitor analysis, and customer insights by leading online marketplaces in these sectors.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Senior Data Scientist & Consultant
+    start: Oct 2023
+    end: Jul 2024
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Developed cutting-edge data science products for clients, focusing on vehicle data analytics, including projects for Skoda GmbH.
 
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    logo: /images/sections/experiences/company3.jpg
+    name: "Fuchs & Eule GmbH (ex: Valyria Technology GmbH)"
+    url: "https://www.crunchbase.com/organization/valyria"
+    location: Berlin & Brandenburg, Germany
+    logo: /images/sections/experiences/fal_logo.jpeg
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company3.jpg
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    overview: Fuchs & Eule is a revolutionary operating system for investment properties. Buying and selling made incredible easy, from everywhere.
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Lead Data Scientist
+    start: Sep 2021
+    end: Nov 2022
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Established and led the data science department, managing a decentralized team with a flat hierarchy.
+    - Defined vision, strategy, and tech stack, driving the successful delivery of data science projects on schedule.
+
+
+- company:
+    name: SKF Group
+    url: "https://www.skf.com/group"
+    location: Berlin, Germany & Haifa, Israel
+    logo: /images/sections/experiences/skf.svg
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/experiences/company3.jpg
+    overview: SKF (Svenska Kullagerfabriken) is a leading global supplier of bearings, seals, lubrication systems, and services that include technical support, maintenance, condition monitoring, and reliability engineering. SKF acquired the Israeli startup Presenso in 2019. Presenso, based in Haifa, specializes in developing AI-based predictive maintenance software. Their technology uses machine learning algorithms to detect industrial machine failures before they happen.
+  positions:
+  - designation: Data Scientist
+    start: Mar 2021
+    end: Sep 2021
+    responsibilities:
+    - Collaborated in a specialized team to develop survival models for predictive maintenance, optimizing machine maintenance schedules.
+
+- company:
+    name: "Kenjo GmbH (ex: Org OS GmbH)"
+    url: "https://www.kenjo.io/"
+    location: Berlin, Germany
+    logo: /images/sections/experiences/kenjo.jpg
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/experiences/company2.jpg
+    overview: Kenjo is the all in one HR software for managing the workforce of companies in the industrial, service and commercial sectors, among others.
+  positions:
+  - designation: Data Science Consultant
+    start: May 2018
+    end: Jul 2020
+    responsibilities:
+    - Consulted the CEO on developing a predictive analytics engine for HR data.
+    - Authored a successful grant proposal, securing €1.2M in funding for the project.
+    - Provided critical last-minute project support, delivering solutions under tight deadlines.
+
+- company:
+    name: Lot Internet GmbH
+    url: "https://www.lot-internet.com/"
+    location: Berlin, Germany
+    logo: /images/sections/experiences/lot_logo.png
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/experiences/company2.jpg
+    # overview: Lot Internet GmbH is a data provider that serves B2B clients across various industries, including real estate, automotive, career, e-commerce, and telecommunications. Its data is utilized for market research, competitor analysis, and customer insights by leading online marketplaces in these sectors.
+  positions:
+  - designation: Data Science & Engineering Consultant
+    start: Apr 2020
+    end: Apr 2020
+    responsibilities:
+    - Consulted on data science and business strategy for a new product launch.
+
+- company:
+    name: Estonian Government - Estonian Land Board
+    url: "https://maaamet.ee/en"
+    location: Tallinn, Estonia
+    logo: /images/sections/experiences/maaamet.png
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/experiences/company2.jpg
+    overview: Estonian Land Board is a government agency responsible for managing land resources, including cadastral data, land use planning, and land valuation. The agency is also responsible for maintaining the national geodetic system and providing geospatial data services. The Estonian Land Board is a key player in the Estonian government's digital transformation initiatives, in particular land taxation digitalization.
+  positions:
+  - designation: Data Science & Engineering Consultant
+    start: Jan 2019
+    end: Dec 2019
+    responsibilities:
+    - Consulted the Estonian Land Board on automating land valuation for taxation, replacing the manual process.
+    - Developed a prototype valuation engine for cadastral units, laying the groundwork for Estonia's land tax reform.
+    # - Developed a prototype evaluation engine for cadastral land units, forming the foundation for Estonia’s 2020-2021 land tax reform.
+
+
+- company:
+    name: HOMEDAY GmbH
+    url: "https://www.homeday.de/de/"
+    location: Berlin, Germany
+    logo: /images/sections/experiences/homeday.jpg
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/experiences/company2.jpg
+    overview: Homeday is one of Germany's largest platforms to find the best local agents and sell properties.
+  positions:
+  - designation: Data Scientist Consultant
+    start: Oct 2019
+    end: Apr 2020
+    responsibilities:
+    - Presented work at conferences, consistently recognized as one of the top speakers.
+    - Proposed and presented innovative business models, influencing company strategy.
+  - designation: Data Scientist & Business Analyst
+    start: March 2018
+    end: Sep 2019
+    responsibilities:
+    - Enhanced business processes through data-driven insights (e.g., potential clients ranking system).
+  - designation: Data Scientist
+    start: Feb 2017
+    end: Feb 2018
+    responsibilities:
+    - Developed the HOMEDAY-estimation package, a key tool for daily automatic property evaluation.
+    - Developed the <a href="https://www.homeday.de/de/preisatlas" target="_blank">PREISATLAS</a> real estate price map, resulting in a 1500% increase in traffic and a 750% increase in qualified leads.
+
+
+- company:
+    name: Technicolor Group
+    url: "https://www.technicolor.com/"
+    location: Rennes, Brittany, France
+    logo: /images/sections/experiences/technicolor.jpg
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/experiences/company2.jpg
+    overview: "Technicolor Group is a creative technology company providing world-class production expertise. Home to a network of award-winning studios, MPC, The Mill, Mikros Animation and Technicolor Games."
+  positions:
+  - designation: Researcher
+    start: Jun 2014
+    end: Aug 2014
+    responsibilities:
+    - "Research & development in Image Processing: Technicolor submitted a patent."
+
+- company:
+    name: USI-Università della Svizzera italiana
+    url: "https://www.usi.ch/en"
+    location: Lugano, Switzerland
+    logo: /images/sections/experiences/usi.png
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/experiences/company2.jpg
+    overview: "The Università della Svizzera italiana (USI, literally University of Italian Switzerland), is a public Swiss university established in 1995, with campuses in Lugano, Mendrisio and Bellinzona (Canton Ticino, Switzerland)."
+  positions:
+  - designation: Teacher Assistant
+    start: Sep 2011
+    end: Jun 2015
+    responsibilities:
+    # - 'Teaching assistant for the courses:<br><ul> <li>"Calculus" (Bachelor): Fall 2011, Fall 2012</li> <li>"Geometric Image Processing and Computer Vision" (Master): Spring 2013, Spring 2014</li> <li>"Geometric Shape Analysis" (Master): Fall 2013</li> <li>"Computer Vision & Pattern Recognition" (Master): Spring 2015</li></ul>'
+    - '"Computer Vision & Pattern Recognition" (Master): Spring 2015.'
+    - '"Geometric Shape Analysis" (Master): Fall 2013.'
+    - '"Geometric Image Processing and Computer Vision" (Master): Spring 2013, Spring 2014.'
+    - '"Calculus" (Bachelor): Fall 2011, Fall 2012.'
+  - designation: Scientific Researcher
+    start: Dec 2011
+    end: Nov 2016
+    responsibilities:
+    # - Conducted advanced research under <a href="https://www.cs.ox.ac.uk/people/michael.bronstein/" target="_blank">Prof. Michael M. Bronstein</a>, with work published in top-tier <a href="https://scholar.google.com/citations?user=o_aLFucAAAAJ&hl=en&oi=ao" target="_blank">journals and conferences</a>.
+    - Conducted research under <a href="https://www.cs.ox.ac.uk/people/michael.bronstein/" target="_blank">Prof. Michael M. Bronstein</a>, with work published in leading <a href="https://scholar.google.com/citations?user=o_aLFucAAAAJ&hl=en&oi=ao" target="_blank">journals and conferences</a>.
+    # - Delivered presentations across various international venues.
+    - Delivered presentations at prestigious international venues across the USA, China, Italy, Switzerland, France, Belgium, Germany, Luxembourg, and Spain, sharing insights and research on a global stage.
+
+#------------------------------------------------------------
+# supporting experiences
+#------------------------------------------------------------
+
+- company:
+    name: Part-time jobs during mainly my Bachelor's degree
+    # url: "https://www.facebook.com/Yagur.Ultrasound/"
+    location: Israel and Ukraine
+    logo: /images/sections/experiences/parttimejobs.jpg
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/experiences/company2.jpg
+    overview: "When I emigrated to Israel at 17 from Ukraine, I had to learn Hebrew, pass entrance exams, and study at one of the best technical institutes in the world - Technion. While pursuing my bachelor's degree, I had to support myself financially and help my family by simultaneously working multiple jobs, often night shifts after lectures, including during summer holidays.<br><br><b>Lessons and skills learned:</b><ol><li>Adaptability and Multitasking</li><li>Teamwork and Collaboration</li><li>Resilience and Endurance</li><li>Problem-Solving and Initiative</il><li>Leadership and Mentorship</il><li>Responsibility and Accountability</il><li>Work Ethic and Discipline</il><li>Customer Service and Attention to Detail</il><li>Stress Management and Alertness</il><li>Physical and Mental Resilience</il><li>Making the Best of Any Situation</li></ol><br>"
+  positions:
+  - designation: Light DJ # 🎛️🌈🎶
+    start: Oct 2006
+    end: Jun 2008
+    responsibilities:
+    - Worked as a light DJ in <a href="https://www.facebook.com/Yagur.Ultrasound/" target="_blank">Ultrasound</a>.
+  - designation: Fisherman of sharks # 🦈🚤🎣
+    start: Jun 2005
+    end: Aug 2005
+    responsibilities:
+    - Worked as a fisherman on a small boat, catching sharks in the Mediterranean. Shifts lasted 2-3 days at sea with minimal rest. Took turns steering the boat and staying alert throughout. # Sharks were sold at auction in Haifa Kishon port.
+  - designation: Boxing trainer assistant # 🥋🥊🤝
+    start: Mar 2003
+    end: Dec 2007
+    responsibilities:
+    - Assisted boxing training at <a href="https://www.technion.ac.il/en/about/why-choose-technion/sports-center" target="_blank">the Technion Sports Center</a>, helping with sessions, setting up equipment, and providing feedback to students.
+  - designation: Computer administrator # 💻🛠️👨‍💻
+    start: Mar 2005
+    end: Dec 2008
+    responsibilities:
+    - Worked as a computer administrator at <a href="https://ece.technion.ac.il/" target="_blank">EE Technion Faculty</a>, setting up computers, installing software, and providing support for faculty members.
+  - designation: Loader at Palestinian territories # 🚚🇵🇸🇮🇱
+    start: Aug 2005
+    end: Aug 2005
+    responsibilities:
+    - Traveled to Palestine to assist in relocating the Gush Katif population to Israeli territories. <a href="https://en.wikipedia.org/wiki/Gush_Katif" target="_blank">Gush Katif</a> was a bloc of Israeli settlements in the Gaza Strip, evacuated during Israel's 2005 disengagement.
+  - designation: Group child tutor # 👨‍🏫🧒👩‍👧‍👦📚
+    start: Sep 2004
+    end: May 2011
+    responsibilities:
+    - Mentored and tutored children aged 7-12, working with one or two classes each year, every Friday.
+    - In 2011, received an award as one of the best tutors in Israel.
+  - designation: Child mentor # 🧑‍🏫👧👦💡
+    start: Sep 2002
+    end: May 2004
+    responsibilities:
+    - Mentored children from underprivileged backgrounds weekly through the <a href="https://www.perach.org.il/Perach-a-National-program-for-social-impact" target="_blank">PERACH</a> program, focusing on support, self-confidence, and peer integration. Formed lasting connections with one child and his family.
+  - designation: Dishwasher at a restaurant # 🍽️🧼🚿
+    start: Apr 2002
+    end: Dec 2003
+    responsibilities:
+    - Worked night shifts as a dishwasher at a Japanese restaurant after my classes.
+  - designation: Construction and renovations assistant # 🏗️🔨🧰
+    start: Jun 2005
+    end: Jul 2005
+    responsibilities:
+    - Worked as a construction and renovations assistant during summer, helping with painting, plastering, and cleaning.
+  - designation: Watchman and warehouse worker # 🕰️🔐📦
+    start: Jun 2007
+    end: Aug 2007
+    responsibilities:
+    - Worked as a warehouse worker and watchman at <a href="https://www.osem-nestle.co.il/" target="_blank">Osem</a> during summer, managing inventory and ensuring security.
+  - designation: Plantation worker in onions and vegetables fields
+    start: Jul 2001
+    end: Oct 2001
+    responsibilities:
+    - Gathered onions and vegetables on plantations before immigrating to Israel. Worked long hours in the fields with my family, selling the produce to make ends meet.
+  - designation: Loader at a wheat mill
+    start: May 1999
+    end: May 2001
+    responsibilities:
+    - My first job was unloading grain at a wheat mill after the fall of the USSR to support my family. The physically demanding work involved long hours and manual labor with large shovels.
+
+
+
+  # - company:
+  #     name: Gush Katif
+  #     url: "https://en.wikipedia.org/wiki/Gush_Katif"
+  #     location: Gaza
+  #     logo: /images/sections/experiences/gazagush.png
+  #     # Can optionally show a different logo for dark theme
+  #     # darkLogo: /images/sections/experiences/company2.jpg
+  #     overview: "Gush Katif (Hebrew: גוש קטיף, lit. 'Harvest Bloc') was a bloc of 17 Israeli settlements in the southern Gaza Strip. In August 2005, the Israel Defense Forces removed the 8,600 Israeli residents from their homes after a decision from the Cabinet of Israel. The communities were demolished as part of Israel's unilateral disengagement from Gaza."
+  # - company:
+  #     name: Fishing boat
+  #     # url: "https://www.lot-internet.com/"
+  #     location: Haifa, Israel
+  #     logo: /images/sections/experiences/sharks_fishing.jpg
+  #     # Can optionally show a different logo for dark theme
+  #     # darkLogo: /images/sections/experiences/company2.jpg
+  #     overview: "It was a small fishing boat for six people: one captain, one technician, and four fishermen. The boat went shark fishing in the Mediterranean Sea. Originally meant for tuna fishing, it was repurposed during the off-season to catch sharks. The sharks were later sold at auction in the Haifa Kishon port."
+  #   positions:
+  #   - designation: Fisherman of sharks
+  #     start: Jun 2005
+  #     end: Aug 2005
+  #     responsibilities:
+  #     - I used to work as a fisherman. Our shifts involved being at sea for 2-3 days and then spending 1-2 days on shore for rest. While at sea, we took turns steering the boat when not fishing for the captain to sleep. We usually got around 3-4 hours of sleep, with a 1-1.5 hour break for the captain to rest. The work required us to stay constantly alert, respond to alarms, and stand for almost the entire time.
+
+  # - company:
+  #     name: Yagur.Ultrasound
+  #     url: "https://www.facebook.com/Yagur.Ultrasound/"
+  #     location: Yagur, Israel
+  #     logo: /images/sections/experiences/ldj.webp
+  #     # Can optionally show a different logo for dark theme
+  #     # darkLogo: /images/sections/experiences/company2.jpg
+  #     overview: The largest dance club and nightclub in the northern part of Israel.
+  #   positions:
+  #   - designation: Light DJ
+  #     start: Oct 2006
+  #     end: Jun 2008
+  #     responsibilities:
+  #     - I used to work as a light DJ on the R&B dance floor every weekend.
+
+  # - company:
+  #     name: Technion – Israel Institute of Technology
+  #     url: "https://www.technion.ac.il/en/about/why-choose-technion/sports-center/"
+  #     location: Haifa, Israel
+  #     logo: /images/sections/experiences/box.jpg
+  #     # Can optionally show a different logo for dark theme
+  #     # darkLogo: /images/sections/experiences/company2.jpg
+  #     overview: The Technion Sports Center, located on the Technion campus in Haifa, offers a wide range of sports activities and classes.
+  #   positions:
+  #   - designation: Boxing trainer assistant
+  #     start: Mar 2003
+  #     end: Dec 2007
+  #     responsibilities:
+  #     - I worked as an assistant boxing trainer, helping with training sessions, setting up equipment, assisting with exercises, and providing student feedback.
+
+
+  # - company:
+  #     name: Technion – Israel Institute of Technology
+  #     url: "https://ece.technion.ac.il/"
+  #     location: Haifa, Israel
+  #     logo: /images/sections/experiences/pc.jpg
+  #     # Can optionally show a different logo for dark theme
+  #     # darkLogo: /images/sections/experiences/company2.jpg
+  #     overview: The Technion Electrical Engineering Department is one of the largest departments in the Technion, with a wide range of research areas and labs.
+  #   positions:
+  #   - designation: Computer administrator
+  #     start: Mar 2005
+  #     end: Dec 2008
+  #     responsibilities:
+  #     - I worked as a computer administrator, assisting with setting up computers, installing software, and providing support for faculty members.
+
+
+  # positions:
+  # - designation: Loader
+  #   start: Aug 2005
+  #   end: Aug 2005
+  #   responsibilities:
+  #   - I traveled to Palestine for several days to assist in relocating the Gush Katif population to Israeli territories.
+
+# - company:
+#     name: PERACH
+#     url: "https://www.perach.org.il/Perach-a-National-program-for-social-impact"
+#     location: Israel
+#     logo: /images/sections/experiences/kids.jpg
+#     # Can optionally show a different logo for dark theme
+#     # darkLogo: /images/sections/experiences/company2.jpg
+#     overview: <a href=""https://www.perach.org.il/Perach-a-National-program-for-social-impact" target="_blank">PERACH</a> is a national Israeli program for social impact. "PERACH" also means "flower" in Hebrew. The program pairs up needy children from underprivileged backgrounds with university students who act as tutors. This allows the children to receive personal attention that they often lack and gives them a positive role model. The care and support that PERACH children receive from their mentors helps them realize their potential and develop into motivated individuals.
+#   positions:
+#   - designation: Group child tutor
+#     start: Sep 2004
+#     end: May 2011
+#     responsibilities:
+#     - I mentored and tutored a group of children aged 7-12 in school. I usually worked with one or two classes per year, coming in every Friday. In 2011, I was honored with an award as one of the best tutors in Israel.
+#   - designation: Child mentor
+#     start: Sep 2002
+#     end: May 2004
+#     responsibilities:
+#     - I mentored children from underprivileged backgrounds, meeting with them once a week. It was less about education and more about providing support, making them believe in themselves, and encouraging them to become better versions of themselves. I also helped them integrate into groups with their peers. I used to meet with each kid for a year and formed lasting connections with one of them and his family afterwards.
+
+# - company:
+#     name: Onions and vegetables fields
+#     # url: "https://en.wikipedia.org/wiki/Gush_Katif"
+#     location: Nikolaev, Ukraine
+#     logo: /images/sections/experiences/onions.jpg
+#     # Can optionally show a different logo for dark theme
+#     # darkLogo: /images/sections/experiences/company2.jpg
+#     overview: Before immigrating to Israel with my family, we had to make ends meet, especially after my parents had quit their jobs (both worked as school teachers). Through a friend, my parents found a job working in the fields, gathering different vegetables. Most days, we worked at plantations belonging to Koreans to gather onions. The pay was 20 KG of onions per person for 8-9 hours. Almost all day, one needed to be seated on the land and work in such a position to gather onions. Every day, we woke up at 4:30 AM, and at 5:45 AM, we gathered with other people at a particular location, from which a big car took us to the fields. My mother found a woman in the market who agreed to buy the onions from us, and that's how we converted them into money.
+#   positions:
+#   - designation: Plantation worker
+#     start: Jul 2001
+#     end: Oct 2001
+#     responsibilities:
+#     - Gather onions and other vegetables from the fields.
+
+
+# - company:
+#     name: Wheat mill
+#     # url: "https://en.wikipedia.org/wiki/Gush_Katif"
+#     location: Nikolaev, Ukraine
+#     logo: /images/sections/experiences/grain.jpg
+#     # Can optionally show a different logo for dark theme
+#     # darkLogo: /images/sections/experiences/company2.jpg
+#     overview: After the fall of the USSR, due to economic difficulties, I had to start working to financially support my family. At 15 years old, I began working at a wheat mill that belonged to the uncle of my friend. It was manual labor with large shovels, often requiring long hours, and sometimes late into the night. The pay was considered to be very good, at 2 UAH per 1000 KG of unloaded grain per team.
+#   positions:
+#   - designation: Loader
+#     start: May 1999
+#     end: May 2001
+#     responsibilities:
+#     - This marked my first work experience. Our task was to unload grain from trucks and load it into the mill. The job was extremely physically demanding and required us to constantly wear masks in order to breathe the air.
+
+
+# - company:
+#     name: Wheat mill
+#     # url: "https://en.wikipedia.org/wiki/Gush_Katif"
+#     location: xxx
+#     logo: /images/sections/experiences/dishwasher2.jpg
+#     # Can optionally show a different logo for dark theme
+#     # darkLogo: /images/sections/experiences/company2.jpg
+#     overview: xxx
+#   positions:
+#   - designation: dishwasher
+#     start: xxx
+#     end: xxx
+#     responsibilities:
+#     - xxx
+
+# - company:
+#     name: Wheat mill
+#     # url: "https://en.wikipedia.org/wiki/Gush_Katif"
+#     location: xxx
+#     logo: /images/sections/experiences/build.jpg
+#     # Can optionally show a different logo for dark theme
+#     # darkLogo: /images/sections/experiences/company2.jpg
+#     overview: xxx
+#   positions:
+#   - designation: dishwasher
+#     start: xxx
+#     end: xxx
+#     responsibilities:
+#     - xxx

@@ -76,7 +76,7 @@ socialLinks:
 # For example, you can put link for your resume.
 resourceLinks:
 - title: "Self-Intro"
-  url: "files/self_introduction_eng.pdf"
+  url: "files/self_introduction.pdf"
 - title: "CV"
   url: "files/cv_ArtiomKovnatsky.pdf"
 # - title: "QR Code"

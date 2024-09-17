@@ -19,16 +19,21 @@ module:
 # Manage languages
 # For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
 languages:
-  en:
-    languageCode: en
-    languageName: English
-    title: "Artiom Kovnatsky: Portfolio & Blog"
-    weight: 2
   ru:
     languageCode: ru
     languageName: Русский
     title: "Артём Ковнацкий: Портфолио & Блог"
     weight: 1
+  de:
+    languageCode: de
+    languageName: Deutsch
+    title: "Artiom Kovnatsky: Portfolio & Blog"
+    weight: 2
+  en:
+    languageCode: en
+    languageName: English
+    title: "Artiom Kovnatsky: Portfolio & Blog"
+    weight: 3
 # default language for the content
 defaultContentLanguage: en
 
@@ -185,7 +190,7 @@ params:
 
     # specify whether you want to show Table of Contents in reading page
     toc:
-      enable: true
+      enable: false
 
     # Show tags under the post title
     tags:
@@ -300,4 +305,4 @@ params:
 
     # Show/hide disclaimer notice in the footer. Default is "false".
     disclaimer:
-      enable: false
+      enable: true

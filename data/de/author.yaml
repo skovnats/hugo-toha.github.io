@@ -1,0 +1,36 @@
+# some information about you
+name: "Artiom Kovnatsky"
+nickname: "Art(iom), from greek Αρτέμιος"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Welcome, I am "
+image: "images/author/artiom_formal.jpg"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "artiomkovnatsky@pm.me"
+  phone: "+4917 630162834"
+  linkedin: artiomkovnatsky
+  # github: skovnats
+  # upwork: "[upwork](https://www.upwork.com/freelancers/~01ed48886816aa8edb)"
+  # stack-overflow:
+  # icon: stack-overflow
+  # url: "https://stackoverflow.com/users/1/exampleUser"
+  # text: "ExampleUser"
+
+# some summary about what you do
+summary:
+- I'm a Data Professional and Mentoring Coach
+- I'm good at extracting value from imperfect data
+- I can deal with rare cases
+- I like solving complex problems
+# - I'm flexible with regards to instruments and approaches
+- See below for professional information and my posts for personal views
+
+# - I am a Human
+# - I am a Mathematician
+# - I am a Data Scientist & Analyst
+# - I am a Machine Learning Engineer
+# - I am a Mentoring Coach
+# - I Specialise in "Poor" or Rara Data
+# - I am a Researcher
+# - I am Spiritual Practitioner
+# - I love to read, write, and share knowledge

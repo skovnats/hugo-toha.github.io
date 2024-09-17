@@ -12,7 +12,7 @@ section:
 # Your accomplishments
 accomplishments:
 - name: The Complete Project Management Course for Beginners
-  timeline: "July 2020"
+  timeline: "Jul 2020"
   organization:
     name: Udemy
     url: https://www.udemy.com/course/one-month-project-management/
@@ -20,12 +20,29 @@ accomplishments:
   certificateURL: "https://www.udemy.com/certificate/UC-V09T173Q/"
 
 - name: Strategy for Management Consultants & Business Analysts
-  timeline: "December 2020 - January 2021"
+  timeline: "Dec 2020 - Jan 2021"
   organization:
     name: Udemy
     url: https://www.udemy.com/course/strategy-for-management-consultants-business-analysts/
   courseOverview: This course provides a comprehensive framework for creating and executing business strategies at a high level, comparable to top consulting firms like McKinsey, BCG, and PwC. It is designed for management consultants, business analysts, and entrepreneurs who want to master strategy formulation and implementation. Through case studies and practical examples, the course teaches how to choose the optimal strategic options, calculate their impact, and execute them effectively. Participants will gain valuable skills in data analysis, Excel-based decision-making, and structuring complex business issues.
   certificateURL: "https://www.udemy.com/certificate/UC-7deb5b0c-ab30-42d9-b91f-f79d9bac026c/"
+
+- name: telc Deutsch B1
+  timeline: "Jan 2019"
+  organization:
+    name: Kapitel Zwei
+    url: https://kapitel-zwei.de/telc-deutsch-berlin/
+  courseOverview: Deutsch B1, exam.
+  certificateURL: "https://www.dropbox.com/scl/fi/9e8grokvq8d6t2r4t6cly/DrArtiomKovnatsky_B1-telc.pdf?rlkey=n519ph17osah7mhiqo87ev91y&dl=0"
+
+- name: Deutschkurs und Berufssprachprüfung B2
+  timeline: "Apr 2023 - Aug 2023"
+  organization:
+    name: Hartnack Schule
+    url: https://www.hartnackschule-berlin.de/de/berufssprachkurse
+  courseOverview: Deutsch B2, course and exam.
+  certificateURL: "https://www.dropbox.com/scl/fi/cap689z2trr7qdjq7h3yq/DrArtiomKovnatsky_B2-telc_DKB.pdf?rlkey=61ndfa59ers8ajeu2gwfk6q38&dl=0"
+
 
 
 # - name: Machine Learning

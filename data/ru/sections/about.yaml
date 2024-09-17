@@ -20,7 +20,7 @@ designation: Data Professional | Mentoring Coach
 
 
 # a summary about you
-summary: 'Меня зовут Артём Ковнацкий, также иногда использую прозвище Мастер Сплинтер — мудрая крыса-учитель из черепашек-ниндзя. Это мой персональный сайт, где можно найти как профессиональную информацию, так и личные размышления. В разделе «Посты» находятся публикации на интересующие меня темы, включая очерк моей жизненной "Философии" и "Метафорическую автобиографию". <br> Из-за специфики моего жизненного опыта, бывает трудно подобрать точные слова для самовыражения, поэтому я использую метафоры. Но для начала, немного формальной информации: <br><br> Артём Ковнацкий, кандидат наук, высококвалифицированный Data Scientist и бизнес-аналитик с большим опытом предоставления комплексных услуг в области данных. Специализируюсь на науке о данных, бизнес-анализе, MLOps и консалтинге. Известен своей способностью извлекать бизнес-ценность из "плохих" или "редких" данных даже в сложных условиях. Успешно реализую проекты с высокой степенью риска, соблюдая сроки и обеспечивая высочайшее качество. Проявляю лидерские качества в формировании и наставничестве межфункциональных команд для достижения стратегических целей, используя инновационные инструменты и методологии с фокусом на эффективность. <br><br> Теперь, когда формальная часть завершена, перейду к неформальной. Моя жизнь складывалась таким образом, что каждые 3–6 месяцев, а иногда и несколько раз в день, я, образно говоря, "переезжал" в новую "страну". Мне приходилось постоянно учиться, адаптироваться, импровизировать и решать задачи с минимальными ресурсами. То, чему учат в умных книгах про стартапы — гибкость, стратегическое мышление, умение работать с ограниченными ресурсами, внимание к деталям и предвидение возможностей — для меня стало вопросом выживания. Эти навыки отточены у меня до совершенства. <br><br> Однако, человек создан не только для выживания, но и для жизни. Поэтому долгое время я занимался развитием внутреннего мира, практиковал медитации и духовные практики, чтобы обрести гармонию с собой и окружающим миром. В июле 2020 года я посвятил себя глубокой практике, которая помогла мне разрешить внутренние противоречия и найти ответы на важные вопросы. В ходе этого процесса я временно "вышел из социума". Однако я решил вернуться, чтобы поделиться тем, что осознал, и жить среди людей. Надеюсь, мне удастся донести свои мысли через статьи, видео, лекции, презентации или предпринимательство. Буду рад новым знакомствам!'
+summary: 'My name is Artiom, I also sometimes use the nickname Master Splinter 🐀 🥋, the wise rat-teacher from the Ninja Turtles. This is my personal website, where you can find both professional information and personal reflections. The posts section contains publications on topics of interest to me, including an outline of my life''s "Philosophy" and "Metaphorical Autobiography".<br>Because of the specifics of my life experiences, it can be difficult to find the exact words to express myself, so I use metaphors. But first, a bit of formal introduction:<br><br><blockquote> Artiom Kovnatsky, PhD, is a highly skilled Data Scientist and Business Analyst with extensive experience in providing complex data services. I specialise in data science, business analysis, MLOps and consulting. Known for my ability to extract business value from "bad" or "sparse" data even in challenging environments. I successfully deliver high-risk projects while meeting deadlines and ensuring the highest quality. Demonstrate leadership in building and mentoring cross-functional teams to achieve strategic goals, using innovative tools and methodologies with a focus on efficiency.</blockquote> <br><br>Now that the formal part is complete, I''ll move on to the informal part. My life developed in such a way that every 3-6 months, and sometimes several times a day, I figuratively speaking "moved" to a "new country". I had to constantly learn, adapt, improvise and solve problems with minimal resources. What they teach in smart books about startups - flexibility, strategic thinking, ability to work with limited resources, attention to detail and anticipation of opportunities - became a matter of survival for me. These skills are honed in me to perfection.<br><br>However, man is not only built for survival, but also for life. Therefore, for a long time I have been engaged in developing my inner world, practising meditation and spiritual practices to find harmony with myself and the world around me. In July 2020, I dedicated myself to a deep practice that helped me resolve inner contradictions and find answers to important questions. During this process, I temporarily "stepped out of society". However, I have decided to return to share what I realised and to live among people. I hope I will be able to communicate my thoughts through articles, videos, lectures, presentations and entrepreneurship. <br>I look forward to making new connections and "resetting" old ones!<br><br>You can schedule an appointment using Calendly <a href="https://calendly.com/artiom_kovnatsky" target="_blank">here</a>, or through Read.ai <a href="https://cal.read.ai/artiomkovnatsky" target="_blank">here</a>.' #<br>Your\''s, Art the Rat!
 
 #---------------
 # your social links
@@ -51,17 +51,21 @@ socialLinks:
 #   url: "#"
 #   rel: "me noopener"
 
-- name: Google Scholar
-  icon: "fas fa-graduation-cap"
-  url: "https://tinyurl.com/3rz8mjyr"
+# - name: Google Scholar
+#   icon: "fas fa-graduation-cap"
+#   url: "https://tinyurl.com/3rz8mjyr"
 
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "https://www.facebook.com/artiom.kovnatsky"
+# - name: Facebook
+#   icon: "fab fa-facebook"
+#   url: "https://www.facebook.com/artiom.kovnatsky"
 
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "https://x.com/ArtiomKovnatsky"
+# - name: Twitter
+#   icon: "fab fa-twitter"
+#   url: "https://x.com/ArtiomKovnatsky"
+
+- name: WhatsApp
+  icon: "fab fa-whatsapp"
+  url: "https://wa.me/4917630162834"
 
 - name: Telegram
   icon: "fab fa-telegram"
@@ -73,10 +77,8 @@ socialLinks:
 resourceLinks:
 - title: "Self-Intro"
   url: "files/self_introduction.pdf"
-# - title: "Business Card"
-#   url: "files/business_card_q.pdf"
 - title: "CV"
-  url: "files/cv_ArtiomKovnatsky_improved.pdf"
+  url: "files/cv_ArtiomKovnatsky.pdf"
 # - title: "QR Code"
 #   url: "files/qr-code_mod.png"
 # - title: "Logo"
@@ -85,6 +87,8 @@ resourceLinks:
   url: "files/sample_projects_DrArtiomKovnatsky.pdf"
 - title: "Recommendations"
   url: "files/recommendations_DrArtiomKovnatsky_full.pdf"
+# - title: "Business Card"
+#   url: "files/business_card_q.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
@@ -107,49 +111,49 @@ badges:
 
 #-----------
 - type: soft-skill-indicator
-  name: Out-of-the-box thinking
+  name: Original Thinking
   percentage: 100
-  color: "#ff9999"
+  color: "#00bbf9"
 
 - type: soft-skill-indicator
-  name: Improvisation & Adaptability
+  name: Improvisation # & Adaptability
   percentage: 100
-  color: "#ff9999"
+  color: "#00bbf9"
 
 - type: soft-skill-indicator
-  name: Creativity & Innovation
+  name: Creativity #& Innovation
   percentage: 95
-  color: "#ff9999"
+  color: "#00bbf9"
+#-----------
+- type: soft-skill-indicator
+  name: Productivity Optimization
+  percentage: 100
+  color: "#eb5e28"
+
+- type: soft-skill-indicator
+  name: Troubleshooting
+  percentage: 100
+  color: "#eb5e28"
+
+- type: soft-skill-indicator
+  name: Mentorship # & Hiring
+  percentage: 90
+  color: "#eb5e28"
 #-----------
 - type: soft-skill-indicator
   name: Presentation
   percentage: 95
-  color: "#87cefa"
+  color: "#0a9396"
 
 - type: soft-skill-indicator
   name: Leadership
   percentage: 85
-  color: "#87cefa"
+  color: "#0a9396"
 
 - type: soft-skill-indicator
   name: Collaboration
   percentage: 85
-  color: "#87cefa"
-#-----------
-- type: soft-skill-indicator
-  name: Problem-Solving
-  percentage: 100
-  color: "#fada5e"
-
-- type: soft-skill-indicator
-  name: Time & Resource Management
-  percentage: 95
-  color: "#fada5e"
-
-- type: soft-skill-indicator
-  name: Mentorship & Hiring
-  percentage: 90
-  color: "#fada5e"
+  color: "#0a9396"
 #-----------
 # - type: soft-skill-indicator
 #   name: Results orientation with minimal resources

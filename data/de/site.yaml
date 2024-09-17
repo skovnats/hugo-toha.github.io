@@ -1,0 +1,40 @@
+# Copyright Notice
+# copyright: © 2020 Copyright.
+
+# A disclaimer notice for the footer. Make sure you have set "params.footer.disclaimer.enable: true" in your `config.yaml` file.
+# disclaimer: "All views are of my own.<br>{{< alert type="secondary" >}}xxx{{< /alert >}}"
+disclaimer: "All views are of my own.<br>❕I’d appreciate your help: if you know someone who could benefit from my skills, please contact us."
+
+# Meta description for your site.  This will help the search engines to find your site.
+description: Portfolio and personal site of Dr. Artiom Kovnatsky.
+
+# Change Navbar Title
+# navBarTitle: "Title"
+
+
+# specify the list of custom menus that you want to show in the top navbar.
+# they will be separated by a divider from the main menus.
+customMenus:
+# - name: Docs
+#   url: https://toha-guides.netlify.app/posts/
+#   # specify whether to hide the menu item from top navbar or not.
+#   hideFromNavbar: true
+#   # specify whether to show the menu item in footer or not.
+#   # if you set it to true, make sure you have set `footer.navigation.customMenus: true` in your config.yaml
+#   showOnFooter: false
+- name: Φ # Ω
+  url: http://localhost:1313/posts/philosophy/ # https://skovnats.github.io/posts/philosophy/ # https://skovnats.github.io/posts/%CF%89/
+  # specify whether to hide the menu item from top navbar or not.
+  hideFromNavbar: false
+  # specify whether to show the menu item in footer or not.
+  # if you set it to true, make sure you have set `footer.navigation.customMenus: true` in your config.yaml
+  showOnFooter: false
+
+
+# Specify OpenGraph Headers
+openGraph:
+  title: Dr. Artiom Kovnatsky
+  type: website
+  description: Portfolio and personal site of Dr. Artiom Kovnatsky.
+  image: images/author/artiom_formal.jpg
+  url: https://skovnats.github.io
