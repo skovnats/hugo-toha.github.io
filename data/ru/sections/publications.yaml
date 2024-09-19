@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Publications
+  name: Публикации
   id: publications
   enable: false
   weight: 7

@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Education
+  name: Bildung
   id: education
   template: sections/education.html # Use "sections/education-alt.html for alternate template.
   enable: true
@@ -10,7 +10,7 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Ph.D in Computational Science
+- name: Doktor der Philosophie in Computergestützten Wissenschaften
   icon: fa-microscope
   timeframe: 2011-2016
   institution:
@@ -24,9 +24,9 @@ degrees:
   #   achieved: 3.6
   #   outOf: 4
   customSections: #(optional)
-  - name: PhD Thesis
+  - name: Doktorarbeit
     content: <a href="https://sonar.ch/global/documents/318738" target="_blank">Spectral Methods for Multimodal Data Analysis</a>
-  - name: Supervisor
+  - name: Betreuer
     content: <a href="https://www.cs.ox.ac.uk/people/michael.bronstein/" target="_blank">Prof. Michael M. Bronstein</a>
 
   publications: #(optional)
@@ -43,13 +43,13 @@ degrees:
   - title: "\"Gamut mapping with image Laplacian commutators\", A. Kovnatsky, D. Eynard, M.M. Bronstein (ICIP)"
     url: "https://ieeexplore.ieee.org/abstract/document/7025127/"
   extracurricularActivities: #(optional)
-  - PhD representative at the USI Doctoral School.
-  - Board games club organizer.
-  # - Culture sharing day organizer (<a href="https://www.youtube.com/watch?v=XRrTqPZjh7I" target="_blank">Israeli day</a> was organised thanks to Israel Association of Ticino and Israel Embassy in Switzerland).
-  - Culture sharing day organizer (<a href="https://www.youtube.com/watch?v=XRrTqPZjh7I" target="_blank">Israeli day</a> was organized thanks to the Israel Association of Ticino and the Israel Embassy in Switzerland).
+  - PhD-Vertreter an der USI Doktorandenschule.
+  - Organisator des Brettspielclubs.
+  # - Organisator des Kulturtaags (<a href="https://www.youtube.com/watch?v=XRrTqPZjh7I" target="_blank">Israeltag</a> wurde organisiert dank der Israelischen Vereinigung von Ticino und der Israelischen Botschaft in der Schweiz).
+  - Organisator des Kulturtaags (<a href="https://www.youtube.com/watch?v=XRrTqPZjh7I" target="_blank">Israeltag</a> wurde organisiert dank der Israelischen Vereinigung von Ticino und der Israelischen Botschaft in der Schweiz).
 
 
-- name: M.Sc. in Applied Mathematics (in Hebrew)
+- name: "M.Sc. in Angewandter Mathematik (auf Hebräisch)"
   icon: fa-graduation-cap
   timeframe: 2008-2013
   institution:
@@ -65,29 +65,29 @@ degrees:
   customSections: #(optional)
   - name: Thesis
     content: Fusion of Geometric and Photometric Information in Non-rigid 3D Shape Retrieval
-  - name: Supervisors
+  - name: Betreuer
     content: <a href="https://ron.cs.technion.ac.il/" target="_blank">Prof. Ron Kimmel</a>, <a href="https://www.cs.ox.ac.uk/people/michael.bronstein/" target="_blank">Prof. Michael M. Bronstein</a>
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades: true
     collapseAfter: 4
     courses:
-    - name: Acceleration of Convergence of Iterative Procedures
+    - name: Beschleunigung der Konvergenz iterativer Verfahren
       achieved: 95
       outOf: 100
-    - name: Advanced Probability
+    - name: Fortgeschrittene Wahrscheinlichkeit
       achieved: 93
       outOf: 100
-    - name: Probablistic Algorithms
+    - name: Wahrscheinlichkeitsalgorithmen
       achieved: 95
       outOf: 100
-    - name: Stochastic Processes
+    - name: Stochastische Prozesse
       achieved: 90
       outOf: 100
-    - name: Visual Systems and Image Structure
+    - name: Visuelle Systeme und Bildstruktur
       achieved: 99
       outOf: 100
-    - name: Geometric Computer Vision
+    - name: Geometrische Computer Vision
       achieved: 97
       outOf: 100
   publications: #(optional)
@@ -96,10 +96,10 @@ degrees:
   - title: "\"Geometric and photometric data fusion in non-rigid shape analysis\", A. Kovnatsky, D. Raviv, M.M. Bronstein, A.M. Bronstein, R. Kimmel (Numerical Mathematics: Theory, Methods and Applications)"
     url: "https://doc.rero.ch/record/304745/files/S1004897900001197.pdf"
   extracurricularActivities: #(optional)
-  - Group child tutor and mentor.
+  - Gruppenleiter und Mentor für Kinder.
 
 
-- name: B.Sc. in Applied Mathematics (in Hebrew)
+- name: "B.Sc. in Angewandter Mathematik (auf Hebräisch)"
   icon: fa-graduation-cap
   timeframe: 2003-2008
   institution:
@@ -117,22 +117,22 @@ degrees:
     showGrades: true
     collapseAfter: 3
     courses:
-    - name: Optimization Theory
+    - name: Optimierungstheorie
       achieved: 95
       outOf: 100
-    - name: Numerical Analysis
+    - name: Numerische Analyse
       achieved: 95
       outOf: 100
-    - name: Deterministic Models in Operations Research
+    - name: Deterministische Modelle in der Operationsforschung
       achieved: 87
       outOf: 100
-    - name: Combinatorics
+    - name: Kombinatorik
       achieved: 89
       outOf: 100
-    - name: Set Theory
+    - name: Mengenlehre
       achieved: 98
       outOf: 100
-    - name: Calculus of Variations
+    - name: Variationsrechnung
       achieved: 88
       outOf: 100
       # publications: #(optional)
@@ -141,22 +141,22 @@ degrees:
       # - title: Fusce eu augue ut odio porttitor pulvinar.
     # url: "#"
   extracurricularActivities: #(optional)
-  - Group child tutor and mentor.
-  - Boxing trainer assistant.
-  - Won a student running competition of 4 km.
+  - Gruppenleiter und Mentor für Kinder.
+  - Assistent des Boxtrainers.
+  - Gewann einen Schülerlauf über 4 km.
 
-- name: High School Diploma
+- name: Abitur
   icon: fa-school
   timeframe: 1990-2001
   institution:
-    name: "School N33"
+    name: "Schule Nr. 33"
   # grade: #(optional)
   #   scale: GPA
   #   achieved: 4.5
   #   outOf: 5
   extracurricularActivities: #(optional)
-  - I represented my school with three other guys in the city sports championship.
-  - I was a member of the school's shooting club.
+  - Ich habe meine Schule zusammen mit drei anderen Jungs bei der städtischen Sportmeisterschaft vertreten.
+  - Ich war Mitglied des Schießclubs der Schule.
   customSections: #(optional)
-  - name: Location
+  - name: Standort
     content: <a href="https://mk.isuo.org/schools/view/id/8100" target="_blank">Nikolaev, Ukraine</a>

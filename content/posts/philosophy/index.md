@@ -1,6 +1,6 @@
 ---
 title: "Φιλοσοφία | Philosophy | Философия"
-date: 2020-09-17
+date: 2024-09-17
 description: Introduction to my life's Philosophy
 menu:
   sidebar:
@@ -59,7 +59,7 @@ It is also important to me that I leave the world and the state of affairs for o
 {{< /split >}}
 
 
-#### Power, money, and fame | Власть, деньги и слава
+<!-- #### Power, money, and fame | Власть, деньги и слава
 {{< split 6 6>}}
 …a great trial for a person, one not everyone can endure.
 
@@ -70,7 +70,7 @@ Matthew 26:39</blockquote>
 
 <blockquote>Отче Мой! если возможно, да минует Меня чаша сия; впрочем, не как Я хочу, но как Ты.<br>
 Евангелие от Матфея 26:39</blockquote>
-{{< /split >}}
+{{< /split >}} -->
 
 #### Values | Ценности
 {{< split 6 6>}}
@@ -137,15 +137,8 @@ I highly value freedom in thought and forms of expression.
 </ol>
 {{< /split >}}
 
-#### God | Бог
+#### A = Ω
 
-{{< split 6 6>}}
-I know that God exists. Everything important has already been said before me. Having spent significant part of my life as an atheist and agnostic, it’s easy for me to avoid references to the supernatural. I remain within the realm of logic and science. In my reflections and endeavors, there will be ideas that might resonate with some. If they speak to you, feel free to join: <a href="https://cal.read.ai/artiomkovnatsky" target="_blank">meeting</a>, <a href="mailto:artiomkovnatsky@pm.com">email</a>, <a href="https://t.me/soul_from_crete" target="_blank">Telegram</a>, <a href="https://www.linkedin.com/in/artiomkovnatsky" target="_blank">LinkedIn</a>.
----
-Я знаю, что Бог есть. Всё важное уже было сказано до меня. Прожив значительную часть жизни как атеист и агностик, мне легко обходиться без упоминаний о сверхъестественном. Я остаюсь в рамках логики и науки. В моих размышлениях и начинаниях будут идеи, которые могут найти отклик. Если они вам близки, присоединяйтесь: <a href="https://cal.read.ai/artiomkovnatsky" target="_blank">встреча</a>, <a href="mailto:artiomkovnatsky@pm.com">email</a>, <a href="https://t.me/soul_from_crete" target="_blank">Telegram</a>, <a href="https://www.linkedin.com/in/artiomkovnatsky" target="_blank">LinkedIn</a>.
-{{< /split >}}
-
-#### Conclusion — Ω = A — New Beginning | Заключение — Ω = A — Новое Начало
 {{< split 6 6>}}
 <blockquote>
 The word "devil" comes from the Greek word διάβολος (diábolos), which can be translated as "to divide," "to separate", or more literally, "to throw against."
@@ -155,6 +148,8 @@ The word "devil" comes from the Greek word διάβολος (diábolos), which c
 <li>I strive to live <b>mindfully</b>.</li>
 <li>I "build and strengthen bridges", avoiding and not supporting their "destruction or weakening".</li>
 </ul>
+
+Everything important has already been said before me. In my reflections and endeavors, there will be ideas that might resonate with some. If so, feel free to join: <a href="https://cal.read.ai/artiomkovnatsky" target="_blank">meeting</a>, <a href="mailto:artiomkovnatsky@pm.com">email</a>, <a href="https://t.me/soul_from_crete" target="_blank">Telegram</a>, <a href="https://www.linkedin.com/in/artiomkovnatsky" target="_blank">LinkedIn</a>.
 ---
 <blockquote>
 Слово «дьявол» происходит от греческого слова διάβολος (диáболос), которое можно перевести как «разделять», «разъединять» или более буквально — «бросать против».
@@ -163,7 +158,10 @@ The word "devil" comes from the Greek word διάβολος (diábolos), which c
 <li>Стараюсь жить <b>осознанно</b>.</li>
 <li>Я «строю и укрепляю мосты», избегая и не поддерживая их «разрушение или ослабление».</li>
 </ul>
+
+Всё важное уже было сказано до меня. В моих размышлениях и начинаниях будут идеи, которые могут найти отклик. Если они вам близки, присоединяйтесь: <a href="https://cal.read.ai/artiomkovnatsky" target="_blank">встреча</a>, <a href="mailto:artiomkovnatsky@pm.com">email</a>, <a href="https://t.me/soul_from_crete" target="_blank">Telegram</a>, <a href="https://www.linkedin.com/in/artiomkovnatsky" target="_blank">LinkedIn</a>.
 {{< /split >}}
+
 Ω
 <br><br><br>
 

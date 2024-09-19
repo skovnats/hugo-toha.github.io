@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Experiences
+  name: Опыт работы
   id: experiences
   enable: true
   weight: 4
@@ -13,26 +13,26 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Self-employed
+    name: Самозанятость
     # url: "https://www.upwork.com/freelancers/~01ed48886816aa8edb"
     url: "https://cal.read.ai/artiomkovnatsky"
-    location: Berlin, Germany
+    location: Берлин, Германия
     logo: /images/sections/experiences/freelance.jpg
-    # Can optionally show a different logo for dark theme
+    # Можно также показать другой логотип для темной темы
     # darkLogo: /images/sections/experiences/company1.jpg
-    # company overview
+    # описание компании
     # overview: As a self-employed Data Scientist and Business Consultant, I specialize in delivering data-driven solutions, optimizing MLOps pipelines, and extracting value from complex datasets. I manage end-to-end projects, from consulting to deployment, focusing on efficiency and innovation. My work includes leading teams, implementing scalable infrastructures, and providing strategic insights to help businesses achieve their goals, even with limited resources.
-    overview: As a self-employed Data Specialist, I deliver data-driven insights and solutions by extracting value from complex datasets. I manage end-to-end projects, from consulting to deployment, with a strong emphasis on data analysis, modelling, and scalability. My experience includes providing actionable insights that drive business success, even with limited resources, leading teams, and designing efficient data infrastructures.
+    overview: Как специалист по данным на самозанятости, я предоставляю анализ и решения на основе данных, извлекая ценность из сложных наборов данных. Я управляю проектами от начала до конца, начиная с консультаций и заканчивая внедрением, уделяя особое внимание анализу данных, моделированию и масштабируемости. Мой опыт включает предоставление практических инсайтов, которые способствуют успеху бизнеса даже при ограниченных ресурсах, руководство командами и разработку эффективных инфраструктур данных.
   positions:
-  - designation: Data Science & Engineering Consultant
-    start: Sep 2019
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
+  - designation: Консультант по науке о данных и инженерии
+    start: Сен 2019
+    # не указывайте дату окончания, если вы работаете там в настоящее время. Это будет заменено на "По настоящее время"
+    # end: Дек 2020
+    # укажите несколько пунктов о том, за что вы отвечали в компании.
     responsibilities:
-    - Delivered hands-on expertise and consultancy services across diverse industries, specializing in machine learning, business analysis, MLOps, and handling “imperfect” and “rare” data.
-    - Led and executed high-impact projects, consistently meeting tight deadlines while surpassing client expectations.
-    - Secured grants by proposing innovative AI research projects that utilized unconventional data sources.
+    - Предоставление практического опыта и консультационных услуг в различных отраслях, специализация на машинном обучении, бизнес-анализе, MLOps и работе с «несовершенными» и «редкими» данными.
+    - Руководство и выполнение проектов с высоким влиянием, постоянное соблюдение сжатых сроков и превышение ожиданий клиентов.
+    - Получение грантов путем предложения инновационных исследований в области ИИ, использующих нестандартные источники данных.
 
   # - designation: Junior Software Engineer
   #   start: Nov 2017
@@ -45,402 +45,243 @@ experiences:
 - company:
     name: Lot Internet GmbH
     url: "https://www.lot-internet.com/"
-    location: Berlin, Germany
+    location: Берлин, Германия
     logo: /images/sections/experiences/lot_logo.png
-    # Can optionally show a different logo for dark theme
+    # Можно также показать другой логотип для темной темы
     # darkLogo: /images/sections/experiences/company2.jpg
-    overview: Lot Internet GmbH is a data provider that serves B2B clients across various industries, including real estate, automotive, career, e-commerce, and telecommunications. Its data is utilized for market research, competitor analysis, and customer insights by leading online marketplaces in these sectors.
+    overview: Lot Internet GmbH — поставщик данных для B2B клиентов в различных отраслях, включая недвижимость, автомобильную промышленность, карьеру, e-commerce и телекоммуникации. Данные компании используются для проведения рыночных исследований, анализа конкурентов и получения клиентских инсайтов ведущими онлайн-рынками в этих секторах.
   positions:
-  - designation: Senior Data Scientist & Consultant
-    start: Oct 2023
-    end: Jul 2024
+  - designation: Старший специалист по данным и консультант
+    start: Окт 2023
+    end: Июл 2024
     responsibilities:
-    - Developed cutting-edge data science products for clients, focusing on vehicle data analytics, including projects for Skoda GmbH.
+    - Разработка передовых продуктов науки о данных для клиентов, с акцентом на аналитику данных о транспортных средствах, включая проекты для Skoda GmbH.
+
 
 - company:
     name: "Fuchs & Eule GmbH (ex: Valyria Technology GmbH)"
     url: "https://www.crunchbase.com/organization/valyria"
-    location: Berlin & Brandenburg, Germany
+    location: Берлин и Бранденбург, Германия
     logo: /images/sections/experiences/fal_logo.jpeg
-    # Can optionally show a different logo for dark theme
+    # Можно также показать другой логотип для темной темы
     # darkLogo: /images/sections/experiences/company3.jpg
-    overview: Fuchs & Eule is a revolutionary operating system for investment properties. Buying and selling made incredible easy, from everywhere.
+    overview: Fuchs & Eule — это революционная операционная система для инвестиционных объектов недвижимости. Покупка и продажа становятся невероятно простыми, независимо от вашего местоположения.
   positions:
-  - designation: Lead Data Scientist
-    start: Sep 2021
-    end: Nov 2022
+  - designation: Ведущий специалист по данным
+    start: Сен 2021
+    end: Ноя 2022
     responsibilities:
-    - Established and led the data science department, managing a decentralized team with a flat hierarchy.
-    - Defined vision, strategy, and tech stack, driving the successful delivery of data science projects on schedule.
+    - Создал и возглавил отдел науки о данных, управляя децентрализованной командой с плоской иерархией.
+    - Определил видение, стратегию и технологический стек, обеспечив успешную реализацию проектов по науке о данных в установленные сроки.
+
 
 
 - company:
     name: SKF Group
     url: "https://www.skf.com/group"
-    location: Berlin, Germany & Haifa, Israel
+    location: Берлин, Германия & Хайфа, Израиль
     logo: /images/sections/experiences/skf.svg
-    # Can optionally show a different logo for dark theme
+    # Можно также показать другой логотип для темной темы
     # darkLogo: /images/sections/experiences/company3.jpg
-    overview: SKF (Svenska Kullagerfabriken) is a leading global supplier of bearings, seals, lubrication systems, and services that include technical support, maintenance, condition monitoring, and reliability engineering. SKF acquired the Israeli startup Presenso in 2019. Presenso, based in Haifa, specializes in developing AI-based predictive maintenance software. Their technology uses machine learning algorithms to detect industrial machine failures before they happen.
+    overview: SKF (Svenska Kullagerfabriken) — ведущий мировой поставщик подшипников, уплотнений, систем смазки и услуг, включающих техническую поддержку, обслуживание, мониторинг состояния и инженерные решения по надежности. В 2019 году SKF приобрела израильский стартап Presenso, базирующийся в Хайфе, который специализируется на разработке программного обеспечения для предсказания технического обслуживания на основе ИИ. Их технология использует алгоритмы машинного обучения для обнаружения отказов промышленных машин до их возникновения.
   positions:
-  - designation: Data Scientist
-    start: Mar 2021
-    end: Sep 2021
+  - designation: Специалист по данным
+    start: Мар 2021
+    end: Сен 2021
     responsibilities:
-    - Collaborated in a specialized team to develop survival models for predictive maintenance, optimizing machine maintenance schedules.
+    - Работал в специализированной команде над разработкой моделей выживаемости для предсказания технического обслуживания, оптимизируя графики обслуживания машин.
+
 
 - company:
     name: "Kenjo GmbH (ex: Org OS GmbH)"
     url: "https://www.kenjo.io/"
-    location: Berlin, Germany
+    location: Берлин, Германия
     logo: /images/sections/experiences/kenjo.jpg
-    # Can optionally show a different logo for dark theme
+    # Можно также показать другой логотип для темной темы
     # darkLogo: /images/sections/experiences/company2.jpg
-    overview: Kenjo is the all in one HR software for managing the workforce of companies in the industrial, service and commercial sectors, among others.
+    overview: Kenjo — универсальное HR-программное обеспечение для управления персоналом компаний в промышленном, сервисном, коммерческом и других секторах.
   positions:
-  - designation: Data Science Consultant
-    start: May 2018
-    end: Jul 2020
+  - designation: Консультант по науке о данных
+    start: Май 2018
+    end: Июл 2020
     responsibilities:
-    - Consulted the CEO on developing a predictive analytics engine for HR data.
-    - Authored a successful grant proposal, securing €1.2M in funding for the project.
-    - Provided critical last-minute project support, delivering solutions under tight deadlines.
+    - Консультировал CEO по разработке аналитического движка для предсказательной аналитики данных HR.
+    - Подготовил успешную заявку на грант, обеспечив финансирование проекта в размере €1.2M.
+    - Обеспечивал критическую поддержку проектов в последний момент, предлагая решения в условиях сжатых сроков.
 
 - company:
     name: Lot Internet GmbH
     url: "https://www.lot-internet.com/"
-    location: Berlin, Germany
+    location: Берлин, Германия
     logo: /images/sections/experiences/lot_logo.png
-    # Can optionally show a different logo for dark theme
+    # Можно также показать другой логотип для темной темы
     # darkLogo: /images/sections/experiences/company2.jpg
-    # overview: Lot Internet GmbH is a data provider that serves B2B clients across various industries, including real estate, automotive, career, e-commerce, and telecommunications. Its data is utilized for market research, competitor analysis, and customer insights by leading online marketplaces in these sectors.
+    # overview: Lot Internet GmbH — поставщик данных для B2B клиентов в различных отраслях, включая недвижимость, автомобильную промышленность, карьеру, e-commerce и телекоммуникации. Данные компании используются для проведения рыночных исследований, анализа конкурентов и получения клиентских инсайтов ведущими онлайн-рынками в этих секторах.
   positions:
-  - designation: Data Science & Engineering Consultant
-    start: Apr 2020
-    end: Apr 2020
+  - designation: Консультант по науке о данных и инженерии
+    start: Апр 2020
+    end: Апр 2020
     responsibilities:
-    - Consulted on data science and business strategy for a new product launch.
+    - Консультировал по стратегии данных и бизнес-стратегии для запуска нового продукта.
+
 
 - company:
     name: Estonian Government - Estonian Land Board
     url: "https://maaamet.ee/en"
-    location: Tallinn, Estonia
+    location: Таллин, Эстония
     logo: /images/sections/experiences/maaamet.png
-    # Can optionally show a different logo for dark theme
+    # Можно также показать другой логотип для темной темы
     # darkLogo: /images/sections/experiences/company2.jpg
-    overview: Estonian Land Board is a government agency responsible for managing land resources, including cadastral data, land use planning, and land valuation. The agency is also responsible for maintaining the national geodetic system and providing geospatial data services. The Estonian Land Board is a key player in the Estonian government's digital transformation initiatives, in particular land taxation digitalization.
+    overview: Земельный департамент Эстонии — это государственное агентство, ответственное за управление земельными ресурсами, включая кадастровые данные, планирование землепользования и оценку земли. Агентство также отвечает за поддержание национальной геодезической системы и предоставление геопространственных данных. Земельный департамент Эстонии играет ключевую роль в инициативах цифровой трансформации правительства Эстонии, особенно в области цифровизации налогообложения земли.
   positions:
-  - designation: Data Science & Engineering Consultant
-    start: Jan 2019
-    end: Dec 2019
+  - designation: Консультант по науке о данных и инженерии
+    start: Янв 2019
+    end: Дек 2019
     responsibilities:
-    - Consulted the Estonian Land Board on automating land valuation for taxation, replacing the manual process.
-    - Developed a prototype valuation engine for cadastral units, laying the groundwork for Estonia's land tax reform.
-    # - Developed a prototype evaluation engine for cadastral land units, forming the foundation for Estonia’s 2020-2021 land tax reform.
+    - Консультировал Земельный департамент Эстонии по автоматизации оценки земли для налогообложения, заменяя ручной процесс.
+    - Разработал прототип движка оценки для кадастровых единиц, заложив основу для реформы земельного налога в Эстонии.
+    # - Разработал прототип оценочного движка для кадастровых земельных единиц, сформировав основу для реформы земельного налога в Эстонии на 2020-2021 годы.
 
 
 - company:
     name: HOMEDAY GmbH
     url: "https://www.homeday.de/de/"
-    location: Berlin, Germany
+    location: Берлин, Германия
     logo: /images/sections/experiences/homeday.jpg
-    # Can optionally show a different logo for dark theme
+    # Можно также показать другой логотип для темной темы
     # darkLogo: /images/sections/experiences/company2.jpg
-    overview: Homeday is one of Germany's largest platforms to find the best local agents and sell properties.
+    overview: Homeday — одна из крупнейших платформ в Германии для поиска лучших местных агентов и продажи недвижимости.
   positions:
-  - designation: Data Scientist Consultant
-    start: Oct 2019
-    end: Apr 2020
+  - designation: Консультант по науке о данных
+    start: Окт 2019
+    end: Апр 2020
     responsibilities:
-    - Presented work at conferences, consistently recognized as one of the top speakers.
-    - Proposed and presented innovative business models, influencing company strategy.
-  - designation: Data Scientist & Business Analyst
-    start: March 2018
-    end: Sep 2019
+    - Представлял свою работу на конференциях, регулярно признавался одним из лучших докладчиков.
+    - Предложил и представил инновационные бизнес-модели, повлиявшие на стратегию компании.
+  - designation: Специалист по данным и бизнес-аналитик
+    start: Мар 2018
+    end: Сен 2019
     responsibilities:
-    - Enhanced business processes through data-driven insights (e.g., potential clients ranking system).
-  - designation: Data Scientist
-    start: Feb 2017
-    end: Feb 2018
+    - Улучшал бизнес-процессы с помощью аналитики данных (например, система ранжирования потенциальных клиентов).
+  - designation: Специалист по данным
+    start: Фев 2017
+    end: Фев 2018
     responsibilities:
-    - Developed the HOMEDAY-estimation package, a key tool for daily automatic property evaluation.
-    - Developed the <a href="https://www.homeday.de/de/preisatlas" target="_blank">PREISATLAS</a> real estate price map, resulting in a 1500% increase in traffic and a 750% increase in qualified leads.
+    - Разработал пакет HOMEDAY-estimation, ключевой инструмент для ежедневной автоматической оценки недвижимости.
+    - Разработал <a href="https://www.homeday.de/de/preisatlas" target="_blank">PREISATLAS</a> — карту цен на недвижимость, что привело к увеличению трафика на 1500% и росту числа квалифицированных лидов на 750%.
 
 
 - company:
     name: Technicolor Group
     url: "https://www.technicolor.com/"
-    location: Rennes, Brittany, France
+    location: Ренн, Бретань, Франция
     logo: /images/sections/experiences/technicolor.jpg
-    # Can optionally show a different logo for dark theme
+    # Можно также показать другой логотип для темной темы
     # darkLogo: /images/sections/experiences/company2.jpg
-    overview: "Technicolor Group is a creative technology company providing world-class production expertise. Home to a network of award-winning studios, MPC, The Mill, Mikros Animation and Technicolor Games."
+    overview: "Technicolor Group — это компания в области креативных технологий, предоставляющая экспертные услуги мирового уровня в сфере производства. Включает в себя сеть отмеченных наградами студий: MPC, The Mill, Mikros Animation и Technicolor Games."
   positions:
-  - designation: Researcher
-    start: Jun 2014
-    end: Aug 2014
+  - designation: Исследователь
+    start: Июн 2014
+    end: Авг 2014
     responsibilities:
-    - "Research & development in Image Processing: Technicolor submitted a patent."
+    - "Исследования и разработки в области обработки изображений: Technicolor подала патент."
+
 
 - company:
     name: USI-Università della Svizzera italiana
     url: "https://www.usi.ch/en"
-    location: Lugano, Switzerland
+    location: Лугано, Швейцария
     logo: /images/sections/experiences/usi.png
-    # Can optionally show a different logo for dark theme
+    # Можно также показать другой логотип для темной темы
     # darkLogo: /images/sections/experiences/company2.jpg
-    overview: "The Università della Svizzera italiana (USI, literally University of Italian Switzerland), is a public Swiss university established in 1995, with campuses in Lugano, Mendrisio and Bellinzona (Canton Ticino, Switzerland)."
+    overview: "Университет итальянской Швейцарии (USI) — это государственный швейцарский университет, основанный в 1995 году с кампусами в Лугано, Мендризио и Беллинцоне (кантон Тичино, Швейцария)."
   positions:
-  - designation: Teacher Assistant
-    start: Sep 2011
-    end: Jun 2015
+  - designation: Ассистент преподавателя
+    start: Сен 2011
+    end: Июн 2015
     responsibilities:
-    # - 'Teaching assistant for the courses:<br><ul> <li>"Calculus" (Bachelor): Fall 2011, Fall 2012</li> <li>"Geometric Image Processing and Computer Vision" (Master): Spring 2013, Spring 2014</li> <li>"Geometric Shape Analysis" (Master): Fall 2013</li> <li>"Computer Vision & Pattern Recognition" (Master): Spring 2015</li></ul>'
-    - '"Computer Vision & Pattern Recognition" (Master): Spring 2015.'
-    - '"Geometric Shape Analysis" (Master): Fall 2013.'
-    - '"Geometric Image Processing and Computer Vision" (Master): Spring 2013, Spring 2014.'
-    - '"Calculus" (Bachelor): Fall 2011, Fall 2012.'
-  - designation: Scientific Researcher
-    start: Dec 2011
-    end: Nov 2016
+    - '"Computer Vision & Pattern Recognition" (Магистратура): весна 2015.'
+    - '"Geometric Shape Analysis" (Магистратура): осень 2013.'
+    - '"Geometric Image Processing and Computer Vision" (Магистратура): весна 2013, весна 2014.'
+    - '"Calculus" (Бакалавриат): осень 2011, осень 2012.'
+  - designation: Научный исследователь
+    start: Дек 2011
+    end: Ноя 2016
     responsibilities:
-    # - Conducted advanced research under <a href="https://www.cs.ox.ac.uk/people/michael.bronstein/" target="_blank">Prof. Michael M. Bronstein</a>, with work published in top-tier <a href="https://scholar.google.com/citations?user=o_aLFucAAAAJ&hl=en&oi=ao" target="_blank">journals and conferences</a>.
-    - Conducted research under <a href="https://www.cs.ox.ac.uk/people/michael.bronstein/" target="_blank">Prof. Michael M. Bronstein</a>, with work published in leading <a href="https://scholar.google.com/citations?user=o_aLFucAAAAJ&hl=en&oi=ao" target="_blank">journals and conferences</a>.
-    # - Delivered presentations across various international venues.
-    - Delivered presentations at prestigious international venues across the USA, China, Italy, Switzerland, France, Belgium, Germany, Luxembourg, and Spain, sharing insights and research on a global stage.
+    - Проводил исследования под руководством <a href="https://www.cs.ox.ac.uk/people/michael.bronstein/" target="_blank">профессора Михаила М. Бронштейна</a>, результаты которых были опубликованы в ведущих <a href="https://scholar.google.com/citations?user=o_aLFucAAAAJ&hl=en&oi=ao" target="_blank">журналах и на конференциях</a>.
+    - Выступал с докладами на престижных международных площадках в США, Китае, Италии, Швейцарии, Франции, Бельгии, Германии, Люксембурге и Испании, делясь своими исследованиями и инсайтами на глобальной арене.
 
 #------------------------------------------------------------
 # supporting experiences
 #------------------------------------------------------------
 
 - company:
-    name: Part-time jobs during mainly my Bachelor's degree
+    name: Частичная занятость в основном во время бакалавриата
     # url: "https://www.facebook.com/Yagur.Ultrasound/"
-    location: Israel and Ukraine
+    location: Израиль и Украина
     logo: /images/sections/experiences/parttimejobs.jpg
-    # Can optionally show a different logo for dark theme
+    # Можно также показать другой логотип для темной темы
     # darkLogo: /images/sections/experiences/company2.jpg
-    overview: "When I emigrated to Israel at 17 from Ukraine, I had to learn Hebrew, pass entrance exams, and study at one of the best technical institutes in the world - Technion. While pursuing my bachelor's degree, I had to support myself financially and help my family by simultaneously working multiple jobs, often night shifts after lectures, including during summer holidays.<br><br><b>Lessons and skills learned:</b><ol><li>Adaptability and Multitasking</li><li>Teamwork and Collaboration</li><li>Resilience and Endurance</li><li>Problem-Solving and Initiative</il><li>Leadership and Mentorship</il><li>Responsibility and Accountability</il><li>Work Ethic and Discipline</il><li>Customer Service and Attention to Detail</il><li>Stress Management and Alertness</il><li>Physical and Mental Resilience</il><li>Making the Best of Any Situation</li></ol><br>"
+    overview: "Когда я эмигрировал в Израиль в возрасте 17 лет из Украины, мне нужно было выучить иврит, сдать вступительные экзамены и учиться в одном из лучших технических институтов мира — Технионе. Во время обучения на бакалавриате мне приходилось одновременно работать на нескольких работах, часто ночные смены после лекций, включая летние каникулы, чтобы поддерживать себя финансово и помогать семье.<br><br><b>Извлеченные уроки и приобретенные навыки:</b><ol><li>Адаптивность и многозадачность</li><li>Работа в команде и сотрудничество</li><li>Устойчивость и выносливость</li><li>Решение проблем и инициатива</li><li>Лидерство и наставничество</li><li>Ответственность и подотчетность</li><li>Рабочая этика и дисциплина</li><li>Клиентоориентированность и внимание к деталям</li><li>Управление стрессом и бдительность</li><li>Физическая и умственная выносливость</li><li>Умение максимально использовать любую ситуацию</li></ol><br>"
   positions:
-  - designation: Light DJ # 🎛️🌈🎶
-    start: Oct 2006
-    end: Jun 2008
+  - designation: Световой диджей # 🎛️🌈🎶
+    start: Окт 2006
+    end: Июн 2008
     responsibilities:
-    - Worked as a light DJ in <a href="https://www.facebook.com/Yagur.Ultrasound/" target="_blank">Ultrasound</a>.
-  - designation: Fisherman of sharks # 🦈🚤🎣
-    start: Jun 2005
-    end: Aug 2005
+    - Работал световым диджеем в <a href="https://www.facebook.com/Yagur.Ultrasound/" target="_blank">Ultrasound</a>.
+  - designation: Рыбак акул # 🦈🚤🎣
+    start: Июн 2005
+    end: Авг 2005
     responsibilities:
-    - Worked as a fisherman on a small boat, catching sharks in the Mediterranean. Shifts lasted 2-3 days at sea with minimal rest. Took turns steering the boat and staying alert throughout. # Sharks were sold at auction in Haifa Kishon port.
-  - designation: Boxing trainer assistant # 🥋🥊🤝
-    start: Mar 2003
-    end: Dec 2007
+    - Работал рыбаком на небольшой лодке, ловя акул в Средиземном море. Смены длились 2-3 дня в море с минимальным отдыхом. По очереди управлял лодкой и оставался бдительным в течение всего времени. # Акулы продавались на аукционе в порту Хайфа Кишон.
+  - designation: Ассистент тренера по боксу # 🥋🥊🤝
+    start: Мар 2003
+    end: Дек 2007
     responsibilities:
-    - Assisted boxing training at <a href="https://www.technion.ac.il/en/about/why-choose-technion/sports-center" target="_blank">the Technion Sports Center</a>, helping with sessions, setting up equipment, and providing feedback to students.
-  - designation: Computer administrator # 💻🛠️👨‍💻
-    start: Mar 2005
-    end: Dec 2008
+    - Помогал в тренировках по боксу в <a href="https://www.technion.ac.il/en/about/why-choose-technion/sports-center" target="_blank">спортивном центре Техниона</a>, помогал на занятиях, устанавливал оборудование и давал обратную связь студентам.
+  - designation: Администратор компьютеров # 💻🛠️👨‍💻
+    start: Мар 2005
+    end: Дек 2008
     responsibilities:
-    - Worked as a computer administrator at <a href="https://ece.technion.ac.il/" target="_blank">EE Technion Faculty</a>, setting up computers, installing software, and providing support for faculty members.
-  - designation: Loader at Palestinian territories # 🚚🇵🇸🇮🇱
-    start: Aug 2005
-    end: Aug 2005
+    - Работал администратором компьютеров на <a href="https://ece.technion.ac.il/" target="_blank">факультете электротехники Техниона</a>, настраивал компьютеры, устанавливал программное обеспечение и оказывал поддержку сотрудникам факультета.
+  - designation: Грузчик на палестинских территориях # 🚚🇵🇸🇮🇱
+    start: Авг 2005
+    end: Авг 2005
     responsibilities:
-    - Traveled to Palestine to assist in relocating the Gush Katif population to Israeli territories. <a href="https://en.wikipedia.org/wiki/Gush_Katif" target="_blank">Gush Katif</a> was a bloc of Israeli settlements in the Gaza Strip, evacuated during Israel's 2005 disengagement.
-  - designation: Group child tutor # 👨‍🏫🧒👩‍👧‍👦📚
-    start: Sep 2004
-    end: May 2011
+    - Поехал в Палестину, чтобы помочь в переселении населения Гуш-Катифа на израильские территории. <a href="https://en.wikipedia.org/wiki/Gush_Katif" target="_blank">Гуш-Катиф</a> — это блок израильских поселений в секторе Газа, эвакуированных во время выхода Израиля в 2005 году.
+  - designation: Репетитор для групп детей # 👨‍🏫🧒👩‍👧‍👦📚
+    start: Сен 2004
+    end: Май 2011
     responsibilities:
-    - Mentored and tutored children aged 7-12, working with one or two classes each year, every Friday.
-    - In 2011, received an award as one of the best tutors in Israel.
-  - designation: Child mentor # 🧑‍🏫👧👦💡
-    start: Sep 2002
-    end: May 2004
+    - Наставничал и обучал детей в возрасте 7-12 лет, работая с одним или двумя классами каждый год, каждую пятницу.
+    - В 2011 году получил награду как один из лучших репетиторов в Израиле.
+  - designation: Наставник для детей # 🧑‍🏫👧👦💡
+    start: Сен 2002
+    end: Май 2004
     responsibilities:
-    - Mentored children from underprivileged backgrounds weekly through the <a href="https://www.perach.org.il/Perach-a-National-program-for-social-impact" target="_blank">PERACH</a> program, focusing on support, self-confidence, and peer integration. Formed lasting connections with one child and his family.
-  - designation: Dishwasher at a restaurant # 🍽️🧼🚿
-    start: Apr 2002
-    end: Dec 2003
+    - Наставлял детей из малообеспеченных семей каждую неделю через программу <a href="https://www.perach.org.il/Perach-a-National-program-for-social-impact" target="_blank">ПЭРАХ</a>, фокусируясь на поддержке, уверенности в себе и интеграции в коллектив. Сформировал прочные связи с одним из детей и его семьей.
+  - designation: Посудомойщик в ресторане # 🍽️🧼🚿
+    start: Апр 2002
+    end: Дек 2003
     responsibilities:
-    - Worked night shifts as a dishwasher at a Japanese restaurant after my classes.
-  - designation: Construction and renovations assistant # 🏗️🔨🧰
-    start: Jun 2005
-    end: Jul 2005
+    - Работал ночные смены в качестве посудомойщика в японском ресторане после занятий.
+  - designation: Ассистент по строительству и ремонту # 🏗️🔨🧰
+    start: Июн 2005
+    end: Июл 2005
     responsibilities:
-    - Worked as a construction and renovations assistant during summer, helping with painting, plastering, and cleaning.
-  - designation: Watchman and warehouse worker # 🕰️🔐📦
-    start: Jun 2007
-    end: Aug 2007
+    - Работал помощником по строительству и ремонту летом, помогая с покраской, штукатуркой и уборкой.
+  - designation: Сторож и работник склада # 🕰️🔐📦
+    start: Июн 2007
+    end: Авг 2007
     responsibilities:
-    - Worked as a warehouse worker and watchman at <a href="https://www.osem-nestle.co.il/" target="_blank">Osem</a> during summer, managing inventory and ensuring security.
-  - designation: Plantation worker in onions and vegetables fields
-    start: Jul 2001
-    end: Oct 2001
+    - Работал сторожем и работником склада на <a href="https://www.osem-nestle.co.il/" target="_blank">Osem</a> летом, управляя запасами и обеспечивая безопасность.
+  - designation: Работник на плантации лука и овощей
+    start: Июл 2001
+    end: Окт 2001
     responsibilities:
-    - Gathered onions and vegetables on plantations before immigrating to Israel. Worked long hours in the fields with my family, selling the produce to make ends meet.
-  - designation: Loader at a wheat mill
-    start: May 1999
-    end: May 2001
+    - Собирал лук и овощи на плантациях перед эмиграцией в Израиль. Работал долгие часы в поле с семьей, продавая урожай для выживания.
+  - designation: Грузчик на мукомольном заводе
+    start: Май 1999
+    end: Май 2001
     responsibilities:
-    - My first job was unloading grain at a wheat mill after the fall of the USSR to support my family. The physically demanding work involved long hours and manual labor with large shovels.
-
-
-
-  # - company:
-  #     name: Gush Katif
-  #     url: "https://en.wikipedia.org/wiki/Gush_Katif"
-  #     location: Gaza
-  #     logo: /images/sections/experiences/gazagush.png
-  #     # Can optionally show a different logo for dark theme
-  #     # darkLogo: /images/sections/experiences/company2.jpg
-  #     overview: "Gush Katif (Hebrew: גוש קטיף, lit. 'Harvest Bloc') was a bloc of 17 Israeli settlements in the southern Gaza Strip. In August 2005, the Israel Defense Forces removed the 8,600 Israeli residents from their homes after a decision from the Cabinet of Israel. The communities were demolished as part of Israel's unilateral disengagement from Gaza."
-  # - company:
-  #     name: Fishing boat
-  #     # url: "https://www.lot-internet.com/"
-  #     location: Haifa, Israel
-  #     logo: /images/sections/experiences/sharks_fishing.jpg
-  #     # Can optionally show a different logo for dark theme
-  #     # darkLogo: /images/sections/experiences/company2.jpg
-  #     overview: "It was a small fishing boat for six people: one captain, one technician, and four fishermen. The boat went shark fishing in the Mediterranean Sea. Originally meant for tuna fishing, it was repurposed during the off-season to catch sharks. The sharks were later sold at auction in the Haifa Kishon port."
-  #   positions:
-  #   - designation: Fisherman of sharks
-  #     start: Jun 2005
-  #     end: Aug 2005
-  #     responsibilities:
-  #     - I used to work as a fisherman. Our shifts involved being at sea for 2-3 days and then spending 1-2 days on shore for rest. While at sea, we took turns steering the boat when not fishing for the captain to sleep. We usually got around 3-4 hours of sleep, with a 1-1.5 hour break for the captain to rest. The work required us to stay constantly alert, respond to alarms, and stand for almost the entire time.
-
-  # - company:
-  #     name: Yagur.Ultrasound
-  #     url: "https://www.facebook.com/Yagur.Ultrasound/"
-  #     location: Yagur, Israel
-  #     logo: /images/sections/experiences/ldj.webp
-  #     # Can optionally show a different logo for dark theme
-  #     # darkLogo: /images/sections/experiences/company2.jpg
-  #     overview: The largest dance club and nightclub in the northern part of Israel.
-  #   positions:
-  #   - designation: Light DJ
-  #     start: Oct 2006
-  #     end: Jun 2008
-  #     responsibilities:
-  #     - I used to work as a light DJ on the R&B dance floor every weekend.
-
-  # - company:
-  #     name: Technion – Israel Institute of Technology
-  #     url: "https://www.technion.ac.il/en/about/why-choose-technion/sports-center/"
-  #     location: Haifa, Israel
-  #     logo: /images/sections/experiences/box.jpg
-  #     # Can optionally show a different logo for dark theme
-  #     # darkLogo: /images/sections/experiences/company2.jpg
-  #     overview: The Technion Sports Center, located on the Technion campus in Haifa, offers a wide range of sports activities and classes.
-  #   positions:
-  #   - designation: Boxing trainer assistant
-  #     start: Mar 2003
-  #     end: Dec 2007
-  #     responsibilities:
-  #     - I worked as an assistant boxing trainer, helping with training sessions, setting up equipment, assisting with exercises, and providing student feedback.
-
-
-  # - company:
-  #     name: Technion – Israel Institute of Technology
-  #     url: "https://ece.technion.ac.il/"
-  #     location: Haifa, Israel
-  #     logo: /images/sections/experiences/pc.jpg
-  #     # Can optionally show a different logo for dark theme
-  #     # darkLogo: /images/sections/experiences/company2.jpg
-  #     overview: The Technion Electrical Engineering Department is one of the largest departments in the Technion, with a wide range of research areas and labs.
-  #   positions:
-  #   - designation: Computer administrator
-  #     start: Mar 2005
-  #     end: Dec 2008
-  #     responsibilities:
-  #     - I worked as a computer administrator, assisting with setting up computers, installing software, and providing support for faculty members.
-
-
-  # positions:
-  # - designation: Loader
-  #   start: Aug 2005
-  #   end: Aug 2005
-  #   responsibilities:
-  #   - I traveled to Palestine for several days to assist in relocating the Gush Katif population to Israeli territories.
-
-# - company:
-#     name: PERACH
-#     url: "https://www.perach.org.il/Perach-a-National-program-for-social-impact"
-#     location: Israel
-#     logo: /images/sections/experiences/kids.jpg
-#     # Can optionally show a different logo for dark theme
-#     # darkLogo: /images/sections/experiences/company2.jpg
-#     overview: <a href=""https://www.perach.org.il/Perach-a-National-program-for-social-impact" target="_blank">PERACH</a> is a national Israeli program for social impact. "PERACH" also means "flower" in Hebrew. The program pairs up needy children from underprivileged backgrounds with university students who act as tutors. This allows the children to receive personal attention that they often lack and gives them a positive role model. The care and support that PERACH children receive from their mentors helps them realize their potential and develop into motivated individuals.
-#   positions:
-#   - designation: Group child tutor
-#     start: Sep 2004
-#     end: May 2011
-#     responsibilities:
-#     - I mentored and tutored a group of children aged 7-12 in school. I usually worked with one or two classes per year, coming in every Friday. In 2011, I was honored with an award as one of the best tutors in Israel.
-#   - designation: Child mentor
-#     start: Sep 2002
-#     end: May 2004
-#     responsibilities:
-#     - I mentored children from underprivileged backgrounds, meeting with them once a week. It was less about education and more about providing support, making them believe in themselves, and encouraging them to become better versions of themselves. I also helped them integrate into groups with their peers. I used to meet with each kid for a year and formed lasting connections with one of them and his family afterwards.
-
-# - company:
-#     name: Onions and vegetables fields
-#     # url: "https://en.wikipedia.org/wiki/Gush_Katif"
-#     location: Nikolaev, Ukraine
-#     logo: /images/sections/experiences/onions.jpg
-#     # Can optionally show a different logo for dark theme
-#     # darkLogo: /images/sections/experiences/company2.jpg
-#     overview: Before immigrating to Israel with my family, we had to make ends meet, especially after my parents had quit their jobs (both worked as school teachers). Through a friend, my parents found a job working in the fields, gathering different vegetables. Most days, we worked at plantations belonging to Koreans to gather onions. The pay was 20 KG of onions per person for 8-9 hours. Almost all day, one needed to be seated on the land and work in such a position to gather onions. Every day, we woke up at 4:30 AM, and at 5:45 AM, we gathered with other people at a particular location, from which a big car took us to the fields. My mother found a woman in the market who agreed to buy the onions from us, and that's how we converted them into money.
-#   positions:
-#   - designation: Plantation worker
-#     start: Jul 2001
-#     end: Oct 2001
-#     responsibilities:
-#     - Gather onions and other vegetables from the fields.
-
-
-# - company:
-#     name: Wheat mill
-#     # url: "https://en.wikipedia.org/wiki/Gush_Katif"
-#     location: Nikolaev, Ukraine
-#     logo: /images/sections/experiences/grain.jpg
-#     # Can optionally show a different logo for dark theme
-#     # darkLogo: /images/sections/experiences/company2.jpg
-#     overview: After the fall of the USSR, due to economic difficulties, I had to start working to financially support my family. At 15 years old, I began working at a wheat mill that belonged to the uncle of my friend. It was manual labor with large shovels, often requiring long hours, and sometimes late into the night. The pay was considered to be very good, at 2 UAH per 1000 KG of unloaded grain per team.
-#   positions:
-#   - designation: Loader
-#     start: May 1999
-#     end: May 2001
-#     responsibilities:
-#     - This marked my first work experience. Our task was to unload grain from trucks and load it into the mill. The job was extremely physically demanding and required us to constantly wear masks in order to breathe the air.
-
-
-# - company:
-#     name: Wheat mill
-#     # url: "https://en.wikipedia.org/wiki/Gush_Katif"
-#     location: xxx
-#     logo: /images/sections/experiences/dishwasher2.jpg
-#     # Can optionally show a different logo for dark theme
-#     # darkLogo: /images/sections/experiences/company2.jpg
-#     overview: xxx
-#   positions:
-#   - designation: dishwasher
-#     start: xxx
-#     end: xxx
-#     responsibilities:
-#     - xxx
-
-# - company:
-#     name: Wheat mill
-#     # url: "https://en.wikipedia.org/wiki/Gush_Katif"
-#     location: xxx
-#     logo: /images/sections/experiences/build.jpg
-#     # Can optionally show a different logo for dark theme
-#     # darkLogo: /images/sections/experiences/company2.jpg
-#     overview: xxx
-#   positions:
-#   - designation: dishwasher
-#     start: xxx
-#     end: xxx
-#     responsibilities:
-#     - xxx
+    - Моя первая работа была разгрузка зерна на мукомольном заводе после распада СССР, чтобы поддержать свою семью. Физически тяжелая работа включала долгие часы и ручной труд с большими лопатами.

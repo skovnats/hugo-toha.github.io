@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Projects
+  name: Проекты
   id: projects
   enable: true
   weight: 7
@@ -10,13 +10,13 @@ section:
 
 # filter buttons
 buttons:
-- name: All
+- name: Все
   filter: "all"
-- name: Professional
+- name: Профессиональная деятельность
   filter: "professional"
 # - name: Academic
 #   filter: "academic"
-- name: Hobby
+- name: Хобби
   filter: "hobby"
 # - name: Hybrid
 #   filter: "hybrid"
@@ -28,63 +28,64 @@ buttons:
 projects:
 - name: Opa
   logo: /images/sections/projects/logo_opa.png
-  role: Creator
-  timeline: "Mar 2024 - Present"
+  role: Создатель
+  timeline: "Мар 2024 - По настоящее время"
   url: "http://www.artiomkovnatsky.com/"
-  summary: "Entrepreneurship and implementation of ideas outlined in Project Ω (Ómega). <br>Opa (Greek: ώπα) is a word or pronouncement of celebration; the celebration of life itself."
+  summary: "Предпринимательство и реализация идей, изложенных в Проекте Ω (Ómega). <br>Opa (греческое: ώπα) — это слово или выражение празднования; празднование самой жизни."
   tags: ["hobby", "omega", "opa"]
 
-- name: Sports Betting
+- name: Спортивные ставки
   logo: /images/sections/projects/betting.jpg
-  role: Contriver and Developer
-  timeline: "Feb 2019 - Mar 2019"
+  role: Создатель и разработчик
+  timeline: "Фев 2019 - Мар 2019"
   repo: https://github.com/skovnats/fifa-betting
   #url: ""
-  summary: An attempt to predict the outcome of FIFA matches using machine learning; extension upon work of <a href="https://twitter.com/BradleyGrantham">Bradley Grantham</a>. A fun project with my friend to learn about sports betting.
+  summary: Попытка предсказать исход матчей FIFA с помощью машинного обучения; расширение работы <a href="https://twitter.com/BradleyGrantham">Брэдли Грантхэма</a>. Забавный проект с другом, чтобы узнать о спортивных ставках.
   tags: ["hobby", "AI", "math"]
 
-- name: Digitalization of Ukrainian Land Taxation
+- name: Цифровизация украинского налогообложения земли
   logo: /images/sections/projects/digtax.jpg
-  role: Contriver and Developer
-  timeline: "May 2019 - Aug 2019"
+  role: Создатель и разработчик
+  timeline: "Май 2019 - Авг 2019"
   # repo: https://github.com/kelseyhightower/nocode
   url: "https://www.dropbox.com/scl/fi/bl58tovb66lgnvbgma4rp/LIFT-app.-for-Dig.-for-Land-Evaluation-and-Taxation-v1.0.pdf?rlkey=g81gkq1lq0qj2sro3fm2vax09&dl=0"
-  summary: The project was an application for <a href="https://lift.net.ua/">Lift.digital's</a> grant. # The proposed project aimed to modernize land taxation to streamline processes and minimize opportunities for corruption. 
+  summary: Проект представлял собой приложение для гранта <a href="https://lift.net.ua/">Lift.digital</a>. # Предложенный проект направлен на модернизацию налогообложения земли с целью упрощения процессов и минимизации возможностей для коррупции.
   tags: ["hobby", "AI"]
 
-- name: Automatic Land Potential Evaluation
-  logo: /images/sections/projects/bau.png
-  role: Data Scientist
-  timeline: "Apr 2020 - Dec 2020"
-  url: "https://bauvoranfrage24.de/"
-  summary: An attempt to predict the potential of land for construction using machine learning. # The project was a part of the <a href="https://bauvoranfrage24.de/">Bauvoranfrage24</a> project.
-  tags: ["professional", "AI"]
-
-- name: Automatic Scheduling
-  logo: /images/sections/projects/schedule.png
-  role: Contriver and Developer
-  timeline: "2019"
-  url: "https://www.dropbox.com/scl/fi/ks6mq95vi421p9z3yavjx/Pflege-EMPO-promo.pdf?rlkey=5h15k9j2f13h397gi8gnak7d8&dl=0"
-  # repo: https://github.com/hossainemruz/toha
-  summary: An attempt to create an automated scheduling system for medical personnel; applied for a grant.
+- name: MADMM
+  logo: /images/sections/projects/madmm2.jpeg
+  role: Создатель и разработчик
+  timeline: "Июл 2016 - Окт 2016"
+  repo: https://github.com/skovnats/madmm
+  #url: ""
+  summary: "Общий алгоритм оптимизации на многообразиях."
   tags: ["professional", "math"]
 
 - name: HOMEDAY-PREISATLAS
   logo: /images/sections/projects/homeday.png
-  role: Solo Data Scientist
-  timeline: "September 2018 - September 2019"
-  # repo: https://www.homeday.de/de/preisatlas # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  url: "https://www.homeday.de/de/preisatlas" # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Real estate prices over time in Germany.
+  role: Самостоятельный специалист по данным
+  timeline: "Сентябрь 2018 - Сентябрь 2019"
+  # repo: https://www.homeday.de/de/preisatlas # Если ваш проект является публичным репозиторием на GitHub, укажите эту ссылку. Она покажет количество звезд.
+  url: "https://www.homeday.de/de/preisatlas" # Если ваш проект не является публичным репозиторием, но у него есть сайт или любая другая внешняя ссылка, укажите ее здесь. Не указывайте одновременно "repo" и "url".
+  summary: Цены на недвижимость в Германии с течением времени.
   tags: ["professional", "AI"]
 
-- name: MADMM
-  logo: /images/sections/projects/madmm2.jpeg
-  role: Contriver and Developer
-  timeline: "Jul 2016 - Oct 2016"
-  repo: https://github.com/skovnats/madmm
-  #url: ""
-  summary: "A general optimization algorithm on manifolds."
+- name: Автоматическая оценка потенциала земли
+  logo: /images/sections/projects/bau.png
+  role: Специалист по данным
+  timeline: "Апр 2020 - Дек 2020"
+  url: "https://bauvoranfrage24.de/"
+  summary: Попытка предсказать потенциал земли для строительства с помощью машинного обучения.
+  # The project was a part of the <a href="https://bauvoranfrage24.de/">Bauvoranfrage24</a> project.
+  tags: ["professional", "AI"]
+
+- name: Автоматическое планирование
+  logo: /images/sections/projects/schedule.png
+  role: Создатель и разработчик
+  timeline: "2019"
+  url: "https://www.dropbox.com/scl/fi/ks6mq95vi421p9z3yavjx/Pflege-EMPO-promo.pdf?rlkey=5h15k9j2f13h397gi8gnak7d8&dl=0"
+  # repo: https://github.com/hossainemruz/toha
+  summary: Попытка создать автоматизированную систему планирования для медицинского персонала; подана заявка на грант.
   tags: ["professional", "math"]
 
 - name: Feature Points in Image
@@ -98,9 +99,9 @@ projects:
 
 - name: Ómega
   logo: /images/sections/projects/logo_Omega.png
-  role: Creator
-  timeline: "July 2020 - Present"
-  # repo: https://www.homeday.de/de/preisatlas # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  url: "https://skovnats.github.io/posts/%CF%89/" # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: "Personal project: summarization of my life experiences and ideas. Rasing questions, sharing thoughts, and exploring alternatives to the current state of affairs. <br>The original text in Russian will be translated into English when time allows."
+  role: Создатель
+  timeline: "Июль 2020 - По настоящее время"
+  # repo: https://www.homeday.de/de/preisatlas # Если ваш проект является публичным репозиторием на GitHub, укажите эту ссылку. Она покажет количество звезд.
+  url: "https://skovnats.github.io/posts/%CF%89/" # Если ваш проект не является публичным репозиторием, но у него есть сайт или любая другая внешняя ссылка, укажите ее здесь. Не указывайте одновременно "repo" и "url".
+  summary: "Личный проект: суммирование моего жизненного опыта и идей. Поднимаю вопросы, делюсь мыслями и исследую альтернативы текущему состоянию дел. <br>Оригинальный текст на русском будет переведен на английский, когда позволит время."
   tags: ["hobby", "omega"]

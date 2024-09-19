@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Achievements
+  name: Достижения
   id: achievements
   enable: true
   weight: 8
@@ -19,21 +19,22 @@ section:
 
 # Your achievements achievements
 achievements:
-- title: One of the best children tutors
+- title: Один из лучших детских наставников
   image: /images/sections/achievements/teacher.jpg
-  summary: In 2011, I was honored with an award as one of the best children tutors in Israel.
+  summary: В 2011 году я был удостоен награды как один из лучших детских наставников в Израиле.
 
-- title: Marathon
+- title: Марафон
   image: /images/sections/achievements/marathon2.jpg
-  summary: Run the original Marathon in Greece in 11.2019.
+  summary: Пробежал оригинальный Марафон в Греции в ноябре 2019 года.
 
-- title: Top Presenter
+- title: Лучший докладчик
   image: /images/sections/achievements/presenter.jpeg
-  summary: On of the best presenters in the 2019 Project-A organised conference.
+  summary: Один из лучших докладчиков на конференции, организованной Project-A в 2019 году.
 
-- title: Boxing
+- title: Бокс
   image: /images/sections/achievements/boxing.jpeg
-  summary: Won local boxing championship in Nikolaev's region in 1999, Ukraine (passed to the Ukrainian championship).
+  summary: Выиграл местный чемпионат по боксу в Николаевской области в 1999 году, Украина (прошёл на чемпионат Украины).
+
 
 # - title: Graduation
 #   image: /images/sections/achievements/graduation-cap.jpg

@@ -1,6 +1,6 @@
 # section information
 section:
-  name: About # Title of section (default: "")
+  name: Über mich # Titel des Abschnitts (Standard: "")
   id: about # url id/slug of section *Required*
   enable: true # Boolean to determine if this section is enabled (default: false)
   weight: 1 # Order to display section in (default: alphabetical followed by weight)
@@ -8,7 +8,7 @@ section:
   template: sections/about.html # allows you to point to a specific template.
 
 # your designation
-designation: Data Professional | Mentoring Coach
+designation: Datenprofi | Mentoring-Coach
 # your company information
 # company:
 #   name: Self-employment
@@ -20,7 +20,7 @@ designation: Data Professional | Mentoring Coach
 
 
 # a summary about you
-summary: 'My name is Artiom, I also sometimes use the nickname Master Splinter 🐀 🥋, the wise rat-teacher from the Ninja Turtles. This is my personal website, where you can find both professional information and personal reflections. The posts section contains publications on topics of interest to me, including an outline of my life''s "Philosophy" and "Metaphorical Autobiography".<br>Because of the specifics of my life experiences, it can be difficult to find the exact words to express myself, so I use metaphors. But first, a bit of formal introduction:<br><br><blockquote> Artiom Kovnatsky, PhD, is a highly skilled Data Scientist and Business Analyst with extensive experience in providing complex data services. I specialise in data science, business analysis, MLOps and consulting. Known for my ability to extract business value from "bad" or "sparse" data even in challenging environments. I successfully deliver high-risk projects while meeting deadlines and ensuring the highest quality. Demonstrate leadership in building and mentoring cross-functional teams to achieve strategic goals, using innovative tools and methodologies with a focus on efficiency.</blockquote> <br><br>Now that the formal part is complete, I''ll move on to the informal part. My life developed in such a way that every 3-6 months, and sometimes several times a day, I figuratively speaking "moved" to a "new country". I had to constantly learn, adapt, improvise and solve problems with minimal resources. What they teach in smart books about startups - flexibility, strategic thinking, ability to work with limited resources, attention to detail and anticipation of opportunities - became a matter of survival for me. These skills are honed in me to perfection.<br><br>However, man is not only built for survival, but also for life. Therefore, for a long time I have been engaged in developing my inner world, practising meditation and spiritual practices to find harmony with myself and the world around me. In July 2020, I dedicated myself to a deep practice that helped me resolve inner contradictions and find answers to important questions. During this process, I temporarily "stepped out of society". However, I have decided to return to share what I realised and to live among people. I hope I will be able to communicate my thoughts through articles, videos, lectures, presentations and entrepreneurship. <br>I look forward to making new connections and "resetting" old ones!<br><br>You can schedule an appointment using Calendly <a href="https://calendly.com/artiom_kovnatsky" target="_blank">here</a>, or through Read.ai <a href="https://cal.read.ai/artiomkovnatsky" target="_blank">here</a>.' #<br>Your\''s, Art the Rat!
+summary: 'Mein Name ist Artiom, manchmal benutze ich auch das Spitznamen Meister Splinter 🐀 🥋, den weisen Rattenlehrer aus den Ninja-Turtles. Dies ist meine persönliche Website, auf der Sie sowohl professionelle Informationen als auch persönliche Reflexionen finden können. Der Abschnitt mit Beiträgen enthält Veröffentlichungen zu Themen, die mich interessieren, einschließlich einer Übersicht über meine Lebensphilosophie und "Metaphorische Autobiografie".<br>Aufgrund der Spezifika meiner Lebenserfahrungen kann es schwierig sein, die richtigen Worte zu finden, um mich auszudrücken, daher verwende ich Metaphern. Aber zuerst ein wenig formelle Einführung:<br><br><blockquote> Artiom Kovnatsky, PhD, ist ein hochqualifizierter Datenwissenschaftler und Business-Analyst mit umfangreicher Erfahrung in der Bereitstellung komplexer Datenservices. Ich spezialisiere mich auf Datenwissenschaft, Business-Analyse, MLOps und Beratung. Bekannt für meine Fähigkeit, geschäftlichen Wert aus "schlechten" oder "dünnen" Daten selbst in herausfordernden Umgebungen zu extrahieren. Ich liefere erfolgreich Projekte mit hohem Risiko, während ich die Fristen einhalte und die höchste Qualität sicherstelle. Ich zeige Führung beim Aufbau und der Anleitung interdisziplinärer Teams zur Erreichung strategischer Ziele, wobei ich innovative Werkzeuge und Methoden mit einem Fokus auf Effizienz verwende.</blockquote> <br><br>Jetzt, da der formelle Teil abgeschlossen ist, komme ich zum informellen Teil. Mein Leben hat sich so entwickelt, dass ich alle 3–6 Monate, und manchmal mehrere Male am Tag, bildlich gesprochen "in ein neues Land gezogen" bin. Ich musste ständig lernen, mich anpassen, improvisieren und Probleme mit minimalen Ressourcen lösen. Was in klugen Büchern über Startups gelehrt wird – Flexibilität, strategisches Denken, die Fähigkeit, mit begrenzten Ressourcen zu arbeiten, Aufmerksamkeit für Details und Vorwegnahme von Möglichkeiten – wurde für mich eine Überlebensfrage. Diese Fähigkeiten sind in mir zur Perfektion geschliffen.<br><br>Jedoch ist der Mensch nicht nur zum Überleben geschaffen, sondern auch zum Leben. Daher habe ich lange Zeit damit verbracht, meine innere Welt zu entwickeln, indem ich Meditation und spirituelle Praktiken praktiziere, um Harmonie mit mir selbst und der Welt um mich herum zu finden. Im Juli 2020 widmete ich mich einer tiefen Praxis, die mir half, innere Widersprüche zu lösen und Antworten auf wichtige Fragen zu finden. Während dieses Prozesses trat ich vorübergehend "aus der Gesellschaft heraus". Dennoch habe ich beschlossen, zurückzukehren, um das, was ich erkannt habe, zu teilen und unter den Menschen zu leben. Ich hoffe, dass ich in der Lage sein werde, meine Gedanken durch Artikel, Videos, Vorträge, Präsentationen und Unternehmertum zu kommunizieren. <br>Ich freue mich darauf, neue Verbindungen zu knüpfen und alte zu "resetten"!<br><br>Sie können einen Termin über Calendly <a href="https://calendly.com/artiom_kovnatsky" target="_blank">hier</a> oder über Read.ai <a href="https://cal.read.ai/artiomkovnatsky" target="_blank">hier</a> vereinbaren.' #<br>Ihr, Art die Ratte!
 
 #---------------
 # your social links
@@ -75,17 +75,17 @@ socialLinks:
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
 resourceLinks:
-- title: "Self-Intro"
+- title: "Selbstvorstellung"
   url: "files/self_introduction.pdf"
-- title: "CV"
-  url: "files/cv_ArtiomKovnatsky.pdf"
+- title: "Lebenslauf"
+  url: "files/cv_ArtiomKovnatsky_de.pdf"
 # - title: "QR Code"
 #   url: "files/qr-code_mod.png"
 # - title: "Logo"
 #   url: "files/logo_opa.png"
-- title: "Sample Projects"
-  url: "files/sample_projects_DrArtiomKovnatsky.pdf"
-- title: "Recommendations"
+- title: "Beispielprojekte"
+  url: "files/sample_projects_DrArtiomKovnatsky_de.pdf"
+- title: "Empfehlungen"
   url: "files/recommendations_DrArtiomKovnatsky_full.pdf"
 # - title: "Business Card"
 #   url: "files/business_card_q.pdf"
@@ -111,7 +111,7 @@ badges:
 
 #-----------
 - type: soft-skill-indicator
-  name: Original Thinking
+  name: Originales Denken
   percentage: 100
   color: "#00bbf9"
 
@@ -121,17 +121,17 @@ badges:
   color: "#00bbf9"
 
 - type: soft-skill-indicator
-  name: Creativity #& Innovation
+  name: Kreativität #& Innovation
   percentage: 95
   color: "#00bbf9"
 #-----------
 - type: soft-skill-indicator
-  name: Productivity Optimization
+  name: Produktivitätsoptimierung
   percentage: 100
   color: "#eb5e28"
 
 - type: soft-skill-indicator
-  name: Troubleshooting
+  name: Fehlerbehebung
   percentage: 100
   color: "#eb5e28"
 
@@ -141,17 +141,17 @@ badges:
   color: "#eb5e28"
 #-----------
 - type: soft-skill-indicator
-  name: Presentation
+  name: Präsentation
   percentage: 95
   color: "#0a9396"
 
 - type: soft-skill-indicator
-  name: Leadership
+  name: Führung
   percentage: 85
   color: "#0a9396"
 
 - type: soft-skill-indicator
-  name: Collaboration
+  name: Zusammenarbeit
   percentage: 85
   color: "#0a9396"
 #-----------

@@ -3,10 +3,10 @@
 
 # A disclaimer notice for the footer. Make sure you have set "params.footer.disclaimer.enable: true" in your `config.yaml` file.
 # disclaimer: "All views are of my own.<br>{{< alert type="secondary" >}}xxx{{< /alert >}}"
-disclaimer: "All views are of my own.<br>❕I’d appreciate your help: if you know someone who could benefit from my skills, please contact us."
+disclaimer: "Все высказанные мнения являются моими собственными.<br>❕Я был бы признателен за вашу помощь: если вы знаете кого-то, кому могут быть полезны мои навыки, пожалуйста, свяжите нас."
 
 # Meta description for your site.  This will help the search engines to find your site.
-description: Portfolio and personal site of Dr. Artiom Kovnatsky.
+description: Портфолио и персональный сайт Артёма Ковнацкого.
 
 # Change Navbar Title
 # navBarTitle: "Title"
@@ -23,7 +23,7 @@ customMenus:
 #   # if you set it to true, make sure you have set `footer.navigation.customMenus: true` in your config.yaml
 #   showOnFooter: false
 - name: Φ # Ω
-  url: http://localhost:1313/posts/philosophy/ # https://skovnats.github.io/posts/philosophy/ # https://skovnats.github.io/posts/%CF%89/
+  url: https://www.artiomkovnatsky.com/posts/philosophy # http://localhost:1313/posts/philosophy/ # https://skovnats.github.io/posts/philosophy/ # https://skovnats.github.io/posts/%CF%89/
   # specify whether to hide the menu item from top navbar or not.
   hideFromNavbar: false
   # specify whether to show the menu item in footer or not.
@@ -33,8 +33,8 @@ customMenus:
 
 # Specify OpenGraph Headers
 openGraph:
-  title: Dr. Artiom Kovnatsky
-  type: website
-  description: Portfolio and personal site of Dr. Artiom Kovnatsky.
+  title: Артём Ковнацкий
+  type: персональный сайт
+  description: Портфолио и персональный сайт Артёма Ковнацкого.
   image: images/author/artiom_formal.jpg
-  url: https://skovnats.github.io
+  url: http://www.artiomkovnatsky.com

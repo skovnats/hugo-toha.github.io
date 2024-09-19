@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Recent Posts # Title of section (default: "")
+  name: Последние посты # Title of section (default: "")
   id: recent-posts # url id/slug of section *Required*
   enable: false # Boolean to determine if this section is enabled (default: false)
   weight: 8 # Order to display section in (default: alphabetical followed by weight)

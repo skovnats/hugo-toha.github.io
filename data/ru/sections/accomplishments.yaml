@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Accomplishments
+  name: Курсы и сертификаты
   id: accomplishments
   enable: true
   weight: 6
@@ -11,28 +11,28 @@ section:
 
 # Your accomplishments
 accomplishments:
-- name: The Complete Project Management Course for Beginners
-  timeline: "Jul 2020"
+- name: Полный курс по управлению проектами для начинающих
+  timeline: "Июль 2020"
   organization:
     name: Udemy
     url: https://www.udemy.com/course/one-month-project-management/
-  courseOverview: This beginner's course provides a practical introduction to Project Management, designed for individuals looking to break into the field or those who have recently taken on project management responsibilities. It covers essential skills such as email optimization, schedule planning, and work breakdown structures. The course offers hands-on knowledge that can be applied immediately in any industry, helping participants efficiently manage projects from ideation to completion. It is ideal for aspiring project managers, startup professionals, and developers who need to understand the fundamentals of project management.
+  courseOverview: Этот курс для начинающих представляет практическое введение в управление проектами, предназначенный для людей, стремящихся войти в эту сферу или недавно взявших на себя обязанности управления проектами. Он охватывает основные навыки, такие как оптимизация электронной почты, планирование расписания и создание структуры декомпозиции работ. Курс предоставляет практические знания, которые можно сразу применить в любой отрасли, помогая участникам эффективно управлять проектами от идеи до завершения. Идеально подходит для начинающих менеджеров проектов, профессионалов стартапов и разработчиков, которым нужно понять основы управления проектами.
   certificateURL: "https://www.udemy.com/certificate/UC-V09T173Q/"
 
-- name: Strategy for Management Consultants & Business Analysts
-  timeline: "Dec 2020 - Jan 2021"
+- name: Стратегия для консультантов по управлению и бизнес-аналитиков
+  timeline: "Дек 2020 - Янв 2021"
   organization:
     name: Udemy
     url: https://www.udemy.com/course/strategy-for-management-consultants-business-analysts/
-  courseOverview: This course provides a comprehensive framework for creating and executing business strategies at a high level, comparable to top consulting firms like McKinsey, BCG, and PwC. It is designed for management consultants, business analysts, and entrepreneurs who want to master strategy formulation and implementation. Through case studies and practical examples, the course teaches how to choose the optimal strategic options, calculate their impact, and execute them effectively. Participants will gain valuable skills in data analysis, Excel-based decision-making, and structuring complex business issues.
+  courseOverview: Этот курс предоставляет всеобъемлющую структуру для создания и реализации бизнес-стратегий на высоком уровне, сопоставимом с ведущими консалтинговыми фирмами, такими как McKinsey, BCG и PwC. Курс разработан для консультантов по управлению, бизнес-аналитиков и предпринимателей, которые хотят освоить формулирование и внедрение стратегий. Через кейс-стадии и практические примеры курс обучает выбору оптимальных стратегических вариантов, расчету их воздействия и эффективному исполнению. Участники приобретут ценные навыки в анализе данных, принятии решений на основе Excel и структурировании сложных бизнес-задач.
   certificateURL: "https://www.udemy.com/certificate/UC-7deb5b0c-ab30-42d9-b91f-f79d9bac026c/"
 
 - name: telc Deutsch B1
-  timeline: "Jan 2019"
+  timeline: "Янв 2019"
   organization:
     name: Kapitel Zwei
     url: https://kapitel-zwei.de/telc-deutsch-berlin/
-  courseOverview: Deutsch B1, exam.
+  courseOverview: Deutsch B1, экзамен.
   certificateURL: "https://www.dropbox.com/scl/fi/9e8grokvq8d6t2r4t6cly/DrArtiomKovnatsky_B1-telc.pdf?rlkey=n519ph17osah7mhiqo87ev91y&dl=0"
 
 - name: Deutschkurs und Berufssprachprüfung B2
@@ -40,7 +40,7 @@ accomplishments:
   organization:
     name: Hartnack Schule
     url: https://www.hartnackschule-berlin.de/de/berufssprachkurse
-  courseOverview: Deutsch B2, course and exam.
+  courseOverview: Deutsch B2, курс и экзамен.
   certificateURL: "https://www.dropbox.com/scl/fi/cap689z2trr7qdjq7h3yq/DrArtiomKovnatsky_B2-telc_DKB.pdf?rlkey=61ndfa59ers8ajeu2gwfk6q38&dl=0"
 
 

@@ -1,8 +1,8 @@
 # some information about you
 name: "Artiom Kovnatsky"
-nickname: "Art(iom), from greek Αρτέμιος"
+nickname: "Art(iom), aus dem Griechischen Αρτέμιος"
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "Welcome, I am "
+greeting: "Willkommen, ich bin "
 image: "images/author/artiom_formal.jpg"
 # give your some contact information. they will be used in the footer
 contactInfo:
@@ -18,12 +18,12 @@ contactInfo:
 
 # some summary about what you do
 summary:
-- I'm a Data Professional and Mentoring Coach
-- I'm good at extracting value from imperfect data
-- I can deal with rare cases
-- I like solving complex problems
-# - I'm flexible with regards to instruments and approaches
-- See below for professional information and my posts for personal views
+- Ich bin ein Datenprofi und Mentoring-Coach
+- Ich bin gut darin, Wert aus imperfecten Daten zu extrahieren
+- Ich kann mit seltenen Fällen umgehen
+- Ich löse gerne komplexe Probleme
+- Siehe unten für professionelle Informationen und meine Beiträge für persönliche Ansichten
+# - Ich bin flexibel in Bezug auf Instrumente und Ansätze
 
 # - I am a Human
 # - I am a Mathematician

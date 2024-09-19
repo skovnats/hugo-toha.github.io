@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Projects
+  name: Projekte
   id: projects
   enable: true
   weight: 7
@@ -10,9 +10,9 @@ section:
 
 # filter buttons
 buttons:
-- name: All
+- name: Alle
   filter: "all"
-- name: Professional
+- name: Professionell
   filter: "professional"
 # - name: Academic
 #   filter: "academic"
@@ -29,78 +29,80 @@ projects:
 - name: Opa
   logo: /images/sections/projects/logo_opa.png
   role: Creator
-  timeline: "Mar 2024 - Present"
+  timeline: "März 2024 - Gegenwart"
   url: "http://www.artiomkovnatsky.com/"
-  summary: "Entrepreneurship and implementation of ideas outlined in Project Ω (Ómega). <br>Opa (Greek: ώπα) is a word or pronouncement of celebration; the celebration of life itself."
+  summary: "Unternehmertum und Umsetzung der in Projekt Ω (Ómega) skizzierten Ideen. <br>Opa (Griechisch: ώπα) ist ein Wort oder Ausdruck der Feier; das Feiern des Lebens selbst."
   tags: ["hobby", "omega", "opa"]
 
-- name: Sports Betting
+- name: Sportwetten
   logo: /images/sections/projects/betting.jpg
-  role: Contriver and Developer
-  timeline: "Feb 2019 - Mar 2019"
+  role: Erfinder und Entwickler
+  timeline: "Feb 2019 - Mär 2019"
   repo: https://github.com/skovnats/fifa-betting
   #url: ""
-  summary: An attempt to predict the outcome of FIFA matches using machine learning; extension upon work of <a href="https://twitter.com/BradleyGrantham">Bradley Grantham</a>. A fun project with my friend to learn about sports betting.
+  summary: Ein Versuch, den Ausgang von FIFA-Spielen mit Hilfe von maschinellem Lernen vorherzusagen; eine Erweiterung der Arbeiten von <a href="https://twitter.com/BradleyGrantham">Bradley Grantham</a>. Ein spaßiges Projekt mit meinem Freund, um mehr über Sportwetten zu lernen.
   tags: ["hobby", "AI", "math"]
 
-- name: Digitalization of Ukrainian Land Taxation
+- name: Digitalisierung der ukrainischen Grundbesteuerung
   logo: /images/sections/projects/digtax.jpg
-  role: Contriver and Developer
-  timeline: "May 2019 - Aug 2019"
+  role: Erfinder und Entwickler
+  timeline: "Mai 2019 - Aug 2019"
   # repo: https://github.com/kelseyhightower/nocode
   url: "https://www.dropbox.com/scl/fi/bl58tovb66lgnvbgma4rp/LIFT-app.-for-Dig.-for-Land-Evaluation-and-Taxation-v1.0.pdf?rlkey=g81gkq1lq0qj2sro3fm2vax09&dl=0"
-  summary: The project was an application for <a href="https://lift.net.ua/">Lift.digital's</a> grant. # The proposed project aimed to modernize land taxation to streamline processes and minimize opportunities for corruption. 
+  summary: Das Projekt war eine Anwendung für den <a href="https://lift.net.ua/">Lift.digital</a>-Förderantrag.
+  # The proposed project aimed to modernize land taxation to streamline processes and minimize opportunities for corruption. 
   tags: ["hobby", "AI"]
 
-- name: Automatic Land Potential Evaluation
-  logo: /images/sections/projects/bau.png
-  role: Data Scientist
-  timeline: "Apr 2020 - Dec 2020"
-  url: "https://bauvoranfrage24.de/"
-  summary: An attempt to predict the potential of land for construction using machine learning. # The project was a part of the <a href="https://bauvoranfrage24.de/">Bauvoranfrage24</a> project.
-  tags: ["professional", "AI"]
-
-- name: Automatic Scheduling
-  logo: /images/sections/projects/schedule.png
-  role: Contriver and Developer
-  timeline: "2019"
-  url: "https://www.dropbox.com/scl/fi/ks6mq95vi421p9z3yavjx/Pflege-EMPO-promo.pdf?rlkey=5h15k9j2f13h397gi8gnak7d8&dl=0"
-  # repo: https://github.com/hossainemruz/toha
-  summary: An attempt to create an automated scheduling system for medical personnel; applied for a grant.
+- name: MADMM
+  logo: /images/sections/projects/madmm2.jpeg
+  role: Erfinder und Entwickler
+  timeline: "Jul 2016 - Okt 2016"
+  repo: https://github.com/skovnats/madmm
+  #url: ""
+  summary: "Ein allgemeiner Optimierungsalgorithmus auf Mannigfaltigkeiten."
   tags: ["professional", "math"]
 
 - name: HOMEDAY-PREISATLAS
   logo: /images/sections/projects/homeday.png
-  role: Solo Data Scientist
+  role: Selbstständiger Datenwissenschaftler
   timeline: "September 2018 - September 2019"
-  # repo: https://www.homeday.de/de/preisatlas # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  url: "https://www.homeday.de/de/preisatlas" # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Real estate prices over time in Germany.
+  # repo: https://www.homeday.de/de/preisatlas # Wenn Ihr Projekt ein öffentliches Repository auf GitHub ist, geben Sie diesen Link an. Er zeigt die Anzahl der Sterne an.
+  url: "https://www.homeday.de/de/preisatlas" # Wenn Ihr Projekt kein öffentliches Repository ist, aber eine Website oder einen anderen externen Link hat, geben Sie ihn hier an. Geben Sie "repo" und "url" nicht gleichzeitig an.
+  summary: Immobilienpreise im Zeitverlauf in Deutschland.
   tags: ["professional", "AI"]
 
-- name: MADMM
-  logo: /images/sections/projects/madmm2.jpeg
-  role: Contriver and Developer
-  timeline: "Jul 2016 - Oct 2016"
-  repo: https://github.com/skovnats/madmm
-  #url: ""
-  summary: "A general optimization algorithm on manifolds."
+- name: Automatische Bewertung des Landpotenzials
+  logo: /images/sections/projects/bau.png
+  role: Datenwissenschaftler
+  timeline: "Apr 2020 - Dez 2020"
+  url: "https://bauvoranfrage24.de/"
+  summary: Ein Versuch, das Potenzial von Land für den Bau mithilfe von maschinellem Lernen vorherzusagen.
+  # The project was a part of the <a href="https://bauvoranfrage24.de/">Bauvoranfrage24</a> project.
+  tags: ["professional", "AI"]
+
+- name: Automatisches Planen
+  logo: /images/sections/projects/schedule.png
+  role: Erfinder und Entwickler
+  timeline: "2019"
+  url: "https://www.dropbox.com/scl/fi/ks6mq95vi421p9z3yavjx/Pflege-EMPO-promo.pdf?rlkey=5h15k9j2f13h397gi8gnak7d8&dl=0"
+  # repo: https://github.com/hossainemruz/toha
+  summary: Ein Versuch, ein automatisiertes Planungssystem für medizinisches Personal zu schaffen; Antrag auf einen Zuschuss gestellt.
   tags: ["professional", "math"]
 
-- name: Feature Points in Image
+- name: Merkmalpunkte im Bild
   logo: /images/sections/projects/sift.jpg
-  role: Developer
+  role: Entwickler
   timeline: "Aug 2015"
   # repo: https://github.com/kelseyhightower/nocode
   url: "https://www.mathworks.com/matlabcentral/fileexchange/29004-feature-points-in-image-keypoint-extraction"
-  summary: "Feature points (read corners) in images are points that invariant under view changes, zoom, lightening conditions etc."
+  summary: "Merkmalpunkte (also Ecken) in Bildern sind Punkte, die invariant gegenüber Änderungen des Blickwinkels, Zooms, Lichtverhältnissen usw. sind."
   tags: ["professional", "math"]
 
 - name: Ómega
   logo: /images/sections/projects/logo_Omega.png
-  role: Creator
-  timeline: "July 2020 - Present"
-  # repo: https://www.homeday.de/de/preisatlas # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  url: "https://skovnats.github.io/posts/%CF%89/" # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: "Personal project: summarization of my life experiences and ideas. Rasing questions, sharing thoughts, and exploring alternatives to the current state of affairs. <br>The original text in Russian will be translated into English when time allows."
+  role: Erfinder
+  timeline: "Juli 2020 - Gegenwart"
+  # repo: https://www.homeday.de/de/preisatlas # Wenn Ihr Projekt ein öffentliches Repository auf GitHub ist, geben Sie diesen Link an. Er zeigt die Anzahl der Sterne an.
+  url: "https://skovnats.github.io/posts/%CF%89/" # Wenn Ihr Projekt kein öffentliches Repository ist, aber eine Website oder einen anderen externen Link hat, geben Sie ihn hier an. Geben Sie "repo" und "url" nicht gleichzeitig an.
+  summary: "Persönliches Projekt: Zusammenfassung meiner Lebenserfahrungen und Ideen. Fragen aufwerfen, Gedanken teilen und Alternativen zum aktuellen Zustand der Dinge erkunden. <br>Der ursprüngliche Text auf Russisch wird ins Englische übersetzt, wenn es die Zeit erlaubt."
   tags: ["hobby", "omega"]
