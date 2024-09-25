@@ -11,9 +11,14 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: 🧩 Business Value Extraction from Imperfect Data
+- name: 👁️‍🗨️ Unseen Potential Recognition
   # logo: /images/sections/skills/go.png
-  summary: "Expertise in deriving actionable insights from flawed or sparse data, turning imperfect information into valuable business intelligence​."
+  summary: "Skilled in identifying hidden opportunities within complex situations, transforming challenges into strategic advantages by revealing unseen paths and untapped resources, and converting them into valuable assets that drive growth and innovation."
+  # url: "https://golang.org/"
+
+- name: 🧩 (Imperfect) Data "Activation"
+  # logo: /images/sections/skills/go.png
+  summary: "Skilled in extracting actionable insights and creating valuable products from flawed or sparse data, turning it into a strategic asset by uncovering, maybe, previously unseen business opportunities."
   # url: "https://golang.org/"
 
 - name: 🔓 Non-Standard Problem Solving
@@ -62,10 +67,10 @@ skills:
 #   # url: "https://golang.org/"
 
 
-- name: 📏 Attention to Detail
-  # logo: /images/sections/skills/go.png
-  summary: "Strong focus on precision and accuracy in data analysis and project execution."
-  # url: "https://golang.org/"
+# - name: 📏 Attention to Detail
+#   # logo: /images/sections/skills/go.png
+#   summary: "Strong focus on precision and accuracy in data analysis and project execution."
+#   # url: "https://golang.org/"
 
 - name: 🎯✅ Results-Oriented Approach
   # logo: /images/sections/skills/go.png

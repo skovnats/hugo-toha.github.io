@@ -88,13 +88,13 @@ projects:
   summary: Попытка создать автоматизированную систему планирования для медицинского персонала; подана заявка на грант.
   tags: ["professional", "math"]
 
-- name: Feature Points in Image
+- name: Особенные точки в изображении
   logo: /images/sections/projects/sift.jpg
-  role: Developer
-  timeline: "Aug 2015"
+  role: Разработчик
+  timeline: "Авг 2015"
   # repo: https://github.com/kelseyhightower/nocode
   url: "https://www.mathworks.com/matlabcentral/fileexchange/29004-feature-points-in-image-keypoint-extraction"
-  summary: "Feature points (read corners) in images are points that invariant under view changes, zoom, lightening conditions etc."
+  summary: "Особенные точки (углы) в изображениях — это точки, которые остаются неизменными при изменениях угла обзора, масштабировании, условиях освещения и т. д."
   tags: ["professional", "math"]
 
 - name: Ómega

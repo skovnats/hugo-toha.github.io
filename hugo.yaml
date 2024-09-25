@@ -61,6 +61,8 @@ enableEmoji: true
 
 # Site parameters
 params:
+  # featuredPosts: ["posts/services/services-activate", "posts/services/services-consult"]
+
   # Background image of the landing page
   background: /images/site/back0.jpg # background2.jpg
 
@@ -81,7 +83,7 @@ params:
 
   # Configure the number of section title visible in the top navbar
   topNavbar:
-    maxVisibleSections: 4
+    maxVisibleSections: 3
 
   # Configure various features of this theme
   features:

@@ -5,5 +5,5 @@ menu:
     name: Video presentations
     identifier: omega-video
     parent: omega-posts
-    weight: 10
+    weight: 100
 ---

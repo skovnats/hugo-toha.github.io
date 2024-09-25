@@ -3,9 +3,8 @@ section:
   name: Publications
   id: publications
   enable: false
-  weight: 7
-  showOnNavbar: false
-  # Can optionally hide the title in sections
+  weight: -1
+  showOnNavbar: false # Can optionally hide the title in sections
   # hideTitle: true
 
 # filter buttons
