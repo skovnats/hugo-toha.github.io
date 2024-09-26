@@ -7,7 +7,7 @@ menu:
     name: Philosophy
     identifier: philosophy
     weight: 10
-tags: ["Philosophy", "Ómega"]
+tags: [ "Ómega", "Philosophy"]
 categories: ["Personal", "Ómega"]
 ---
 

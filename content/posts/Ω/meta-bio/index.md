@@ -11,6 +11,8 @@ menu:
     weight: 10
 mermaid: true
 featured: true
+tags: ["Ómega", "Personal", "Philosophy"]
+categories: ["Personal", "Professional"]
 ---
 ### Complete Post Coming Soon...
 hbvvbhvn

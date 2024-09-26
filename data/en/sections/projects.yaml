@@ -3,7 +3,7 @@ section:
   name: Projects
   id: projects
   enable: true
-  weight: 7
+  weight: 8
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
@@ -31,7 +31,7 @@ projects:
   role: Creator
   timeline: "Mar 2024 - Present"
   url: "http://www.artiomkovnatsky.com/"
-  summary: "Entrepreneurship and implementation of ideas outlined in Project Ω (Ómega). <br>Opa (Greek: ώπα) is a word or pronouncement of celebration; the celebration of life itself."
+  summary: "Entrepreneurship and implementation of ideas outlined in Project Ω (Ómega). <br>Opa (Greek: ώπα) is a word or pronouncement of celebration; the celebration of life itself. Opa (German: grandpa) also refers to my grandpa, Valery Kovnatsky."
   tags: ["hobby", "omega", "opa"]
 
 - name: Sports Betting
