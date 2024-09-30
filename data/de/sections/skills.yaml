@@ -11,6 +11,12 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
+- name: 👁️‍🗨️ Erkennung verborgenen Potenzials
+  # logo: /images/sections/skills/go.png
+  summary: "Fähigkeit, verborgene Chancen in komplexen Situationen zu erkennen, Herausforderungen in strategische Vorteile umzuwandeln, indem unsichtbare Wege und ungenutzte Ressourcen aufgedeckt und in wertvolle Vermögenswerte umgewandelt werden, die Wachstum und Innovation vorantreiben."
+  # url: "https://golang.org/"
+
+
 - name: 🧩 Extraktion von Geschäftswert aus unvollkommenen Daten
   # logo: /images/sections/skills/go.png
   summary: "Expertise in der Ableitung umsetzbarer Einblicke aus fehlerhaften oder spärlichen Daten, um unvollkommene Informationen in wertvolle Geschäftsanalytik zu verwandeln."
@@ -46,10 +52,10 @@ skills:
   summary: "Fähigkeit, datengestützte Lösungen mit umfassenderen Geschäftsstrategien in Einklang zu bringen, um langfristigen Erfolg und Wachstum zu gewährleisten."
   # url: "https://golang.org/"
 
-- name: 📏 Aufmerksamkeit für Details
-  # logo: /images/sections/skills/go.png
-  summary: "Starker Fokus auf Präzision und Genauigkeit in der Datenanalyse und Projektausführung."
-  # url: "https://golang.org/"
+# - name: 📏 Aufmerksamkeit für Details
+#   # logo: /images/sections/skills/go.png
+#   summary: "Starker Fokus auf Präzision und Genauigkeit in der Datenanalyse und Projektausführung."
+#   # url: "https://golang.org/"
 
 - name: 🎯✅ Ergebnisorientierter Ansatz
   # logo: /images/sections/skills/go.png

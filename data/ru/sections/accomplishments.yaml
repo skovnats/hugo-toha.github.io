@@ -3,7 +3,7 @@ section:
   name: Курсы и сертификаты
   id: accomplishments
   enable: true
-  weight: 6
+  weight: 7
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
@@ -36,7 +36,7 @@ accomplishments:
   certificateURL: "https://www.dropbox.com/scl/fi/9e8grokvq8d6t2r4t6cly/DrArtiomKovnatsky_B1-telc.pdf?rlkey=n519ph17osah7mhiqo87ev91y&dl=0"
 
 - name: Deutschkurs und Berufssprachprüfung B2
-  timeline: "Apr 2023 - Aug 2023"
+  timeline: "Апр 2023 - Авг 2023"
   organization:
     name: Hartnack Schule
     url: https://www.hartnackschule-berlin.de/de/berufssprachkurse

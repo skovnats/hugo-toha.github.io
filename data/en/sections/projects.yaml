@@ -64,7 +64,7 @@ projects:
 - name: HOMEDAY-PREISATLAS
   logo: /images/sections/projects/homeday.png
   role: Solo Data Scientist
-  timeline: "September 2018 - September 2019"
+  timeline: "Sep 2018 - Sep 2019"
   # repo: https://www.homeday.de/de/preisatlas # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: "https://www.homeday.de/de/preisatlas" # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Real estate prices over time in Germany.

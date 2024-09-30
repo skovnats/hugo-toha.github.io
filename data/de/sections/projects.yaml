@@ -3,7 +3,7 @@ section:
   name: Projekte
   id: projects
   enable: true
-  weight: 7
+  weight: 8
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
@@ -29,9 +29,9 @@ projects:
 - name: Opa
   logo: /images/sections/projects/logo_opa.png
   role: Creator
-  timeline: "März 2024 - Gegenwart"
+  timeline: "März 2024 - Present"
   url: "http://www.artiomkovnatsky.com/"
-  summary: "Unternehmertum und Umsetzung der in Projekt Ω (Ómega) skizzierten Ideen. <br>Opa (Griechisch: ώπα) ist ein Wort oder Ausdruck der Feier; das Feiern des Lebens selbst."
+  summary: "Unternehmertum und Umsetzung der im Projekt Ω (Ómega) skizzierten Ideen. <br>Opa (Griechisch: ώπα) ist ein Wort oder Ausdruck des Feierns; das Feiern des Lebens selbst. Opa bezieht sich auch auf meinen Großvater, Valery Kovnatsky."
   tags: ["hobby", "omega", "opa"]
 
 - name: Sportwetten
@@ -65,7 +65,7 @@ projects:
 - name: HOMEDAY-PREISATLAS
   logo: /images/sections/projects/homeday.png
   role: Selbstständiger Datenwissenschaftler
-  timeline: "September 2018 - September 2019"
+  timeline: "Sep 2018 - Sep 2019"
   # repo: https://www.homeday.de/de/preisatlas # Wenn Ihr Projekt ein öffentliches Repository auf GitHub ist, geben Sie diesen Link an. Er zeigt die Anzahl der Sterne an.
   url: "https://www.homeday.de/de/preisatlas" # Wenn Ihr Projekt kein öffentliches Repository ist, aber eine Website oder einen anderen externen Link hat, geben Sie ihn hier an. Geben Sie "repo" und "url" nicht gleichzeitig an.
   summary: Immobilienpreise im Zeitverlauf in Deutschland.
@@ -101,8 +101,8 @@ projects:
 - name: Ómega
   logo: /images/sections/projects/logo_Omega.png
   role: Erfinder
-  timeline: "Juli 2020 - Gegenwart"
+  timeline: "Juli 2020 - Present"
   # repo: https://www.homeday.de/de/preisatlas # Wenn Ihr Projekt ein öffentliches Repository auf GitHub ist, geben Sie diesen Link an. Er zeigt die Anzahl der Sterne an.
   url: "https://skovnats.github.io/posts/%CF%89/" # Wenn Ihr Projekt kein öffentliches Repository ist, aber eine Website oder einen anderen externen Link hat, geben Sie ihn hier an. Geben Sie "repo" und "url" nicht gleichzeitig an.
-  summary: "Persönliches Projekt: Zusammenfassung meiner Lebenserfahrungen und Ideen. Fragen aufwerfen, Gedanken teilen und Alternativen zum aktuellen Zustand der Dinge erkunden. <br>Der ursprüngliche Text auf Russisch wird ins Englische übersetzt, wenn es die Zeit erlaubt."
+  summary: "Persönliches Projekt: Zusammenfassung meiner Lebenserfahrungen und Ideen. Fragen aufwerfen, Gedanken teilen und Alternativen zum aktuellen Zustand der Dinge erkunden. <br>Der ursprüngliche Text auf Russisch wird ins Englische/Deutsche übersetzt, wenn es die Zeit erlaubt."
   tags: ["hobby", "omega"]

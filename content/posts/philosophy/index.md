@@ -162,7 +162,7 @@ Everything important has already been said before me. In my reflections and ende
 Всё важное уже было сказано до меня. В моих размышлениях и начинаниях будут идеи, которые могут найти отклик. Если они вам близки, присоединяйтесь: <a href="https://cal.read.ai/artiomkovnatsky" target="_blank">встреча</a>, <a href="mailto:artiomkovnatsky@pm.com">email</a>, <a href="https://t.me/soul_from_crete" target="_blank">Telegram</a>, <a href="https://www.linkedin.com/in/artiomkovnatsky" target="_blank">LinkedIn</a>.
 {{< /split >}}
 
-Ω
+[**Ω**](https://t.me/artiomkovnatsky)
 <br><br><br>
 
 

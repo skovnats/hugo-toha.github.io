@@ -4,5 +4,5 @@ menu:
   sidebar:
     name: Ω
     identifier: omega-posts
-    weight: 20
+    weight: 999
 ---

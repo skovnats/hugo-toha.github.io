@@ -1,8 +1,8 @@
 ---
-title: Серия статей проекта "Ω"
+title: "Artikelreihe des Projekts 'Ω'"
 menu:
   sidebar:
     name: Ω
     identifier: omega-posts
-    weight: 20
+    weight: 999
 ---
