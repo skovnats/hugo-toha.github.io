@@ -15,242 +15,238 @@ tags: ["Ómega", "Personal", "Philosophy"]
 categories: ["Personal", "Professional"]
 ---
 
+<blockquote>Truth, when expressed in form (for example, written, spoken..), ceases to be such, including what I am writing... exceptions usually include metaphors, parables, fairy tales, proverbs... music</blockquote>
 
 
-<blockquote>Истина, выраженная в форме (например, написанная, сказанная..), перестаёт ей быть, включая и то, что я пишу...исключения, как правило, составляют метафоры, притчи, сказки, пословицы...музыка</blockquote>
+_By reading this training-article, the reader:_
 
-_Прочитав этот тренинг-статью, читатель:_
+- _will do mental gymnastics, which may increase awareness and, consequently, bring more freedom into their thinking and, as a result, into their life_
+- _periodically, it seems, the training-article is worth rereading, making notes, trying to understand the meanings expressed and the connections between them_
 
-- _сделает гимнастику для мышления, что позволит, быть может, увеличить осознанность и, соответсвенно, привнести больше свободы в своё мышление и, как следствие, в свою жизнь_
-- _периодически, думается, тренинг-статью стоит перечитывать, делать пометки, пытаясь понять изложенные смыслы и связи между ними_
+_...will also have an understanding:_
 
-_...также будет иметь представление:_
+- _of a simple model of society_
+- _of mental models_
+- _of the fundamental laws of society_
+- _of AI and its influence on the future_
+- _whether it's possible to create strong AI with neural networks_
+- _of the most important question, without solving which our prospects are, unfortunately, rather vague_
 
-- _о простой модели социума_
-- _о ментальных моделях_
-- _об основных законах социума_
-- _об ИИ и его влиянии на будущее_
-- _о том, можно ли создать сильный ИИ с помощью нейроных сетей_
-- _о самом главном вопросе, без решения которого, наши перспективы довольно туманны, к сожалению_
+### **From the Author**
 
-### **От автора**
+The training-article was written with a deliberately "jagged pace," containing numerous open questions, with a wealth of obvious and hidden meanings and connections, and sharp transitions. I assume one may "get lost" due to the overload of meanings. After taking a break, you can try again. For those who have experience working with koans, it might be worth approaching this article in the same way as [a koan](https://en.wikipedia.org/wiki/Koan), and reading it as working with a koan. If you have any questions, my contact details are below.
 
-Тренинг-статья написаны специально "рваным темпом", с многочисленными открытыми вопросами, с большим количеством заложенных явных и скрытых смыслов и взаимосвязей, с резкими переходами. Предполагаю, что можно "потеряться" от перегрузки смыслами. После перегрузки и отдыха, можно попробовать заново. Тем, кто имел опыт работы с коанами, возможно, стоит попробовать отнестись к этой статье, именно как [коану](https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B0%D0%BD), а чтение её, как работа с коаном. Если будут вопросы, внизу мои контакты.
-
-### **Лекция _—_ презентация:**
-<blockquote>Как и все, ты с рождения в цепях. С рождения в тюрьме, которой не почуешь и не коснешься. В темнице для разума.</blockquote>
+### **Lecture _—_ Presentation:**
+<blockquote>Like everyone, you are born into chains. Born into a prison you cannot taste or touch. A prison for your mind.</blockquote>
 
 <figure id=matrix>
 <!-- <figcaption style="text-align: center;">"Facing the Mirror"</figcaption> -->
     <img src="/posts/Ω/lodka/fig/matrix.jpeg" alt="Description of the image" style="width:99%; display: block; margin: auto;">
-<figcaption style="text-align: center;">(c) Морфеус из фильма "Matrix", который в свою очередь перефразирует Платона</figcaption>
+<figcaption style="text-align: center;">(c) Morpheus from the movie "The Matrix", who in turn paraphrases Plato</figcaption>
 </figure>
 
-### **Контекст этой статьи**
+### **Context of this Article**
 
-Очевидно, что ИИ "пришло", как минимум ИИ-модели. [Начало эры ИИ, как утверждал Bill Gates](https://www.gatesnotes.com/The-Age-of-AI-Has-Begun) в своей статье от 03.2023, где он описывает своё видение и выражает надежды на решение старых и новых проблем человечества "новыми инструментами". Есть немало статей и других материалов на эту тему. Поскольку я сам работаю в области и у меня есть своё видение, я написал часть этой статьи 03-05.2023. По личным обстоятельствам, закончил и публикую её только сейчас. Помимо ИИ, статья поднимает главный, как мне видится, вопрос, который я буду раскрывать в последующих публикациях. Я говорю также про "сценарии будущего", поэтому думаю спустя 10-12 месяцев после написания, будет отчётливее видно, если мои размышления ошибочны.
+It is obvious that AI "has arrived," at least AI models. [The beginning of the age of AI, as Bill Gates stated](https://www.gatesnotes.com/The-Age-of-AI-Has-Begun) in his article from 03.2023, where he describes his vision and expresses hopes for solving humanity’s old and new problems with "new tools." There are many articles and other materials on this topic. Since I work in this field myself and have my own vision, I wrote part of this article in 03-05.2023. Due to personal circumstances, I finished and am publishing it only now. In addition to AI, the article raises what I see as the main question, which I will reveal in subsequent publications. I also talk about "future scenarios," so I think that 10-12 months after writing, it will become clearer if my reflections were wrong.
 
 <figure id=fig1>
 <!-- <figcaption style="text-align: center;">"Facing the Mirror"</figcaption> -->
     <img src="/posts/Ω/lodka/fig/fig1.png" alt="Description of the image" style="width:99%; display: block; margin: auto;">
-<figcaption style="text-align: center;">Рис. 1. Метафорическая Лодка на которой мы плывём (нейроАрт)</figcaption>
+<figcaption style="text-align: center;">Fig. 1. The metaphorical boat we are sailing on (neuroArt)</figcaption>
 </figure><br>
 
 
-<blockquote>Ошибки людей сильного ума тем именно и бывают страшны, что они делаются мыслями множества других людей.
+<blockquote>The errors of people with strong minds are particularly frightening because they become the thoughts of many other people.
 
-_Н. Г. Чернышевский_</blockquote>
+_N.G. Chernyshevsky_</blockquote>
 
-Написано: 30.05.2023; отредактировано: 26.05.2024.
+Written: 30.05.2023; Edited: 26.05.2024.
 
-### **Введение**
+### **Introduction**
 
-Все мои статьи пронумерованы и номер индекса имеет значение. Мои статьи поднимают философско-практические вопросы и расчитаны на вдумчивое, нескорое чтение. Цель - увеличить осознанность, задуматься: возможно, я скорее поднимаю вопросы, нежели отвечаю. Статья ["#0: Метафорическая автобиография или бункерные истории профессора"](#meta-bio) является вводной, об авторе.
+All my articles are numbered, and the index number holds significance. My articles raise philosophical-practical questions and are intended for thoughtful, unhurried reading. The goal is to increase awareness, to provoke thought: perhaps I am raising questions more than answering them. The article ["#0: Metaphorical Autobiography or the Professor’s Bunker Stories"](#meta-bio) serves as an introduction, about the author.
 
-### **Зачем я пишу эту статью и почему сейчас**
+### **Why I am writing this article and why now**
 <blockquote>
-Мне захотелось выразить свои мысли таким образом и надеюсь это кому-то интересно и/или полезно.
+I felt the desire to express my thoughts in this way, and I hope it is interesting and/or useful to someone.
 </blockquote>
 
-Миллионы обывателей и "бывателей" впечатлены возможностями ИИ-моделей уже который год, с нарастающим уровнем удивления и с предвкушением (быть может, некоторые с настороженностью) ждут выхода следующих версий всеми известных ИИ-продуктов. Немало компетентных и/или известных людей предлагали срочно [сделать 6-ти месячную паузу](https://futureoflife.org/open-letter/pause-giant-ai-experiments/) в ИИ-разработках.
+Millions of ordinary people and "beings" have been impressed by the capabilities of AI models for several years now, with a growing level of amazement, and are (perhaps with some caution) eagerly awaiting the release of the next versions of well-known AI products. Many competent and/or famous people have urgently suggested [taking a 6-month pause](https://futureoflife.org/open-letter/pause-giant-ai-experiments/) in AI development.
 
-Некоторые коллеги по "цеху" предлагают своё видение влияния на общество результатов своей и нашей, коллеги, коллективной работы (например, [статья OpenAI](https://arxiv.org/pdf/2303.10130.pdf)). Моё внимание привлёк пост в фб опытного дата инженера, который делился своими впечатлениями от этой статьи.
 
-Он был крайне удивлён тем, как развиваются события и вспоминал свой разговор с таксистом 2015 года в Тбилиси, где он интересовался у таксиста, чем он будет заниматься, когда **скоро** машины будут сами ездить. Для него было удивлением, что в первую очередь развитие ИИ-технологий повлияют на высокооплачиваемые работы.
+Some colleagues in the "field" offer their vision of the impact that the results of their and our collective work have on society (for example, [OpenAI article](https://arxiv.org/pdf/2303.10130.pdf)). A Facebook post by an experienced data engineer, who shared his thoughts on this article, caught my attention.
 
-Мне видится это ироничным и достойным более глубокого осознания, что большое количество умных людей по всему миру с хорошими зарплатами работают над чем-то, последствия чего они сами не понимают. В этот контекст органически "вписывается" небезызвестный [скандал](https://www.bloomberg.com/news/newsletters/2023-11-22/openai-board-dispute-with-sam-altman-shows-governance-flaws) в OpenAI с увольнением CEO Sam Altman и его возвращением: иронично, что люди, которые не могут просчитать последствия своих собственных решений в рамках одной компании, берутся "делать мир лучше с помощью создания сильного-ИИ". Уместно в данном контексте также вспомнить "отречение" Илона Маска от "своего детища" и ироничное становление **Open**AI не таким уж и "**Open**". Это огромный контраст с прошлым: сапожник знал, что он вложит столько-то времени и энергии и будет обувь и т.д. Можно было бы сравнить нашу деятельность с деятельностью учёных экспериментаторов, но в таком случае масштаб вкладываемых ресурсов (денежных, человеческих и т.д.) огромен в сравнении с учёными-одиночками/группами как в прошлом, учитывая, что мы не осознаём последствий конечного продукта. На этом я хотел бы и заострить внимание в статье. Также я хочу поднять вопрос, который считаю самым главным.
+He was extremely surprised by the way events were unfolding and recalled his 2015 conversation with a taxi driver in Tbilisi, where he asked the driver what he would do when **soon** cars would be driving themselves. He found it surprising that AI technologies would first impact high-paying jobs.
+
+I find this ironic and worthy of deeper understanding, that a large number of smart people around the world, with good salaries, are working on something whose consequences they themselves do not understand. In this context, the well-known [scandal](https://www.bloomberg.com/news/newsletters/2023-11-22/openai-board-dispute-with-sam-altman-shows-governance-flaws) at OpenAI, involving the dismissal of CEO Sam Altman and his return, fits organically: it is ironic that people who cannot foresee the consequences of their own decisions within a single company take it upon themselves to "make the world better by creating strong AI". In this context, it is also appropriate to recall Elon Musk's "renunciation" of his "brainchild" and the ironic transformation of **Open**AI into something not so "**Open**". This is a huge contrast to the past: a cobbler knew that if he put in a certain amount of time and effort, there would be shoes, and so on. We could compare our activities to that of experimental scientists, but in this case, the scale of the resources invested (financial, human, etc.) is enormous compared to lone scientists/groups of the past, considering that we do not understand the consequences of the final product. This is what I would like to focus on in the article. I also want to raise a question that I consider the most important.
 
 <blockquote>
-Детальное изучение отдельных органов отучает понимать жизнь всего организма.
+A detailed study of individual organs teaches one to forget the life of the whole organism.
 
-_В. О. Ключевский_
+_V. O. Klyuchevsky_
 </blockquote>
 
-#### **Чем я хочу поделиться**
 
-Я представлю через метафоры простую ментальную модель, которую можно использовать для моделирования социо-экономической динамики.
+#### **What I Want to Share**
 
-#### **Для кого пишу**
+I will present a simple mental model, through metaphors, which can be used to model socio-economic dynamics.
 
-Думается, мои статьи могут быть интересны "архитекторам", людям оперирующими мета-ментальными (и более сложными) моделями. Также, быть может, людям, которые не привыкли использовать **разные** ментальные модели, чтобы разбираться в происходящих процессах.
+#### **Who I'm Writing For**
 
-#### **Что полезного, может быть, они извлекут из этой статьи**
+I believe my articles may be of interest to "architects", people who operate with meta-mental (and more complex) models. Additionally, perhaps to those who are not accustomed to using **varied** mental models to understand ongoing processes.
 
-Возможно, читатель узнает о другом способе мыслить о реальности. Соответственно, появится возможность увидеть другие причинно-следственные связи.
+#### **What They Might Find Useful in This Article**
 
-#### **Об авторе**
+The reader may discover a different way to think about reality. Accordingly, this could open up the opportunity to see other cause-and-effect relationships.
 
-Я приведу некоторые факты, повлиявшие на формирование моих ментальных моделей.
+#### **About the Author**
 
-**Базис**: можно условно сказать, что каждые "3 месяца-полгода я переезжал и адаптировался в другом обществе/стране" (на бессознательном, но затем и на сознательном уровне). Для меня не само собою разумеющееся: здоровье, чистый воздух, наличие воды, еды, электричества, места для сна (не подразумевается сон в тишине, это уже экстра), наличие тихого места, где можно уединиться, спокойствие, наличие близких людей; одежда и т.д. - это уже экстра. Менял много социальных ролей. Практиковал различные духовные практики. Опыт общения с разными людьми из разных социальных страт. Я также математик и с детства люблю цифры.
+I will provide some facts that have influenced the formation of my mental models.
 
-**Места проживания** (бол. 2 месяцев): **УССР**: Николаев, Комсомольск на Днепре, Берислав; **Украина**: Николаев, Краматорск, Комсомольск на Днепре, Берислав; **Израиль**: кибуц Ягур, Нешер, Хайфа; **Швейцария**: Лугано; **Франция**: Ренн; **Греция**: Афины; **Германия**: Берлин. Много где был.
+**Foundation**: It can be said that "every 3 to 6 months, I moved and adapted to another society/country" (on an unconscious, and later on a conscious level). For me, things like health, clean air, access to water, food, electricity, a place to sleep (not implying sleep in silence, that’s already a luxury), a quiet place for solitude, peace, having close people; clothing, etc.—all of this is a luxury. I've changed many social roles. Practiced various spiritual practices. Experienced communication with people from different social strata. I am also a mathematician and have loved numbers since childhood.
 
-**PhD**, тема: [Спектральные мульти-модальные методы анализа данных](https://diglib.eg.org/handle/10.2312/2631197); научный руководитель: [Prof. Michaеl M. Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/).
+**Places Lived** (more than 2 months): **USSR**: Mykolaiv, Komsomolsk-on-Dnipro, Beryslav; **Ukraine**: Mykolaiv, Kramatorsk, Komsomolsk-on-Dnipro, Beryslav; **Israel**: Kibbutz Yagur, Nesher, Haifa; **Switzerland**: Lugano; **France**: Rennes; **Greece**: Athens; **Germany**: Berlin. I've been to many places.
 
-### **В добрый путь, капитан!**
+**PhD**, topic: [Spectral Multi-Modal Data Analysis Methods](https://diglib.eg.org/handle/10.2312/2631197); scientific advisor: [Prof. Michaеl M. Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/).
+
+
+### **Bon Voyage, Captain!**
 <figure id=fig2>
 <!-- <figcaption style="text-align: center;">"Facing the Mirror"</figcaption> -->
     <img src="/posts/Ω/lodka/fig/fig2.png" alt="Description of the image" style="width:99%; display: block; margin: auto;">
-<figcaption style="text-align: center;">Рис. 2. Ты - капитан, а это твой Метафорический Корабль</figcaption>
+<figcaption style="text-align: center;">Fig. 2. You are the captain, and this is your Metaphorical Ship</figcaption>
 </figure><br>
 
-Мне близка метафора управления кораблём, поскольку я имел небольшой опыт управления рыболовецким судном в Средиземном море. Продолжу эту метафору в контексте управления-моделирования социума/социо-экономических систем. Представим, что всё человечество плывёт на корабле. Есть два штурмана: Коллективное Сознательное и Коллективное Бессознательное. Но это не так интересно: представим, что Ты, мой читатель, тоже капитан, но _своего судна_ (Рис. 2), которое неким образом влияет на плавание большого корабля на Рис. 1.
+The metaphor of steering a ship resonates with me because I have had some experience managing a fishing vessel in the Mediterranean Sea. I will continue this metaphor in the context of steering and modeling society/socio-economic systems. Let’s imagine that all of humanity is sailing on a ship. There are two helmsmen: the Collective Conscious and the Collective Unconscious. But that’s not as interesting: let’s imagine that You, my reader, are also a captain, but of _your own ship_ (Fig. 2), which in some way influences the voyage of the large ship from Fig. 1.
 
-Опишем вначале законы и правила движения. Для запоминания и упрощения восприятия материала законы будут описаны простым языком. Все законы я сформулировал сам для себя в течении жизни, и они отвечают моему _личному опыту, знаниям и наблюдениям_. Пожалуйста, используйте всё чему я "учу" разумно и во благо.
+First, let’s describe the laws and rules of motion. For easier memorization and comprehension, these laws will be explained in simple terms. I formulated all the laws myself throughout my life, and they reflect my _personal experience, knowledge, and observations_. Please use everything I "teach" wisely and for good.
 
-Надеюсь, что Тебе, читатель, было интересно провести немного своей драгоценной жизни со "мной" читая эту статью.
+I hope, dear reader, that you found it interesting to spend some of your precious life with "me" while reading this article.
+
 <details id=law0>
-  <summary><b>0. Закон "Тайны Божией"</b></summary>
-<i>Есть события и понятия, которые не вписываются ни в один закон...кроме как Тайны Божией.</i>
+  <summary><b>0. The Law of "Divine Mystery"</b></summary>
+<i>There are events and concepts that do not fit into any law... except the Divine Mystery.</i>
 </details><br>
 
 <details id=okama>
   <summary><b>
-  Принцип "Бритвы Оккама"
+  The Principle of "Occam's Razor"
   </b></summary>
 <i>
-<a href="https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%B8%D1%82%D0%B2%D0%B0_%D0%9E%D0%BA%D0%BA%D0%B0%D0%BC%D0%B0">Не объясняй сложно, если можно объяснить легко.</a> Если можно объяснить проще, не прибегая к "теориям заговора", то используй это объяснение. Что, в прочем, не означает, что некая "теория заговора" не верна.
+<a href="https://en.wikipedia.org/wiki/Occam%27s_razor">Do not explain something in a complex way if it can be explained simply.</a> If it can be explained more simply without resorting to "conspiracy theories," use that explanation. However, this does not mean that a certain "conspiracy theory" is necessarily wrong.
 </i>
 </details><br>
+
 
 
 <details id=law1>
   <summary><b>
-  1. Закон "Упрощения" или "Параметризации"
+  1. The Law of "Simplification" or "Parameterization"
   </b></summary>
 <i>
 
-_Любое явление можно упростить на его составляющие и после "работать с ними". Говоря математическим языком: его можно параметризировать, найдя "проекцию" на подходящую под задачу "систему координат". Далее можно иметь дело с этим ограниченным количеством параметров._
+_Any phenomenon can be simplified into its components, and after that, you can "work with them." In mathematical terms: it can be parameterized by finding a "projection" onto a suitable "coordinate system" for the task. Then, you can deal with this limited number of parameters._
 
-_\- <b>Одушевлённое</b>: любой человек - это "космос" и очень сложен, проще объединить людей по "классам", используя значимые для задачи признаки (_[_5PFQ_](https://testograd.com/test/big-five/)_,_ [_XYZα_](https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F_%D0%BF%D0%BE%D0%BA%D0%BE%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9)_,_ [_Архетипы_](https://ru.wikipedia.org/wiki/%D0%90%D1%80%D1%85%D0%B5%D1%82%D0%B8%D0%BF_%28%D0%BF%D1%81%D0%B8%D1%85%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F%29)_,_ [_Темперамент_](https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D0%BC%D0%B5%D0%BD%D1%82)_,_ [_Знаки Зодиака_](https://ru.wikipedia.org/wiki/%D0%97%D0%BD%D0%B0%D0%BA%D0%B8_%D0%B7%D0%BE%D0%B4%D0%B8%D0%B0%D0%BA%D0%B0)_,_ [_Соционика_](https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D1%86%D0%B8%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0)_,_ [_Дизайн Человека_](https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD_%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%D0%B0)_,_ [_Коэффициент Интеллекта_](https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%8D%D1%84%D1%84%D0%B8%D1%86%D0%B8%D0%B5%D0%BD%D1%82_%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D0%B0)_,_ [_9-типов по Анаграмме_](https://ru.wikipedia.org/wiki/%D0%AD%D0%BD%D0%BD%D0%B5%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0_%28%D0%BF%D1%81%D0%B8%D1%85%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F%29)_,_ [_Персоны в маркетинге_](https://marketsplash.com/ru/primiery-person-kliientov/)_,_ [_Касты 1_](https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B8%D0%BD%D0%B4%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D1%85_%D0%BA%D0%B0%D1%81%D1%82)_,_ [_Касты 2_](https://www.goodreads.com/book/show/35130048)_,_ [_Метафизические Классы_](https://www.youtube.com/watch?v=ZFVJVizH5Sg&list=PLPhBG-hS1n2Hr7GehFPKrsbO3Jn2yMoK6&ab_channel=FelixShmidel) _и прочее)._
+_\- <b>Animate</b>: Any person is a "cosmos" and is very complex, so it is easier to group people by "classes" using characteristics significant for the task (_[_5PFQ_](https://testograd.com/test/big-five/)_,_ [_XYZα_](https://en.wikipedia.org/wiki/Generation_theory)_,_ [_Archetypes_](https://en.wikipedia.org/wiki/Jungian_archetypes)_,_ [_Temperament_](https://en.wikipedia.org/wiki/Temperament)_,_ [_Zodiac Signs_](https://en.wikipedia.org/wiki/Astrological_sign)_,_ [_Socionics_](https://en.wikipedia.org/wiki/Socionics)_,_ [_Human Design_](https://en.wikipedia.org/wiki/Human_Design)_,_ [_Intelligence Quotient_](https://en.wikipedia.org/wiki/Intelligence_quotient)_,_ [_9 Types of the Enneagram_](https://en.wikipedia.org/wiki/Enneagram_of_Personality)_,_ [_Marketing Personas_](https://marketsplash.com/en/customer-personas-examples/)_,_ [_Castes 1_](https://en.wikipedia.org/wiki/List_of_Scheduled_Castes)_,_ [_Castes 2_](https://www.goodreads.com/book/show/35130048)_,_ [_Metaphysical Classes_](https://www.youtube.com/watch?v=ZFVJVizH5Sg&list=PLPhBG-hS1n2Hr7GehFPKrsbO3Jn2yMoK6&ab_channel=FelixShmidel) _and so on)._
 
-_\- <b>Неодушевлённое</b>: рассматриваемое явление можно смоделировать как_ [_Риманово многообразие_](https://ru.wikipedia.org/wiki/%D0%A0%D0%B8%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2%D0%BE_%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B8%D0%B5) _- это объект, в каждой точке которого существует "касательная плоскость с системой координат"; после, "спроецировать" всё на эту "плоскость" и далее там применять стандартный математический инструментарий для анализа и манипуляций ("поверхность" одной картинки, пространство всех картинок, 3D объект, пространство 3D объектов, граф, пространство всех комментариев, пространство всех текстов, пространство всех "стилей художников", пространство всех "стилей музыки", пространство всех песен, пространство всех аудиосигналов, произведённых артистом/музыкальным инструментом, пространство всех гладких функций, пространство всех операторов и прочее)._
+_\- <b>Inanimate</b>: A phenomenon can be modeled as a_ [_Riemannian manifold_](https://en.wikipedia.org/wiki/Riemannian_manifold) _— an object where at every point there is a "tangent plane with a coordinate system"; then, "project" everything onto this "plane" and use standard mathematical tools there for analysis and manipulations ("surface" of a picture, space of all pictures, a 3D object, space of 3D objects, graph, space of all comments, space of all texts, space of all "artistic styles," space of all "music styles," space of all songs, space of all audio signals produced by an artist/musical instrument, space of all smooth functions, space of all operators, and so on)._
 
-**_Обоснование_**_:_ [_Риманова геометрия_](https://ru.wikipedia.org/wiki/%D0%A0%D0%B8%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0_%D0%B3%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%8F) _и_ [_дифференциальная геометрия_](https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D1%84%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B3%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%8F)_,_ [_ортогональные функции_](https://ru.wikipedia.org/wiki/%D0%9E%D1%80%D1%82%D0%BE%D0%B3%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8)_:_ [_функции Фурье_](https://ru.wikipedia.org/wiki/%D0%A0%D1%8F%D0%B4_%D0%A4%D1%83%D1%80%D1%8C%D0%B5)_,_ [_спектральное разложение_](https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%82%D0%B5%D0%BE%D1%80%D0%B5%D0%BC%D0%B0) _и прочее; например, существование науки психология, которая способна находить закономерности и "каталогизировать" личности; существование и "успешное" применение "скриптов", используемых мошенниками; существование и применение пикапа для соблазнения и прочее._
+**_Justification_**_:_ [_Riemannian geometry_](https://en.wikipedia.org/wiki/Riemannian_geometry) _and_ [_differential geometry_](https://en.wikipedia.org/wiki/Differential_geometry)_,_ [_orthogonal functions_](https://en.wikipedia.org/wiki/Orthogonal_functions)_:_ [_Fourier functions_](https://en.wikipedia.org/wiki/Fourier_series)_,_ [_spectral decomposition_](https://en.wikipedia.org/wiki/Spectral_theorem) _and others; for example, the existence of the science of psychology, which can find patterns and "catalog personalities"; the existence and "successful" application of "scripts" used by fraudsters; the existence and use of pickup techniques for seduction, and so on._
 <figure id=fig3>
 <!-- <figcaption style="text-align: center;">"Facing the Mirror"</figcaption> -->
     <img src="/posts/Ω/lodka/fig/fig3.png" alt="Description of the image" style="width:99%; display: block; margin: auto;">
-<figcaption style="text-align: center;">Рис. 3. Пример нескольких 2D-"параметризаций" глобуса в 3D</figcaption>
+<figcaption style="text-align: center;">Fig. 3. Example of several 2D "parameterizations" of a 3D globe</figcaption>
 </figure><br>
 </i>
 </details><br>
 
 
 
-
-Хорошо, мы умеем "упрощать"/"параметризировать": а почему это позволяет нам делать какие-то выводы касательно людей? Разве человек предсказуем?
+"Well, we can "simplify"/"parameterize": but why does this allow us to make any conclusions regarding people? Is a person predictable?
 
 <details id=law2>
   <summary><b>
-  2. Закон "Матрицы" или "Обломов-лайт"
+  2. The Law of "The Matrix" or "Oblomov-lite"
   </b></summary>
 <i>
-Часто мы мыслим и, соответсвенно, действуем "автоматически", "шаблонно", реализуя определённые "сценарии". Мы можем, как автобиль, автоматически переключать разные, быть может, очень сложные "сценарии"/"шаблоны" для решения знакомых задач, не отдавая себе в этом отчёт.
+We often think and, accordingly, act "automatically", "by templates", implementing certain "scenarios". Like a car, we can automatically switch between different, perhaps very complex "scenarios"/"templates" to solve familiar tasks without realizing it.
 
-_Любое действие или мысль за пределами имеющегося опыта вызывает, как правило, тревогу, сомнения и требует бОльших усилий в сравнении с привычным. Это требует дисциплины и определённой привычки, которая не у всех людей развита._
+_Any action or thought beyond existing experience usually causes anxiety, doubts, and requires more effort compared to the habitual. This requires discipline and certain habits, which not all people have developed._
 
-_Осознанность является инструментом в преодолении "автоматизированности" и "запрограммированности" (немного про осознанность_ [_тут_](https://ru.wikipedia.org/wiki/%D0%9E%D1%81%D0%BE%D0%B7%D0%BD%D0%B0%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C)_, здесь_ [_учат бесплатно_](http://meditation.college/)_)._
+_Mindfulness is a tool in overcoming "automation" and "programming" (a bit about mindfulness_ [_here_](https://en.wikipedia.org/wiki/Mindfulness)_, learn for free_ [_here_](http://meditation.college/)_)._
 
-_\- <b>Способствует</b>: любая монотонная деятельность, "рутина", некоторые профессии: кассир, работник на конвеере и прочее._
+_- **Contributes**: any monotonous activity, "routine", certain professions: cashier, assembly line worker, etc._
 
-_\- <b>Не способствует</b>: деятельность, требующая критическое мышление, влияние на людей (например продавцы, политики, маркетологи, мошенники), диверсионная и шпионская, занятие творчеством, инвестирование и прочее._
+_- **Does not contribute**: activities requiring critical thinking, influencing people (e.g., salespeople, politicians, marketers, scammers), sabotage and espionage, creative work, investing, etc._
 
-**_Обоснование_**_:_ [_автоматические мысли_](https://ru.wikipedia.org/wiki/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BC%D1%8B%D1%81%D0%BB%D0%B8)_,_ [_жизненные сценарии_](https://psychologos.ru/articles/view/zhiznennyy-scenariy)_,_ [_небольшая статья_](https://trends.rbc.ru/trends/social/625807aa9a7947aa6750fb30) _с ссылками на научные работы про автоматичность (например вот_ [_эта_](https://journals.sagepub.com/doi/10.1177/1754073912451629) _или_ [_эта_](https://www.sciencedirect.com/science/article/abs/pii/B0080430767017472?via%3Dihub)_),_ [_"Думай медленно...решай быстро"_](https://ru.wikipedia.org/wiki/%D0%94%D1%83%D0%BC%D0%B0%D0%B9_%D0%BC%D0%B5%D0%B4%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%E2%80%A6_%D1%80%D0%B5%D1%88%D0%B0%D0%B9_%D0%B1%D1%8B%D1%81%D1%82%D1%80%D0%BE)_,_ [_Г. Гурджиев_](https://www.youtube.com/watch?v=VKSWNyHYV20) _и прочее._
+**_Justification_**: [_automatic thoughts_](https://en.wikipedia.org/wiki/Automatic_thought)_,_ [_life scripts_](https://psychologos.ru/articles/view/zhiznennyy-scenariy)_, a_ [_short article_](https://trends.rbc.ru/trends/social/625807aa9a7947aa6750fb30) _with links to scientific studies on automaticity (for example,_ [_this one_](https://journals.sagepub.com/doi/10.1177/1754073912451629) _or_ [_this one_](https://www.sciencedirect.com/science/article/abs/pii/B0080430767017472?via%3Dihub)_),_ [_"Thinking, Fast and Slow"_](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow)_,_ [_G. Gurdjieff_](https://www.youtube.com/watch?v=VKSWNyHYV20)_, and others._
 
-_У меня есть моё личное наблюдение какой процент людей или какую часть заданий мы "шаблонизировали" или "автоматизировали", которое я использую для себя; мне не известны научные труды на эту тему, поэтому не буду тут писать эти цифры; скажу только, что я использую подобие Закона "80/20"._
+_I have my personal observation of what percentage of people or what portion of tasks we have "templated" or "automated", which I use for myself; I am not aware of scientific works on this topic, so I will not write these numbers here; I'll just say that I use something similar to the "80/20" law._
 </i>
 
 <blockquote>
-Думать сложно, поэтому большинство людей судит
+Thinking is difficult, that's why most people judge.
 
-_К. Г. Юнг_
+_C.G. Jung_
 </blockquote>
 </details><br>
 
-
-
-
-Значит человек в какой-то мере "предсказуем", "автоматизирован" и, будучи _осознанным_, этот Закон "Матрицы" "ломается". Сейчас "осознанность" в "тренде": многие медитируют, ходят на йоги, различные [тренинги](https://www.retreatmanasa.ru/onlineretreat/fall), [книги](https://www.knigi-online.net/nauchno-obrazovatelnaya/psihologiya/165-podsoznanie-mozhet-vse.html), ходят к психологам, которых огромное количество и прочее. Значит этот закон - не закон и он почти не работает?
+So, a person is, to some extent, "predictable", "automated", and by being _mindful_, this Law of "The Matrix" can be "broken". Nowadays, "mindfulness" is "trending": many meditate, attend yoga sessions, participate in various [trainings](https://www.retreatmanasa.ru/onlineretreat/fall), read [books](https://www.knigi-online.net/nauchno-obrazovatelnaya/psihologiya/165-podsoznanie-mozhet-vse.html), go to psychologists, of which there are plenty, and more. Does this mean that the law is not a law and it barely works?
 
 <details id=law3>
   <summary><b>
-  3. Закон "Эхо в горах"
+  3. The Law of "Echo in the Mountains"
   </b></summary>
 <i>
-Заблуждение думать про осознанность как некоторое "точечное" действие-"пребывание в моменте", поскольку осознанность имеет "форму", можно сказать "радиус". "Радиус осознанности" можно "определить" как "расстояние, на которое мы слышим отголоски наших поступков, "себя" ... и, в более продвинутом виде, мыслей": как эхо своего голоса в горах; кто-то глух, кто-то слышит пару раз своё эхо, а кто-то, быть может, слышит весьма долго "отражение" от скал своего голоса.
+It is a misconception to think of mindfulness as some "pointed" action — "being in the moment", because mindfulness has a "shape", one could say a "radius". The "radius of mindfulness" can be "defined" as "the distance at which we hear the echoes of our actions, of 'ourselves'… and, in more advanced forms, of our thoughts": like the echo of your voice in the mountains; some are deaf, some hear their echo a couple of times, and some, perhaps, hear the "reflection" of their voice from the cliffs for quite a long time.
 
-Иначе можно сказать, что "радиус осознанности" - это насколько глубоко мы осознаём причинно-следственные связи и себя/своё влияние в этом пространстве в каждый момент и в разных контекстах.
+In other words, the "radius of mindfulness" is how deeply we perceive cause-and-effect relationships and ourselves/our influence in this space at any given moment and in different contexts.
 </i>
 </details><br>
 
-Понятно, то есть то, что многие "прокачивают", куда "они идут" в практиках, является, как правило, ошибочным и позволяет им "со спокойной душой" делать то, что они бы делали и так. Ну а что на счёт практик, разве они не должны людям помогать понять это и другие вещи?
-
-
+I see, so what many are "working on", where "they are heading" in their practices, is, as a rule, misguided and allows them to "calmly" continue doing what they would have done anyway. But what about the practices — aren't they supposed to help people understand this and other things?
 
 
 <details id=law4>
   <summary><b>
-  4. Закон "Контроля Оппозиции/Правых"
+  4. The Law of "Controlling the Opposition/Right-Wing"
   </b></summary>
 <i>
 
-Любая практика (например [випассана](https://www.dhamma.org/ru/index), [дыхательные практики Вим Хофа](https://www.youtube.com/watch?v=mD3QwerSmLs&ab_channel=WimHof), [молчание](https://retreat.tb.ru/), [сатори](https://vk.com/satorynn), [испытание реальностью](https://www.youtube.com/watch?v=l94nm_ECMWc), психоанализ разного направления/школы, [работа с коанами](https://dzen.ru/a/W9FstDLKFQCqxgaD), использование таблеток/грибов/трав, разновидности йог, терапий и прочее) - это инструмент. Может быть очень мощный инструмент.
+Any practice (e.g. [Vipassana](https://www.dhamma.org/ru/index), [Wim Hof breathing techniques](https://www.youtube.com/watch?v=mD3QwerSmLs&ab_channel=WimHof), [silence](https://retreat.tb.ru/), [Satori](https://vk.com/satorynn), [reality testing](https://www.youtube.com/watch?v=l94nm_ECMWc), psychoanalysis from different schools, [working with koans](https://dzen.ru/a/W9FstDLKFQCqxgaD), use of pills/mushrooms/herbs, various types of yoga, therapies, and so on) is a tool. It can be a very powerful tool.
 
-Любой инструмент создаётся для решения определённых задач. Многие практики-инструменты подразумевают сохранение "статуса-кво" при их практиковании; то есть созданы специально, чтобы определённые вещи не менялись, прежде всего в мышлении практикующего.
+Every tool is created to solve specific tasks. Many practices-tools imply the preservation of the "status quo" when practiced; that is, they are specifically designed to ensure that certain things, especially in the thinking of the practitioner, do not change.
 
-Этот закон будет, мне думается, проще понять людям из "структур", диверсионных войск, политтехнологов и прочих: для контроля над несогласными с любой системой (а такие всегда будут исходя из Законов "Стреляющей палки" (для подтверждения существования) и "Колокольчика" (описывает количество таких людей)), выгоднее эти движения "возглавить", контролировать верхушку; финансировать, следить и контролировать за всеми их действиями: акции протеста, телеграм каналы и прочее.
+This law, I think, is easier to understand for people from "structures", sabotage units, political strategists, and others: to control those who disagree with any system (and such people will always exist according to the Laws of the "Shooting Stick" (confirming their existence) and "Bell Curve" (describing the number of such people)), it is more beneficial to lead these movements, control their leadership; fund, monitor, and control all their actions: protests, Telegram channels, etc.
 
 </i>
 </details><br>
 
-То есть один из способов сохранения "статус-кво", прежде всего в мышлении, это продвигать и поощрять "выгодные практики, медитации, понятие осознанности, йоги..."? А какие ещё приёмы применяются?
+So one of the ways to preserve the "status quo", especially in thinking, is to promote and encourage "favorable practices, meditation, the concept of mindfulness, yoga…"? What other techniques are used?
 
 <details id=law5>
   <summary><b>
-    5. Закон "Девушки в красном платье"
+    5. The Law of "The Girl in the Red Dress"
   </b></summary>
 <i>
 
-Те, у кого есть дети, знают, что их внимание можно обратить на что-то, чтобы они "переключились" с "нежелательного". Схоже и с нами: нам создают "повестку", чтобы мы не обращали своё внимание на то, на что не "стоит обращать внимание"; как следствие, чтобы нам в голову не "приходили неподходящие вопросы и действия".
+Those with children know that their attention can be directed towards something else so they "switch" from something "undesirable". It's similar with us: a "narrative" is created for us so that we don't direct our attention to things we "shouldn't be paying attention to"; as a result, we don't get "inappropriate questions or actions" in our heads.
 
 </i>
 
 <figure id=fig4>
-<!-- <figcaption style="text-align: center;">"Facing the Mirror"</figcaption> -->
     <img src="/posts/Ω/lodka/fig/fig4.png" alt="Description of the image" style="width:99%; display: block; margin: auto;">
-<figcaption style="text-align: center;">Рис. 4. Девушка в красном из фильма "Матрица"</figcaption>
+<figcaption style="text-align: center;">Fig. 4. The Girl in the Red Dress from the movie "The Matrix"</figcaption>
 </figure><br>
 </details><br>
 
-
 <details id=law6>
   <summary><b>
-    6. Закон "Загнанной лошади"
+    6. The Law of "The Driven Horse"
   </b></summary>
 <i>
 
-Наша социо-экономическая система сделана, как правило, так, чтобы у нас было как можно меньше времени "смотреть по сторонам", чтобы не "приходили в голову ненужные мысли, вопросы".
+Our socio-economic system is generally designed in such a way that we have as little time as possible to "look around", so that "unnecessary thoughts or questions" do not "come to mind".
 
 </i>
 </details><br>
@@ -258,86 +254,85 @@ _К. Г. Юнг_
 
 <details id=law7>
   <summary><b>
-    7. Закон "Внимания"
+    7. The Law of "Attention"
   </b></summary>
 <i>
 
-Где твоё внимание, там и Ты.
+Where your attention is, there you are.
 
-Мы ошибочно думаем, что деньги, время и прочее это главный ресурс. Самый главный ресурс человека, это, пожалуй, его внимание (здесь должен быть переход на душу - базис всего, но останусь в "светской риторике"). Дальше энергия. Именно поэтому "инфлюенсеры" и прочие зарабатывают деньги. Где много внимания людей, там их энергия, которая, при определённых контекстах, конвертируется в денежные единицы, например.
+We mistakenly think that money, time, and so on are the main resources. Perhaps the most important resource for a person is their attention (this is where I should transition to the soul—the foundation of everything—but I will stick to "secular rhetoric"). Next comes energy. This is why "influencers" and others make money. Where there is a lot of attention from people, there is their energy, which, in certain contexts, can be converted into monetary units, for example.
 
-Это, пожалуй, наверное второй по важности закон.
+This is probably the second most important law.
 
 </i>
 </details><br>
 
-
-А почему контроль внимания важен?
+Why is control of attention important?
 
 <details id=law8>
   <summary><b>
-    8. Закон "Розового слона"
+    8. The Law of "The Pink Elephant"
   </b></summary>
 <i>
 
-"Мир человека" ограничен его опытом в широком смысле слова. То, что не "побывало во внимании" человека, для него не существует в его сознании.
+A person's "world" is limited by their experience in the broadest sense of the word. What has not been "noticed" by a person's attention does not exist for them in their consciousness.
 
-Если человек никогда не слышал и не видел "розовых слонов", то он не может попросить себе в "армию"... "розового слона".
+If a person has never heard or seen "pink elephants", they cannot ask to enlist a "pink elephant" in their "army".
 
-Любые изменения начинаются с мысли об идее... и придание ей внимания.
+Any change begins with a thought about an idea… and giving it attention.
 
 </i>
 </details><br>
 
 <details id=law9>
   <summary><b>
-    9. Закон "Энштейна о решении проблем и анализе систем"
+    9. Einstein's Law on Solving Problems and System Analysis
   </b></summary>
   <blockquote>
-  "Невозможно решить проблему на том же уровне, на котором она возникла. Нужно стать выше этой проблемы, поднявшись на следующий уровень."
+  "We cannot solve our problems with the same thinking we used when we created them. We need to move to a higher level to solve them."
 
-_Альберт Эйнштейн_
+_Albert Einstein_
 </blockquote>
 <i>
 
-То же работает и для анализа систем: ты не можешь анализировать то, частью чего ты являешься, вначале тебе надо перестать быть участником этой системы. Поэтому и приглашают внешних специалистов: для анализа и решения проблем в отношениях, конфликтах, личного психолога и прочее, которые не являются участниками этой "динамической системы"/"сторонние наблюдатели".
+The same applies to system analysis: you cannot analyze something of which you are a part. First, you need to stop being a participant in the system. That’s why external specialists are invited: to analyze and solve relationship problems, conflicts, personal psychological issues, and so on, as they are not participants in this "dynamic system"/"external observers".
 
 </i>
 </details><br>
 
 <details id=law10>
   <summary><b>
-    10. Закон "Кто как обзывается, тот так и называется"
+    10. The Law of "Who Calls Names, Is the One to Blame"
   </b></summary>
 <i>
 
-[Проекция в психологии](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_%28%D0%BF%D1%81%D0%B8%D1%85%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F%29). "Хорошие люди" не могут себе, как правило, представить всю изощрённость мыслей и намерений "плохих людей", они судят по "себе" опираясь на свой опыт.
+[Projection in psychology](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_%28%D0%BF%D1%81%D0%B8%D1%85%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F%29). "Good people" cannot, as a rule, imagine the intricacy of the thoughts and intentions of "bad people". They judge others based on their own experience.
+
 </i>
 </details><br>
 
-
 <details id=law11>
   <summary><b>
-    11. Закон "Дао"
+    11. The Law of "Dao"
   </b></summary>
 <i>
 
-Когда появляется "мягкое", появляется и "твёрдое",
+When "softness" appears, so does "hardness",
 
-когда появляется "лёгкое", появляется и "тяжёлое"...
+when "lightness" appears, so does "heaviness"...
 
-Одно не может существовать без другого.
+One cannot exist without the other.
 
 </i>
 </details><br>
 
 <details id=law12>
   <summary><b>
-    12. Закон "Титаника"
+    12. The Law of "The Titanic"
   </b></summary>
 <i>
 
-Даже если ты "видишь айсберг впереди", есть "инерция", не позволяющая мгновенно "остановиться". "Инерция" есть как у одного человека (например человек, куривший долго и много, не может, как правило, перестать сразу...или мгновенно внедрить новую привычку-"изменить курс своего корабля"), так и у большой социо-экономической системы.
+Even if you "see the iceberg ahead", there is "inertia" that prevents an immediate "stop". "Inertia" exists both in an individual (for example, a person who has smoked for a long time cannot, as a rule, quit immediately… or instantly adopt a new habit—"change the course of their ship") and in a large socio-economic system.
 
 </i>
 </details><br>
@@ -345,539 +340,519 @@ _Альберт Эйнштейн_
 
 <details id=law13>
   <summary><b>
-    13. Закон "Пророка" или "Disruptive innovation"
+    13. The Law of "The Prophet" or "Disruptive Innovation"
   </b></summary>
 <i>
 
-Если ты делаешь что-то, что меняет систему (в первую очередь, мышление людей или смещаешь фокус внимания на то, что "не надо"), у тебя начинаются "проблемы". "Проблемы" возрастают по мере "серьёзности угрозы системе" (например "отмена", дискридитация, запугивание тебя и/или близких, лишение возможности кормить семью, "странные совпадения", физическая смерть и прочее, на что хватит фантазии у "оппонентов"-"выгодоприобретателей системы").
+If you're doing something that changes the system (primarily shifting people's thinking or focusing attention on what "should not" be noticed), you'll start having "problems". These "problems" grow in proportion to the "seriousness of the threat to the system" (for example: cancellation, discreditation, intimidation of you and/or your loved ones, loss of livelihood, "strange coincidences", physical death, and whatever else "opponents"-"system beneficiaries" can imagine).
 
-И наоборот, если в результате деятельности ты "награждён" и прочее, как правило, ты, как минимум, не мешаешь "системе". Поэтому так называемые "Disruptive innovation" есть во многом культивируемая "иллюзия", то, что делает систему более устойчивой и придающая ей "антихрупкость" (на счёт "[антихрупкости](https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D1%82%D0%B8%D1%85%D1%80%D1%83%D0%BF%D0%BA%D0%BE%D1%81%D1%82%D1%8C)" не ручаюсь, надо глубже как-нибудь подумать).
+On the other hand, if you are "rewarded" as a result of your actions, generally speaking, you're at least not interfering with the "system". This is why so-called "Disruptive Innovations" are often cultivated as an "illusion", making the system more resilient and giving it "anti-fragility" (regarding "[anti-fragility](https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D1%82%D0%B8%D1%85%D1%80%D1%83%D0%BF%D0%BA%D0%BE%D1%81%D1%82%D1%8C)", I won't make any definitive statements, it needs deeper thought).
 
 </i>
 </details><br>
-
 
 <details id=law14>
   <summary><b>
-    14. Закон "Люди не меняются"
+    14. The Law of "People Don’t Change"
   </b></summary>
-    <blockquote>
+  <blockquote>
 
-  Люди как люди. Любят деньги, но ведь это всегда было… Человечество любит деньги, из чего бы те не были сделаны: из кожи ли, из бумаги ли, из бронзы или из золота. Ну, легкомысленны… ну, что ж… и милосердие иногда стучится в их сердца… обыкновенные люди… в общем, напоминают прежних… "квартирный вопрос" только испортил их…[Цитата Воланда из романа](https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%81%D1%82%D0%B5%D1%80_%D0%B8_%D0%9C%D0%B0%D1%80%D0%B3%D0%B0%D1%80%D0%B8%D1%82%D0%B0)
+  People are like people. They love money, but that has always been the case... Humanity loves money, no matter what it's made of: skin, paper, bronze, or gold. Well, they're frivolous... so what... mercy sometimes knocks on their hearts too... ordinary people... in general, they resemble their predecessors... it's just the "housing issue" that spoiled them... [A quote from Woland](https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%81%D1%82%D0%B5%D1%80_%D0%B8_%D0%9C%D0%B0%D1%80%D0%B3%D0%B0%D1%80%D0%B8%D1%82%D0%B0) in the novel [Master and Margarita](https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%81%D1%82%D0%B5%D1%80_%D0%B8_%D0%9C%D0%B0%D1%80%D0%B3%D0%B0%D1%80%D0%B8%D1%82%D0%B0) by [Mikhail Bulgakov](https://ru.wikipedia.org/wiki/%D0%91%D1%83%D0%BB%D0%B3%D0%B0%D0%BA%D0%BE%D0%B2,_%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB_%D0%90%D1%84%D0%B0%D0%BD%D0%B0%D1%81%D1%8C%D0%B5%D0%B2%D0%B8%D1%87)
 
-[Мастер и Маргарита"](https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%81%D1%82%D0%B5%D1%80_%D0%B8_%D0%9C%D0%B0%D1%80%D0%B3%D0%B0%D1%80%D0%B8%D1%82%D0%B0) [М. А. Булгакова](https://ru.wikipedia.org/wiki/%D0%91%D1%83%D0%BB%D0%B3%D0%B0%D0%BA%D0%BE%D0%B2,_%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB_%D0%90%D1%84%D0%B0%D0%BD%D0%B0%D1%81%D1%8C%D0%B5%D0%B2%D0%B8%D1%87)
 </blockquote>
 <i>
 
-Люди меняются, но чем "ближе к сердцевине человека, тем сложнее и медленнее изменения".
+People do change, but the "closer to the core of a person, the harder and slower those changes happen."
 
 </i>
 </details><br>
-
 
 <details id=law15>
   <summary><b>
-    15. Закон "Стреляющей (раз в год) палки"
+    15. The Law of "The Gun that Fires Once a Year"
   </b></summary>
 <i>
 
-Любое событие, даже чрезвычайно маловероятное (например выигрыш в лотерею и прочее), почти "наверняка" произойдёт при достаточно большом количестве "попыток".
+Any event, even extremely unlikely (for example, winning the lottery, etc.), will almost "certainly" happen with a large enough number of "attempts".
 
-Количество же событий будет описываться, как правило, Законом 16. "Колокольчика" (хотя есть специальные методы вычисления мат. ожидания "редких величин").
+The number of such events will usually be described by the Bell Curve, as per Law 16 (although there are specific methods to calculate the expected value of "rare variables").
 
-**Обоснование**: [закон больших чисел](https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B8%D1%85_%D1%87%D0%B8%D1%81%D0%B5%D0%BB) и [мат. ожидание биномиального распределение](https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D0%BD%D0%BE%D0%BC%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D1%80%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5) (при достаточно большом n), [Теорема о бесконечных обезьянах](https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D0%B5%D0%BC%D0%B0_%D0%BE_%D0%B1%D0%B5%D1%81%D0%BA%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D1%8B%D1%85_%D0%BE%D0%B1%D0%B5%D0%B7%D1%8C%D1%8F%D0%BD%D0%B0%D1%85).
+**Explanation**: [The Law of Large Numbers](https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B8%D1%85_%D1%87%D0%B8%D1%81%D0%B5%D0%BB), [Expected value of binomial distribution](https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D0%BD%D0%BE%D0%BC%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D1%80%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5) (with a sufficiently large n), [The Infinite Monkey Theorem](https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D0%B5%D0%BC%D0%B0_%D0%BE_%D0%B1%D0%B5%D1%81%D0%BA%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D1%8B%D1%85_%D0%BE%D0%B1%D0%B5%D0%B7%D1%8C%D1%8F%D0%BD%D0%B0%D1%85).
 
 </i>
 </details><br>
 
-
 <details id=law16>
   <summary><b>
-    16. Закон "Колокольчика"
+    16. The Law of the "Bell Curve"
   </b></summary>
 <i>
 
-Если мы посмотрим на распределение (большинства) вещей или произошедших событий, то оно будет как "колокольчик", правда со своими средним и дисперсией (например распределение роста людей, расстояния между глазами, количество мирных жертв при штурме, количество 200-300ых в штурме при разном количестве артиллерии, IQ распределение, вес лошадей и прочее).
+If we look at the distribution of (most) things or events, it will resemble a "bell curve", though with its own mean and variance (for example: human height distribution, distance between eyes, number of civilian casualties during an assault, the number of wounded in an attack with different amounts of artillery, IQ distribution, horse weight, etc.).
 
-**Обоснование**: разумеется я говорю про [нормальное распределение](https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D1%80%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D1%80%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)/[распределение Стьюдента](https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%A1%D1%82%D1%8C%D1%8E%D0%B4%D0%B5%D0%BD%D1%82%D0%B0) и [центральные предельные теоремы](https://ru.wikipedia.org/wiki/%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%82%D0%B5%D0%BE%D1%80%D0%B5%D0%BC%D0%B0).
+**Explanation**: Naturally, I'm referring to [normal distribution](https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D1%80%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D1%80%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5), [Student's distribution](https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%A1%D1%82%D1%8C%D1%8E%D0%B4%D0%B5%D0%BD%D1%82%D0%B0), and [central limit theorems](https://ru.wikipedia.org/wiki/%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%82%D0%B5%D0%BE%D1%80%D0%B5%D0%BC%D0%B0).
 
 </i>
 
 <figure id=fig5>
-<!-- <figcaption style="text-align: center;">"Facing the Mirror"</figcaption> -->
     <img src="/posts/Ω/lodka/fig/fig5.png" alt="Description of the image" style="width:99%; display: block; margin: auto;">
-<figcaption style="text-align: center;">Рис. 5. Нормальное распределение (μ-среднее/мат.ожидание, σ-дисперсия)</figcaption>
+<figcaption style="text-align: center;">Fig. 5. Normal distribution (μ-mean, σ-variance)</figcaption>
 </figure><br>
 
 </details><br>
 
 <details id=law17>
   <summary><b>
-    17. Закон "80/20"
+    17. The Law of "80/20"
   </b></summary>
 <i>
 
-"20 % усилий дают 80 % результата, а остальные 80 % усилий — лишь 20 % результата"
+"20% of the effort yields 80% of the result, and the remaining 80% of the effort yields only 20% of the result."
 
-Что не покрывается нормальным распределением, то часто покрывается распределением Парето (например, распределение денег, распределение слов в языке и прочее)
+What is not covered by the normal distribution is often covered by the Pareto distribution (for example, wealth distribution, word frequency in language, and more).
 
-**Обоснование**: [распределение Парето](https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D0%B0%D1%80%D0%B5%D1%82%D0%BE), [закон Парето](https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%9F%D0%B0%D1%80%D0%B5%D1%82%D0%BE), [кривая Парето](https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D0%B2%D0%B0%D1%8F_%D0%9F%D0%B0%D1%80%D0%B5%D1%82%D0%BE)
+**Explanation**: [Pareto distribution](https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D0%B0%D1%80%D0%B5%D1%82%D0%BE), [Pareto principle](https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%9F%D0%B0%D1%80%D0%B5%D1%82%D0%BE), [Pareto curve](https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D0%B2%D0%B0%D1%8F_%D0%9F%D0%B0%D1%80%D0%B5%D1%82%D0%BE).
 
 </i>
 </details><br>
 
 <details id=law18>
   <summary><b>
-    18. Закон "Большого объёма"
+    18. The Law of "Large Volume"
   </b></summary>
 <i>
 
-Любое, даже мизерное, изменение в системе с большим объёмом приводит к значимым абсолютным изменениям.
+Any small change in a large system leads to significant absolute changes.
 
-Допустим, что в трубе, перекачивающей нефть, есть небольшое отверстие. Если труба перекачивает 10 литров нефти в день, то убытки будут небольшими. При перекачке миллионов литров, убытки будут существенными.
+For instance, if there is a small hole in a pipe that transports oil, if the pipe transports 10 liters of oil per day, the losses will be minimal. However, if it transports millions of liters, the losses will be significant.
 
-Другой пример. Допустим в отделении Старбакса в Калифорнии установили с помощью "[A/B теста](https://en.wikipedia.org/wiki/A/B_testing)", что меняя капучино и американо местами в меню, прибыль увеличивается на 0.03%. Предположим, что мировой оборот компании 32 миллиарда долларов. Применив эти изменения в остальных точках, компания ожидает увеличение выручки в 9.6 миллиона долларов.
+Another example: Suppose a Starbucks branch in California determined through an [A/B test](https://en.wikipedia.org/wiki/A/B_testing) that switching the positions of cappuccino and americano on the menu increases profit by 0.03%. Now, assume the global revenue of the company is $32 billion. Implementing this change globally could result in an additional $9.6 million in revenue.
 
 </i>
 </details><br>
 
 <details id=law19>
   <summary><b>
-    19. Закон "Терминатора"
+    19. The Law of "The Terminator"
   </b></summary>
 <i>
 
-В любой механической/"шаблонной" деятельности машины обойдут живое (например, человека).
+In any mechanical or "template-based" activity, machines will outperform living beings (for example, humans).
 
 </i>
 </details><br>
 
 <details id=law20>
   <summary><b>
-    20. Закон "Сваренной лягушки" (частный случай: "Окно Овертона")
+    20. The Law of "Boiled Frog" (Special case: "Overton Window")
   </b></summary>
 <i>
 
-Постепенные изменения принимаются легче, чем резкие; знак изменений: "+" или "-" не важен. Часто изменения могут даже не замечаться.
+Gradual changes are easier to accept than sudden ones; the sign of change, whether positive or negative, is irrelevant. Often, changes may even go unnoticed.
 
 </i>
 </details><br>
 
-
 <details id=law21>
   <summary><b>
-    21. Закон "Слабого звена" или "Узкого горлышка"
+    21. The Law of "Weak Link" or "Bottleneck"
   </b></summary>
 <i>
 
-"Где тонко, там и рвётся."
+"A chain is only as strong as its weakest link."
 
-В любой замкнутой системе (например производство, продажи, любые "воронки", автомобиль, армия, логистика чего-то и прочее) есть "узкое горлышко" (УГ), которое ограничивает поток ресурсов в системе; любое функционирование системы можно представить как поток и преобразование ресурсов. Нахождение и устранение УГ улучшает функционирование системы оптимальным способом.
+In any closed system (for example, manufacturing, sales, pipelines, automobiles, armies, logistics, etc.), there is a "bottleneck" (BN) that limits the flow of resources through the system. The functioning of the system can be visualized as the flow and transformation of resources. Identifying and eliminating the BN optimizes the system's operation.
 
-Также система настолько крепка, насколько крепко самое слабое звено.
+Additionally, the strength of a system is determined by its weakest component.
 
-Внимание: теория ограниченных систем/УГ только частично применима к человеку или, в более общем случае, Социо-Экономическим Системам (СЭС). В СЭС динамике есть "воронки"/"магниты"; не редко там есть "спирали" и "фракталы спиралей и воронок".
+Attention: the theory of constrained systems/BN only partially applies to humans or, more generally, Socio-Economic Systems (SES). In SES dynamics, there are often "funnels" or "magnets", and spirals and fractals of spirals and funnels are common.
 
-**Обоснование**: ["Теория Ограниченных Систем"](https://www.litres.ru/book/eliyahu-goldratt/kriticheskaya-cep-6377209/chitat-onlayn/)
+**Explanation**: ["Theory of Constraints"](https://www.litres.ru/book/eliyahu-goldratt/kriticheskaya-cep-6377209/chitat-onlayn/)
 
 </i>
 </details><br>
 
 <details id=law22>
   <summary><b>
-    22. Закон "Водоворота"
+    22. The Law of "Whirlpool"
   </b></summary>
 <i>
 
-В поле действия человека могут быть "водовороты". Это можно представить как путешествие Вашего корабле в местности с сильным "течением/и" в результате "водоворота/ов". Эта метафора позволяет объяснить почему так сложно и иногда уже почти невозможно выйти за пределы контекста в иных случаях (например когда люди вживаются в [социальную роль](https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%8D%D0%BD%D1%84%D0%BE%D1%80%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%8E%D1%80%D0%B5%D0%BC%D0%BD%D1%8B%D0%B9_%D1%8D%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D1%82), "втягиваются в идеологию/секту/погромы" и прочее).
+In a person's sphere of influence, there may be "whirlpools". You can imagine this as your ship sailing in an area with strong "currents" caused by one or more "whirlpools". This metaphor explains why it's so difficult and sometimes nearly impossible to escape a context in certain situations (for example, when people take on a [social role](https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%8D%D0%BD%D1%84%D0%BE%D1%80%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%8E%D1%80%D0%B5%D0%BC%D0%BD%D1%8B%D0%B9_%D1%8D%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D1%82), get involved in "ideologies/cults/riots", etc.).
 
-Я буду об этом писать более подробно в статье про сложные ментальные модели; там будет понятно почему теория УГ не применима.
+I will write more about this in the article on complex mental models; there it will become clear why the theory of BN doesn't apply.
 
 </i>
 </details><br>
 
 <details id=law23>
   <summary><b>
-    23. Закон "Магнит стаи"
+    23. The Law of the "Flock Magnet"
   </b></summary>
 <i>
 
-Тяжело идти [против](https://www.youtube.com/watch?v=IekW1SjaYyQ) всех или большинства, сопротивляться общепринятому мнению.
+It is difficult to go [against](https://www.youtube.com/watch?v=IekW1SjaYyQ) everyone or the majority, to resist widely accepted opinions.
 
 </i>
 </details><br>
 
 <details id=law24>
   <summary><b>
-    24. Закон "Лестницы в (китайском) кинотеатре"
+    24. The Law of the "Ladder in a (Chinese) Cinema"
   </b></summary>
 <i>
 
-Предположим мы сидим в кинотеатре в каком-то ряду. Если те, кто сидит впереди нас, принесут подушки, то, чтобы видеть, нам нужно будет тоже сесть на что-то для компенсации увелечения высоты. И так по нарастающей: чем выше сидят те, кто впереди, тем выше нужно будет сидеть и нам.
+Suppose we're sitting in a cinema. If the people in front of us bring cushions, we will need to sit on something to compensate for the increased height to be able to see. The higher those in front sit, the higher we must sit as well.
 
-Под этот пример подходят многе процессы из нашей жизни: использование ИИ/цифровизации/рекламы... в бизнесе; использование дронов/спутников/РЭБ/... в войне и прочее. Если не использовать "лестницу", то будет "не видно" (будешь в проигрышном положении).
+Many processes in life fit this example: using AI/digitization/advertising in business, using drones/satellites/EW in warfare, and so on. If you don't use the "ladder", you will be at a disadvantage (unable to "see").
 
-Я услышал впервые этот пример от Китаянки, рассказавшей об их притче.
+I first heard this example from a Chinese woman who told me about their proverb.
 
 </i>
 </details><br>
 
 <details id=law25>
   <summary><b>
-    25. Закон "А что, так можно было?!"
+    25. The Law of "Wait, You Can Do That?!"
   </b></summary>
 <i>
 
+A new, better way of achieving previous or better results is quickly adopted by other "players". This law is also closely linked to Law 24, as otherwise, you'd be at a disadvantage, continuing to do things the "old way."
 
-Новый, лучший способ достигать прежних или лучших результатов быстро перенимается другими участниками "игры"; это также тесно связано с Законом 24, поскольку иначе ты будешь в проигрышной позиции, делая всё "по старому".
-
-Примеры: это в первый раз применение бизнес-модели по подписке (которая уже считается стандартом); дронов в войне и прочее.
+Examples: first-time use of a subscription-based business model (now considered standard); drones in warfare, and more.
 
 </i>
 <figure id=fig6>
-<!-- <figcaption style="text-align: center;">"Facing the Mirror"</figcaption> -->
     <img src="/posts/Ω/lodka/fig/fig6.png" alt="Description of the image" style="width:99%; display: block; margin: auto;">
-<figcaption style="text-align: center;">Рис. 7. Знамениетый мем, который вдохновил название Закона 25.</figcaption>
+<figcaption style="text-align: center;">Fig. 7. The famous meme that inspired the name of Law 25.</figcaption>
 </figure><br>
 </details><br>
 
-<b>26....41. Закон: ...</b>
+<b>26....41. Law: ...</b>
 
-Законы, которые не упомянуты. Можете предложить в удобной для Вас форме обратной связи недостающие, по Вашему мнению, законы.
+Laws that are not mentioned. Feel free to suggest missing laws in a feedback form convenient for you.
 
 <details id=om>
   <summary><b>
-    42. Закон ॐ
+    42. The Law of ॐ
   </b></summary>
 <i>
 
-Это самый сложный закон; мне его сказали. Я его не понимал, пока не сделал экстремальную духовную практику.
+This is the most complex law; it was told to me. I didn't understand it until I did an extreme spiritual practice.
 
-Не думаю, что он будет понятен большинству, поэтому ограничусь словами:
+I don't think most will understand it, so I’ll limit myself to these words:
 
-1. живое есть источник "волн": наш мозг, как правило, находит правдоподобные объяснения тому, что уже было "решено" на уровне "волны"
-2. человек - это "мембрана": принимает и транслирует электро-магнитные волны; все люди (живое) связано и влияет друг на друга; через определённые волновые сигналы, можно влиять на людей, "синхронизировать" и "дирижировать" .
+1. The living is a source of "waves": our brain typically finds plausible explanations for what has already been "decided" on the "wave" level.
+2. Humans are "membranes": they receive and transmit electromagnetic waves. All people (the living) are connected and influence each other. Through certain wave signals, one can influence people, "synchronize," and "conduct."
 
-**Обоснование**: самое близкое (из прикладного) к этому закону я нашёл [в этом видео](https://www.youtube.com/watch?v=BXNvKTtx1o4)
+**Explanation**: The closest (practical) example I found is [in this video](https://www.youtube.com/watch?v=BXNvKTtx1o4).
 
 </i>
 <figure id=fig7>
-<!-- <figcaption style="text-align: center;">"Facing the Mirror"</figcaption> -->
     <img src="/posts/Ω/lodka/fig/fig7.png" alt="Description of the image" style="width:99%; display: block; margin: auto;">
 <figcaption style="text-align: center;">Ōm</figcaption>
 </figure><br>
 </details><br>
 
-
 <details>
   <summary><b>
-    Парадокс "Сократа"
+    The Paradox of "Socrates"
   </b></summary>
   <blockquote>
-"Я знаю, что ничего не знаю."
+"All I know is that I know nothing."
 
-(предположительно) _Сократ_
+(Allegedly) _Socrates_
 </blockquote>
   <blockquote>
-"Лучшее знание — это незнание о том, что ты что-то знаешь."
+"The best knowledge is not knowing that you know something."
 
-_Лао Цзы_
+_Lao Tzu_
 </blockquote>
 
 <i>
 
+"99.99%" of people believe they "know" more than "Socrates," including me, paradoxically.
 
-"99.99%" людей считают, что они "знают" больше, чем "Сократ", включая меня, парадоксально.
+Examples of "incomplete" thinking:
 
-Пример "неполного" мышления:
-
-- очевидно, что такое мужчина/женщина...
-
-- на меня не влияет реклама/фильмы/мультики/пропаганда
-
-- меня мошенники не обманут - со мной такое точно не произойдёт
-
-- понятно что такое деньги, можно прочитать в словаре
-
+- Obviously, I know what a man/woman is...
+- Advertising/movies/cartoons/propaganda don't influence me.
+- Scammers won't fool me — that won't happen to me.
+- It's clear what money is; you can read about it in the dictionary.
 - ...
 
 </i>
 </details><br>
 
+Laws can and should be combined.
 
-Законы можно и нужно комбинировать.
+### **The Beginning of the Journey**
 
-### **Начало путешествия**
+Let’s examine our ship in [Fig. 1](#fig1).
 
-Давайте осмотрим наш корабль на [Рис. 1](#fig1).
+We have a very large, multi-tiered communal ship. Some people work in the "engine room" or in the kitchen, others ensure the uninterrupted operation of the electronics, some enjoy themselves carefree on the deck, and so on; there are many different rooms here.
 
-У нас очень большой многоярусный общий корабль. Кто-то работает в "моторном отсеке" или на кухне, другие обеспечивают бесперебойную работу электроники, кто-то беззаботно веселится на палубе и т.д.; здесь очень много разных помещений.
+We know some of the previous routes of the ship (it is important to consider that the information is incomplete, and the "course" model should be adjusted as new inputs come in). An example of "routes" includes stories about different situations/civilizations, wars, discoveries, relationships, and statistical data from different strata in various contexts (e.g., the expected failure rate of soldiers during attack/defense in a given situation with a certain amount of ammunition and other variables), and so on.
 
-Мы знаем некоторые предыдущие маршруты корабля (важно учитывать, что информация неполная и стоит корректировать "курс"-модель при поступлении новых вводных). Пример "маршрутов": истории про разные ситуации/цивилизации, войны, открытия, взаимоотношения, статистические данные разных страт в разных контекстах (например какое мат. ожидание количества выхода из строя бойцов при атаке/обороне в данной ситуации с данным количеством боеприпасов, других вводных) и прочее.
+Based on [Law 1. "Simplification"](#law1) and [Law 17. "80/20"](#law17), there is a limited number of "parameters" explaining the "route of our ship." Additionally, from [Law 14. "People Don’t Change"](#law14), we can infer that if these "parameters" are closer to the "center," they change much more slowly than the "external" ones. Finally, from [Law 12. "Titanic"](#law12), it follows that "movement along the route" has a "highly inertial nature." So, what are these "parameters" close to the "center," which largely determine our "collective journey"?
 
-Исходя из [1. Закон "Упрощения"](#law1) и [17. Закона "80/20"](#law17) существует ограниченое количество "параметров", объясняющих "маршрут нашего корабля". Дополнительно, из [14. Закон "Люди не меняются"](#law14) следует, что если эти "параметры" ближе к "центру", то они изменяются намного медленне, чем "внешнее". Наконец из [12. Закон "Титаника"](#law12) следует, что "движение по маршруту" имеет "большую иннерционную природу". Что же это за "параметры", близкие "к центру", определяющие во многом наше "коллективное путешествие"?
+It seems to me that these are our _values_ and _meanings_. That is, **_values_** and **_meanings_**, both explicitly _stated_ and _real_, serve as indicators and beacons for the direction of our "movement toward various islands." By "islands," I mean where we "end up" as a result of "our voyage"; we may "linger" on some of them, and avoid others, if "upon closer approach" we see that the "island is not so pleasant" — if we manage to "swerve away," according to [Law 12. "Titanic"](#law12).
 
-Мне представляется, что это наши _ценности_ и _смыслы_. То есть **_ценности_** и **_смыслы_**, как явно _заявленные,_ так и _реальные_, являются индикаторами и маячками направления нашего "движения к разным островам". Под "островами" я понимаю то, где мы "оказываемся" в результате "нашего плавания"; мы можем на некоторых из них "задерживаться", а некоторых наоборот "избегать", если "подойдя ближе" мы видим, что "остров не слишком приятный" - если успеем "увернуться", исходя из [12. Закон "Титаника"](#law12).
+Examples of _values_ or _meanings_ (often the distinction is quite conditional):
 
-Пример _ценностей_ или _смыслов_ (часто деление довольно условно):
-
-- оптимизация издержек, прибыль, ROI...
-- деньги: доллары, евро, рубли; криптовалюты...
-- luxury: яхты, часы, бренды, золото, бриллианты...
-- успех:
-- социальное поощрение: звания, грамоты, последователи, авторство книг/статей, соавтор с известными людьми... вещественные признаки: марка машины, место жилья, красивая женщина, любовница...
-- здоровье
-- избегание: боли, позора, страхов, унижения...
-- стремление: получать удовольствие...
-- ресурсы: электричество, газ, нефть...; еда, вода...
-- быть в тренде, первым
-- быть популярным
-- ощущать себя частью бОльшего
-- обладание "эксклюзивным": умом, дарованием, стилем одежды, внешним видом, бриллиантами, исскуством...
+- cost optimization, profit, ROI...
+- money: dollars, euros, rubles; cryptocurrencies...
+- luxury: yachts, watches, brands, gold, diamonds...
+- success:
+- social approval: titles, certificates, followers, authorship of books/articles, co-authorship with famous people... material signs: car brands, housing location, beautiful women, mistresses...
+- health
+- avoidance: pain, shame, fears, humiliation...
+- pursuit: pleasure...
+- resources: electricity, gas, oil...; food, water...
+- being trendy, first
+- being popular
+- feeling part of something bigger
+- possessing the "exclusive": intellect, talent, clothing style, appearance, diamonds, art...
 - ...
 
-В сегодняшнем нашем путешествии в океане нам будут встречаться только 2 типа островов: остров типа "**1+1=2**" и остров типа "**1+1>2**".
+In today’s journey across the ocean, we will encounter only two types of islands: "**1+1=2**" type islands and "**1+1>2**" type islands.
 
-### **ЦСи - движение: Ценностно - Смысловое движение**
+### **VMC Movement: Value-Meaning-Centric Movement**
 
-**Определение 1.** Рассматриваемые параметры, определющие динамику развития общества - "движения нашего корабля из [Рис. 1](#fig1)"
+**Definition 1.** The parameters under consideration that determine the dynamics of societal development — the "movement of our ship" from [Fig. 1](#fig1).
 
-Острова типа "**1+1=2**": на этом острове попадаются происшествия или вещи, которые намечены на "бортовых картах" по курсу ЦСи-движения нашего корабля с пометкой о большой доли вероятности их существования на острове.
+**Islands of the type "**1+1=2**"**: On this island, we encounter events or things that are charted on the "onboard maps" along the course of the VMC movement of our ship, with a significant probability of their existence on the island.
 
-Несколько примеров вещей или явлений, которые были найдены мною на островах "**1+1=2**": дроны, Tesla, starlink, глубокое обучение, геометрическое глубокое обучение, Transformers, Large Langause Models, ChatGPT 1-4, Google и т.д.
+Some examples of things or phenomena I have found on "**1+1=2**" islands include: drones, Tesla, Starlink, deep learning, geometric deep learning, Transformers, Large Language Models, ChatGPT 1-4, Google, etc.
 
-Острова типа "**1+1>2**": острова, которые попадаются неожиданно - неочевидные события/процессы, которые меняют наше бытие на корабле коренным образом.
+**Islands of the type "**1+1>2**"**: These are islands that are encountered unexpectedly — non-obvious events or processes that fundamentally change our existence on the ship.
 
-Мне на островах типа "**1+1>2**" попадались электричество, паровая машина, атомная энергия, интернет, блокчейн, возможно, смартфон и т.д.
+On "**1+1>2**" islands, I have come across electricity, the steam engine, atomic energy, the internet, blockchain, possibly the smartphone, and so on.
 
-### **Мини ЦСи-круиз по направлению островов "Власть и влияние"**
+### **A Mini VMC Cruise Towards the Islands of "Power and Influence"**
 
-Ценность власти и влияния разделяются большим количеством людей на разных континентах. Часто на практике, хотя и не на словах, эти ценности преобладают над ценностью других человеческих жизней и т.д. Пока это так, есть войны и насилие, захват ресурсов и ценностей, не говоря уже про психологическое удовлетворение от процесса и результа (читай - я/мы круче, сильнее, умнее, богаче, демократичнее всех и т.д.). Также распространена ценность достижения целей с минимальным количеством ресурсов - значит с большой вероятностью люди будут совершенствоваться в этом направлении и дальше.
+The value of power and influence is shared by many people across different continents. In practice, though not always in words, these values often take precedence over the value of other human lives, and so on. As long as this remains true, there will be wars, violence, the seizure of resources and values, not to mention the psychological satisfaction from the process and the result (read: I/we are cooler, stronger, smarter, richer, more democratic than everyone else, etc.). The value of achieving goals with minimal resources is also widespread — meaning it’s highly probable that people will continue to improve in this direction.
 
-Вышесказанное актуально на протяжение долгого периода времени - логично предположить, что нам и дальше будут попадаться на нашем ЦСи-движении острова типа "**1+1=2**" с различными проявлениями вышеупомянутых атрибутов. Мы будем находить на этом ЦСи-пути среди островов типа "**1+1=2**" вещи/инструменты для быстрой нейтрализации людей/преград с минимальным количеством ресурсов, новые летательные/плавающие/прыгающие/баражирующие/подводные и т.д. апараты для этих же целей, в новых медиумах (космосе, Марсе, под/воде, сознании, душе и т.д.). На этих островах нам будут попадаться новые инструменты для воздействия на сознание (чем нейтрализовывать человека, легче в зародыше влиять на его сознание таким образом, чтобы он был подконтрольный/дружественный), биологию/ДНК, может волновые/лазерные/бактериальные/ДНК-модификаторы у этноса и т.д. инструменты. Мы не знаем ещё имён для всех таких явлений, только некоторые - боевые дроны, атомное оружие, РЭБ, старлинк и т.д. Но мы знаем, что вероятность нахождения таких инструментов очень высока в течении этого ЦСи-путешествия.
+This has been relevant for a long time — so it’s logical to assume that we will continue to encounter "**1+1=2**" type islands on our VMC journey, with various manifestations of the aforementioned attributes. Along this VMC path, on the "**1+1=2**" type islands, we will find things/tools for quickly neutralising people/obstacles with minimal resources, new flying/swimming/jumping/loitering/underwater and other such apparatuses for these same purposes, in new mediums (space, Mars, under/over water, consciousness, soul, etc.). On these islands, we will come across new tools to influence consciousness (because it’s easier to neutralise a person by influencing their consciousness in a way that makes them controllable/friendly at an early stage), biology/DNA, possibly wave/laser/bacterial/DNA modifiers of an ethnic group, and other such instruments. We don’t yet have names for all such phenomena, only a few — combat drones, nuclear weapons, electronic warfare, Starlink, etc. But we know that the probability of discovering such tools is very high during this VMC journey.
 
-Схожим образом мы можем предпринимать ЦСи-путешествия и в другие направления: ИИ, система здравоохранения, финансовая системы, воспитание и т.д.
+Similarly, we can undertake VMC journeys in other directions: AI, healthcare systems, financial systems, education, and so on.
 
-### **Пример путешествия на острова типа "1+1=2" под названием Kandinsky 7.0 и ChatGPT 42.0**
+### **Example of a Journey to "1+1=2" Type Islands: Kandinsky 7.0 and ChatGPT 42.0**
 
-Как и в любом путешествии, нам нужно вначале хорошо подготовиться, изучить опыт и маршруты уже пройденных островов, подготовить инструментарий и провиант, так сказать.
+As with any journey, we need to prepare well in advance, study the experiences and routes of previously discovered islands, and gather tools and provisions, so to speak.
 
-#### **Как работают новые модели машинного обучения и какая граница их применения, простыми словами**
+#### **How new machine learning models work and where their application boundaries lie, in simple terms**
 
-Практически любую нашу задачу (перевод, распознование лиц, генерация текста и т.д.) мы можем представить как некоторую функцию или функционал (на входе функция, на выходе какое-то число, то есть любая функция "стреляет" в какое-то число), закодировать её с помощью цифр - иными словами, математическое моделирование задачи.
+Almost any task we have (translation, facial recognition, text generation, etc.) can be represented as a function or a functional (where the input is a function, and the output is some number, meaning any function "shoots" a number). We can encode this function using numbers — in other words, this is the mathematical modeling of the task.
 
-Элементарные функции, которые находятся в базисе моделей глубинного машинного обучения и способ их соеденения в единую структуру - позволяет кодировать _шаблонные структуры_ рассматриваемой задачи (это хорошо видно в задачах [компьютерного зрения](https://www.google.com/search?q=weights+neural+network+images+patterns&bih=944&biw=1920&hl=en&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiji-TY5O3-AhVS6aQKHdWtC_QQ_AUoAXoECAEQAw#imgrc=J-ZAOPTCQr3QoM&imgdii=K4h-EXfPIgYBUM)).
+Elementary functions, which are the foundation of deep learning models, and how they are combined into a unified structure allow us to encode _patterned structures_ of the task at hand (this is especially apparent in tasks involving [computer vision](https://www.google.com/search?q=weights+neural+network+images+patterns&bih=944&biw=1920&hl=en&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiji-TY5O3-AhVS6aQKHdWtC_QQ_AUoAXoECAEQAw#imgrc=J-ZAOPTCQr3QoM&imgdii=K4h-EXfPIgYBUM)).
 
 <figure id=fig8>
-<!-- <figcaption style="text-align: center;">"Facing the Mirror"</figcaption> -->
     <img src="/posts/Ω/lodka/fig/fig8.png" alt="Description of the image" style="width:50%; display: block; margin: auto;">
-<figcaption style="text-align: center;">Рис. 3. Иллюстрация шаблонов, которые выучили функции на разных глубинах нейроной сети</figcaption>
+<figcaption style="text-align: center;">Figure 3. Illustration of patterns learned by functions at different depths of a neural network</figcaption>
 </figure><br>
 
-
-[Теоремы об апроксимации](https://en.wikipedia.org/wiki/Universal_approximation_theorem) служат неким теоретическим обоснованием для применения моделей глубинного обучения для практически любой задачи. Шаблоны и функции преобразований выражены через параметры модели:
+[Approximation theorems](https://en.wikipedia.org/wiki/Universal_approximation_theorem) serve as theoretical justification for applying deep learning models to practically any task. Patterns and transformation functions are expressed through the model's parameters:
 
 <figure id=fig9>
-<!-- <figcaption style="text-align: center;">"Facing the Mirror"</figcaption> -->
     <img src="/posts/Ω/lodka/fig/fig9.png" alt="Description of the image" style="width:77%; display: block; margin: auto;">
-<figcaption style="text-align: center;">Определение 2. Схематическая иллюстрация работы моделей обучения</figcaption>
+<figcaption style="text-align: center;">Definition 2. Schematic illustration of how learning models work</figcaption>
 </figure><br>
 
+The general idea behind training modern models is finding patterns and mapping function parameters (transformations of patterns and intermediate data) that minimize errors on training data within the selected mathematical model. For sequential data (text, time series, etc.), we can add "contextual" information (there is a dictionary, and for each data point, we assign weights to relevant data from the dictionary/patterns: a high weight near a word means it is more relevant for the given point/pattern). This is commonly referred to as transformers/attention, but I prefer the term "contextual information" because that’s what our brain does when trying to understand something — it looks at the "context" beyond the direct meaning(s). We then learn the mapping from patterns + contexts to/from the original data. We can omit some mapping functions — in this construction, they will be constants. In short, this is what we are doing right now.
 
-Обучение современных моделей в общем виде: нахождение шаблонов и параметров функций мапирования (преобразований шаблонов и промежуточных данных), которые минимизируют ошибку на тренировочных данных в рамках выбранной мат. модели. Для последовательных данных (текст, временные ряды и т.д.), мы можем добавить "контекстную" информацию (есть некий словарь и мы для каждой данной точки находим в виде весов релевантные данные из словаря/шаблонов: большой вес возле слова, значит оно более релевантно для данной точки/шаблона) - принято это называть трансформерами/вниманием, но мне больше нравится слово "контекстная информация"; поскольку это то, что делает наш мозг, когда пытается понять что-то, он смотрит на "контекст" помимо прямого смысла/ов. Дальше мы изучаем мапирование из шаблонов + контекстов в/из оригинальных данных. Мы можем некоторые функции мапирования опустить - в этой конструкции они будут константами. Вкратце это то, что мы делаем сейчас.
+Note that because values and meanings are significantly fewer in number than their manifestations, and due to their relative stability (read: they don’t change quickly, as a rule), the number of parameters we need to keep in mind in our mental model of the world is simplified. Additionally, processes are differentiated into important and less important ones, and finally, they "slow down" proportionally to the rate at which values/meanings change.
 
-Обратите внимание, что благодаря тому, что Ценностей и Смыслов соизмеримо меньше их проявлений, а также их относительной статичности (читай, что они не изменяются быстро, как правило), упрощается количество параметров, которые нам нужно иметь в виду нашей ментальной модели мира, а также дифференциируются процессы на важные и не столь, и наконец они "замедляются" соизмеримо скорости изменений Ценностей/Смыслов.
+#### **The Limitations of Model Application**
 
-#### **Граница применения моделей**
+We are limited by the patterns the model has learned and the transformation functions it uses. If a phenomenon is generated by a different "pattern," we will only get a projection of that phenomenon onto the manifold of possibilities expressed by the model. If our mapping function from "patterns" to the manifold of describable phenomena is "poorly learned," we end up with a "hallucination" — a result that does not belong to the manifold of phenomena we are modeling/describing. Since the combination of context/meaning is infinite (and the variations of patterns correspondingly so), this method of modeling will never create true artificial intelligence; there will always be that "uncovered 1%" of cases. This is similar to expressing a signal through some "damping" basis, such as the [Fourier series](https://ru.wikipedia.org/wiki/%D0%A0%D1%8F%D0%B4_%D0%A4%D1%83%D1%80%D1%8C%D0%B5): how many basic elements do we need to express **_any_** function? All of them!
 
-Мы ограничены шаблонами, которые модель выучила + функциями преобразования. Если явление порождено другим "шаблоном", то мы получим некую проекцию этого явления на многообразие вариантов, выражаемых моделью. Если же у нас функция мапирования из "шаблонов" в многообразие описуемых явлений выучена "нехорошо", то получится "галлюцинация" - результат не пренадлежит многообразию явлений, которые мы моделируем/описываем. Поскольку связок контекст/смысл бесконечно много (и вариций шаблонов соотвественно), то этим путём моделирования мы никогда не создадим исскуственный интеллект, всегда будет "непокрытый 1%" случаев. Это похоже на выражение сигнала через некий "затухающий" базис, например [Фурье](https://ru.wikipedia.org/wiki/%D0%A0%D1%8F%D0%B4_%D0%A4%D1%83%D1%80%D1%8C%D0%B5): сколько нам нужно базисных-элементов, чтобы выразить **_любую_** функцию? Все!
+The development of artificial intelligence requires a fundamentally different approach to modeling... ultimately, our brain. And by the way, why do we even need artificial intelligence? For me, the answer is not obvious.
 
-Разработка исскуственного интеллекта требует принципиально другого подхода в моделировании... нашего мозга в конечном счёте. А зачем нам исскуственный интеллект, кстати? Для меня ответ неочевиден.
+For those interested in this topic, Alexey Redozubov ([@AlexeyR](https://boosty.to/aldrd) [@habr](https://habr.com/ru/users/AlexeyR/)) has done some interesting research on an alternative path to AI development.
 
-Кому интересна эта тема, например Алексей Редозубов ([@AlexeyR](https://boosty.to/aldrd) [@habr](https://habr.com/ru/users/AlexeyR/)) делал интересные исследования альтернативного пути к построению ИИ.
+#### **Collective Consciousness**
 
-#### **Коллективное сознание**
+Reality is "wider" than any language; moreover, language largely shapes our reality. Collective consciousness is the maximum number of models based on our brains. A strong artificial intelligence with enhanced computational capabilities might offer us a new experience of living in reality.
 
-Реальность "шире" любого языка; больше - язык, во многом, обуславливает нашу реальность. Коллективное сознание - это максимум моделей, основанных на нашем мозге. Сильный исскуственный интеллект с увеличенными вычислительными способностями, возможно, даст нам новый опыт проживания реальности.
+### **What will the Value and Meaning Movement of the ship look like: how will the visit to the islands "1+1=2" under the names Kandinsky 7.0 and ChatGPT 42.0 reflect on our society?**
 
-### **Какое будет ЦСи-движение корабля: как отразится на нашем обществе визит островов типа "1+1=2" под названиями Kandinsky 7.0 и ChatGPT 42.0**
+As we sail along the planned course, there will be an increasing "bite" taken out of the templated nature of our collective consciousness, with gradual materialization according to the [principle of least resistance](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF_%D0%BD%D0%B0%D0%B8%D0%BC%D0%B5%D0%BD%D1%8C%D1%88%D0%B5%D0%B3%D0%BE_%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D1%8F) (it is easier to replace the mental than the physical). Models will increasingly capture more patterns. According to [Law 2: "The Matrix" or "Light Oblomov"](#law2), since people tend to think quite automatically, [Law 17: "80/20"](#law17) will likely apply, repeating the same over the remaining "areas" — with the previously mentioned "uncovered 1%" of cases.
 
-Путешествуя по заданному курсу будет происходить "откусывание" всё большей части шаблонированной природы нашего коллективного сознания с постепенной материализацией по [принципу наименьшего сопротивления](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF_%D0%BD%D0%B0%D0%B8%D0%BC%D0%B5%D0%BD%D1%8C%D1%88%D0%B5%D0%B3%D0%BE_%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D1%8F) (ментальное легче заменить, чем физическое). Всё сильнее модели будут схватывать всё больше шаблонов. В соответсвтиее [2. Закону "Матрицы" или "Обломов-лайт"](#law2) обычно человек мыслит довольно шаблонно, то скорее всего будет действовать [17. Закон "80/20"](#law17), с повторением оного на оставшихся "участках" - упомянутый раннее "непокрытый 1%" случаев.
+As our ship sails the AI winds, we will accelerate: patterned tasks will be completed faster, new patterns will be discovered. The obstacle will often not be technology itself but rather the lack of knowing what to do with the "freed-up people" — until a new purpose for them is found, of course.
 
-В процессе ЦСи-движения нашего корабля по ветру ИИ, мы будем ускоряться: шаблонные задачи будут быстрее выполнятся, открываться новые паттерны/шаблоны. Часто тормозом будет не технология, но незнание что делать с "высвободившимися людьми"; до момента придумывания что с ним делать, разумеется.
+It is worth noting that unlike previous technological revolutions, this one is _fundamentally_ different because we are replacing models (and, if we follow the logic of Value and Meaning Movement, robots) with our _collective consciousness_ itself, and only then, as a consequence, other social phenomena (interactions in work, writing texts, etc.) — in other words, we are automating the foundation of foundations. Accordingly, any activity that can be templated or mapped into an algorithm of actions can be automated. This means that we won’t be able to invent work for people unless it is creative (non-templated) or "roughly" physical (until we learn to make bio-robots/robots).
 
-Стоит заметить, что в отличие от предыдущих технологических революций, эта отличается _кардинально_ тем, что мы замещаем моделями (затем, если следовать логике СЦи-движения, роботами) само наше _коллективное сознание_, а уже потом, как следствие, другие наши социальные явления (взаимодействия в рамках какой-то работы, написание текста и прочее) - то есть мы автомитизируем основу основ. Соответсвенно, любую деятельность с возможностью шаблонирования/расписания алгоритмов действия мы сможем автоматизировать. Получается, что мы не сможем придумать работы для людей, если они не творческие (не шаблонные) и не "грубо" физичекие (до тех пор пока мы не научимся делать био-роботов/роботов).
+Whether the phenomena found on the islands during our journey will be named ChatGPT 42.0 or Kandinsky 7.0 is not so important. It is clear that these are islands of the type "**1+1=2**" and that future "versions" of such models will possess the aforementioned properties.
 
-Будут ли найденные явления на островах в нашем путешествии называться ChatGPT 42.0 или Kandinsky 7.0, не столь важно. Понятно, что это острова типа "**1+1=2**" и что "подобные порядковые версии" моделей будут обладать вышеупомянутыми свойствами.
+A notable example is the experience of [a business consultant](https://en.wikipedia.org/wiki/Felix_Shmidel) who programmed business processes and decision-making in a large company, resulting in 90% of the top management being redundant and consequently laid off (90% of situations were standard and could be resolved without involving upper management).
 
-Примечателен опыт [одного бизнес консультанта](https://en.wikipedia.org/wiki/Felix_Shmidel), который запрограммировал бизнес процессы и принятие решений в большой компании, в результате чего оказалось, что 90% высшего менеджмента не нужно и было уволено (90% ситуаций стандартные и могут быть решены без вовлечения высшего руководства).
+During the journey, it is very likely we will encounter an island of the type "**1+1>2**" — a fundamentally different way of modeling... the brain.
 
-В процессе путешествия с большой долей вероятности мы заедем на остров типа "**1+1>2**" - принципиально иной способ моделирования ...мозга.
+Clear examples of the presence of patterns, which are becoming more apparent in everyday activities, accelerating our movement: patterning in the work of Data Scientists/Engineers, patterns in miro, Notion, Evernote, presentations, business: [55 business model patterns](https://wackwork.de/wp-content/uploads/2017/11/St-Gallen-Business-Model-Innovation-Paper.pdf), etc. Essentially, all books on how to be successful, make friends, present material, etc., are about learning patterns in different areas (and most of them boil down to the same internal patterns and experiences, but that's another topic).
 
-Наглядные примеры присутствия шаблонов, которые становятся более явными в повседневной деятельности, ускоряя наше движение: шаблонирование работы Data Scientist/Engineers, шаблоны в miro, Notion, Evernote, презентациях, бизнесе: [55 паттернов бизнес моделей](https://wackwork.de/wp-content/uploads/2017/11/St-Gallen-Business-Model-Innovation-Paper.pdf) и прочее. По большому счёту, все книги про то, как стать успешным, завоевать друзей, презентовать материал и т.д., это про изучение шаблонов в разных сферах (в основном они сводятся к одним и тем же внутренним шаблонам и переживаниям, но это уже отдельная тема).
+Typically, we self-identify — meaning we "stick" to our mental model, which is why advertising campaigns, propaganda, television, diversionary operations, and so on are so effective — they mainly rely on _meta-mental models_. Pulling a person out of a calm state into an emotional one (for example, triggering fear, psychological trauma, complexes, humiliation, dislike, pride, etc.) reduces awareness and, as a result, activates their mental model, limiting the ability to think critically.
 
-Как правило, мы самоидентифицируемся, то есть "слипаемся" со своей ментальной моделью, поэтому рекламные компании, пропаганда, телевидение, диверсионные операции и т.д. столь эфективны - они опираются главным образом на _мета-ментальные модели_. Выведение человека из спокойного состояние в эмоциональное (например, активация страха, психологических травм, комплексов, унижения, неприязни, гордости и т.д.) уменьшает осознанность и как следствие активирует его ментальную модель, ограничивая способность к критическому мышлению.
+### **Criticism and Limits of This Mental Model**
 
-### **Критика и границы применения этой ментальной модели**
+1. This is a very simple model that does not take into account many aspects: consciousness, collective consciousness/unconsciousness, spirituality, and others.
+2. The model fully relies on a "positivist scientific view," meaning the more we know, the more accurate the model becomes. Ideally, having access to "closed" information would allow many crises and wars to belong to the "**1+1=2**" island rather than the "**1+1>2**" island, at least long before arrival. We would then have a higher likelihood of knowing which island we are approaching.
+3. It is advisable to use different mental models depending on the task and context. Professions that contribute to the application of more complex models include: psychologists/psychiatrists, sociologists, intelligence services/[diversion operations](https://ru.wikipedia.org/wiki/%D0%9F%D1%81%D0%B8%D1%85%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0), marketers/branding specialists, trust-based scammers/[social engineers](https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%B8%D1%8F), [philosophers](https://www.youtube.com/watch?v=ZFVJVizH5Sg&list=PLPhBG-hS1n2Hr7GehFPKrsbO3Jn2yMoK6&ab_channel=FelixShmidel)/[spiritual practitioners](http://meditation.college/), investors (G. Soros, C. Munger, W. Buffet), strategic politicians (V. Surkov, A. Arestovich, Z. Brzezinski, etc.), and others (["Professor Moriarty"](https://www.youtube.com/@moriartymega)). In parentheses, I have listed examples of people who, based on my observations, most likely use more advanced mental models, which we will call _meta-mental models_. There are many _meta-mental models_ ([example of a meta-mental model](https://www.youtube.com/watch?v=ZFVJVizH5Sg&list=PLPhBG-hS1n2Hr7GehFPKrsbO3Jn2yMoK6) presented by [Felix Shmidel](https://en.wikipedia.org/wiki/Felix_Shmidel)). In the context of such models, other mental models are also operated to represent reality. Ideally, if there is an opportunity to influence society's "reality" through collective consciousness, staying in the shadows is the most advantageous, and it is thought that many people with incredibly complex meta-mental models are unknown to us and familiar only to a very narrow circle of people. It is worth noting that now, in addition to these people's highly complex models, closed information, and advanced modern knowledge about brain structure and the ability to influence collective consciousness, AI technologies are also being added ([Palantir](https://en.wikipedia.org/wiki/Palantir_Technologies) & [Co](https://en.wikipedia.org/wiki/Five_Eyes), etc.).
+4. I will point out that the most complex type of models is _spiritual meta-mental models_. Beyond them lies the spiritual itself. Based on observations, individuals like A. Arestovich, V. Surkov, V. Putin; G. Rasputin, G. Gurdjieff, Osho, I. Stalin, Joan of Arc (historical figures), and others fall into this category. One of the many complexities in understanding their mental worldview is that their main values and meanings often lie beyond the material world, and in their _uniqueness_. Consequently, while most people attach great importance to houses, yachts, money, and other material possessions, for these individuals, those things likely have a completely different significance—they invest different symbols into them. Since we mostly evaluate based on our worldview, the difficulty in understanding arises from this.
+5. Indeterminism: any mental model is a _probabilistic_ model (though the probability may be nearly 100%).
 
-1. это очень простая модель, которая не учитывает многих аспектов: сознание, коллективное сознание/бессознательное, духовное и прочее.
-2. модель полностью полагается на "позитивисткий нучный взгляд", поэтому чем больше мы знаем, тем точнее модель; в идеале нужно знать "закрытую" информацию, тогда и многие кризисы и войны будут принадлежать острову "**1+1=2**", а не "**1+1>2**", по крайней мере задолго до прибытия, мы уже будем с бОльшей вероятностью понимать к какому острову приближаемся.
-3. желательно использовать разные ментальные модели в зависимости от задачи и контекста; профессии, которые способствуют применению сложных моделей: психолог/психиатр, социолог, спец. службы/[диверсионные операции](https://ru.wikipedia.org/wiki/%D0%9F%D1%81%D0%B8%D1%85%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0), маркетолог/специалист по брендам, мошенники на доверии/[социальная инженерия](https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%B8%D1%8F), [философы](https://www.youtube.com/watch?v=ZFVJVizH5Sg&list=PLPhBG-hS1n2Hr7GehFPKrsbO3Jn2yMoK6&ab_channel=FelixShmidel)/[духовные практики](http://meditation.college/), инвесторы (Д. Сорос, Ч. Мангер, В. Бафет), политики-стратеги (В. Сурков, А. Арестович,  З. Бжезинский и т.д.) и прочее (["Профессор Мориарти"](https://www.youtube.com/@moriartymega)). В скобках я привёл примеры людей, которые, по моим наблюдениям, с большой долей вероятности, используют более продвинутые ментальные модели, назовём их _мета-ментальные модели_. Есть много _мета-ментальных моделей_ ([пример мета-ментальной модели](https://www.youtube.com/watch?v=ZFVJVizH5Sg&list=PLPhBG-hS1n2Hr7GehFPKrsbO3Jn2yMoK6) представленной [Феликсом Шмиделем](https://en.wikipedia.org/wiki/Felix_Shmidel)). В рамках таких моделей оперируют также другими ментальными моделями в своих представлениях о реальности. В идеале, если есть возможность влиять на "реальность" общества через коллективное сознание, то быть в тени самое выгодное и думается, многих людей с невероятно сложными мета-ментальными моделями, мы не знаем и они знакомы только очень узкому кругу лиц. Стоит отметить, что теперь к очень сложным моделям этих людей + закрытой информации + продвинутым современным знаниям об устройстве мозга и возможностями влияния на коллективное сознание, теперь добавляются возможности ИИ-технологий ([Palantir](https://en.wikipedia.org/wiki/Palantir_Technologies) & [Co](https://en.wikipedia.org/wiki/Five_Eyes) и т.д.).
-4. отмечу, что самый сложный тип моделей: _духовные мета-ментальные модели_. После них уже духовное. Исходя из наблюдений к таким личностям относятся А. Арестович, думается В. Сурков, В. Путин; Г. Распутин, Г. Гурджиев, Ошо, И. Сталин, Ж. д’Арк (из исторических персонажей) и т.д. Одна из многих сложностей понимания их ментальной картины мира заключается в том, что главные их смыслы и ценности лежат вне материального мира, а также в их, как правило, _уникальности_. Соответсвенно, когда большинство придаёт большое значение домам, яхтам, деньгам и прочему в их владении, для них оно имеет, с большой долей вероятности, совсем иное значение - они в них вкладывают другие символы. А оцениваем мы в основном по себе, через нашу картину мира, поэтому и сложность понимания.
-5. недетерменизм: любая ментальная модель это _вероятностная_ модель (хоть вероятность и может быть почти 100%)
-
-### **Почему важно сейчас начать переосмысливать для чего и как мы взаимодействуем друг с другом**
+### **Why It's Important to Start Rethinking How and Why We Interact with Each Other**
 <blockquote>
-Стремление к большой марже ведёт к тому, что даже поездка к любовнице превращается в военную операцию.
+The pursuit of high margins leads to situations where even a trip to a mistress becomes a military operation.
 
-_Ф. Шмидель_
+_F. Shmidel_
 </blockquote>
 
+In the realm of "doing," especially templated or repetitive actions, any machine will outperform us; see 19. Law "Terminator." The templates may be non-trivial and very complex, but sooner or later, new models will learn these too (many of these templates may surprise most people). Within the framework of our current interactions, we have now reached a point where we can teach machines complex templates and sophisticated mapping functions, taking into account **contextual** information.
 
-В области "делания", особенно шаблонного делания, любое железо будет выполнять вещи лучше нас; 19. Закон "Терминатора". Шаблоны могут быть нетривиальными и очень сложными и их рано или поздно новые модели тоже выучат (многие шаблоны могут быть сюрпризом для большинства). В рамках существующего нашего взаимодействия мы пришли к тому, что мы теперь можем машины учить сложным шаблонам и сложным функциям мапирования, учитывая **контекстную** информацию.
+We need to decide: will we continue our CsM-movement on our ship under the same winds, or...?
 
-Нам стоит определиться, будем ли мы продолжать наше ЦСи-движение на нашем корабле под теми же ветрами или ...?
+Will we see those "others" who may be weaker/slower/less foresighted, who have not yet learned or whose time hasn't come to operate with meta-mental models, as merely a source of benefits for achieving goals, "batteries" for resources, "bio-robots"? Or will we recognize the inherent value in them as living beings?
 
-Будем ли мы видеть в тех, "других", кто в чём-то слабее/глупее/менее дальновиден, не умеет или ему/ей не пришло время учиться оперировать мета-ментальными моделями - только источник благ/достижения целей, "батарейку" для ресурсов, "био-робота" или же будем видеть в другом ценность как живой сущности?
+Simply because, in this vast galaxy, a miracle has occurred—before us is a living being that, for some reason, appeared here just like you, my dear reader!
 
-Просто потому, что в этой огромной галактике случилось чудо - и перед нами живая сущность, которая зачем-то здесь появилась как и ты, мой дорогой читатель!
+Please note that I have not even touched on (geo-political) conflict questions, assuming that we are capable of negotiating with one another.
 
-Обратите пожалуйста внимание, что я вообще не учитывал вопросы (гео-политических) конфликтов, предполагая, что мы способны друг с другом договариваться.
 
-##### **Кратко:**
+##### **Summary:**
 
-- наша социо-экномическая система не сбалансирована и неминуемо ведёт к расслоению общества (как внутри стран, так и на глобальном уровне), что в конечном итоге приведёт к сегрегации (предполагаемые классы: "элита", "обслуга" (физическая, "духовная" и интеллектуальная), "охрана", "био-масса")
-- хотя она уже даёт треск и непонятно какую форму примет в течении следующих 2-10 лет
-- ИИ и автоматизация значительно ускоряют вышеупомянутую динамику распределения благ
-- ИИ и автоматизация - это революция средств производства, что неминуемо приведёт к социальному напряжению и конфликту между разными классами общества
-- Элиты - это, в большинстве случаев, в первую очередь, такие же люди как и мы; мы все переживаем за свои сбережения и уровень жизни, будущее детей и действуем исходя из наших ментальных картин мира и опыта. Зарабатывание денег И. Маском, Б. Гейтсом, В. Баффетом, Р. Абрамовичем, Д. Безосом и другими более того, что у них есть сейчас, не имеет никакого смысла с точки зрения цифр. Будет у В. Бафета, например, состояние больше на 10 млрд или меньше - мало отразится на его реальном уровне жизни, не говоря уже, что с собой ничего не заберёшь. Зарабатывание сверх какой-то разумной меры напоминает:
-
-<blockquote>
-Дерусь… просто потому, что я дерусь!
-
-_Портос_
-</blockquote>
-
-Решение мне кажется должно быть движение в сторону общества, где все могут продолжать заниматься тем, что они любят (например, В. Баффет инвестировать и т.д.) и сохранять "нормальный" уровень жизни, но чтобы средства производства как следствие экономической активности постепенно распределелись более равномерно путём консенсусного соглашения. Это приведёт к динамике **постепенного** улучшения распределения благ.
-
-По поводу умения договариваться:
-<blockquote>
-Мы не можем ни о чём договориться, любой инструмент или ресурс - оружие.
-
-_А. Кубышкин_
-</blockquote>
-
-У нас становится оружием любая технология, философия, понятие...: демократия, слухи,  страхование машин/судов, протоколы финансовых учётов, деньги, жизненные ресурсы, таланты, интернет, история, хорошие намериния и в любых медиумах: Земля, воздух, вода, под водой, космос, сознание, душа...
-
-### **Что дальше**
-
-**Главный вопрос**: **для чего и как мы взаимодействуем друг с другом?** в рамках отношений, компаний, городов, стран, Земли... _как ещё мы можем взаимодействовать?_ Ответ на этот вопрос, мне видится, лежит в решении, что первично-вторично:
-
-**(а)**
-
-1. Взаимопомощь (сострадание и милосердие)
-2. Конкуренция
-
-или
-
-**(б)**
-
-1. Конкуренция
-2. Взаимопомощь (сострадание и милосердие)
-
-Если **(б)**, тогда стоит брать пример с природы и зверей. Например, стая львов, захватив прайд и новые территории, победив старых вожаков, прежде всего убивает маленьких львят - детёнышей прежних вожаков -
-
-_от конкурентов легче избавляться пока они слабые, в идеале, зародыши или вообще не родились._
-
-Соответсвенно, выгоднее всего конкурировать, убрав детей наших конкурентов - убив ли, сделав невыгодные условия развития, напичкав их вредными для здоровья продуктами и прочее. Вместо того, чтобы блокировать дороги Украинской продукции, лучше вообще всех Украинских, Африканских детей нейтрализовать. И стоит к чужим детям относиться так же, учить их навыкам, затрудняющих адаптацию и развитие. Лучше разработать ДНК-оружие, чтобы делать женщин определённой национальности/группы бесплодными, тогда потом не нужно воевать со взрослыми воинами. Да прибудет с нами выгода, ведь это самое главное, разве нет?
-
-Если же **(а)**, вектор движения я вижу в улучшении качества жизни (много измерений) всех участников - увеличении блага. Критерий правильности движения - чтобы "_стало не хуже, чем_ **_было_**".
+- Our socio-economic system is unbalanced and inevitably leads to the stratification of society (both within countries and on a global level), which will ultimately result in segregation (presumed classes: "elite," "service class" (physical, "spiritual," and intellectual), "security," "bio-mass").
+- Although it is already showing cracks, it is unclear what form it will take in the next 2-10 years.
+- AI and automation significantly accelerate the aforementioned dynamics of wealth distribution.
+- AI and automation are a revolution in the means of production, which will inevitably lead to social tension and conflict between different social classes.
+- Elites, in most cases, are just like us; we all worry about our savings, quality of life, and our children's futures, and we act based on our mental models and experiences. The pursuit of wealth by I. Musk, B. Gates, W. Buffett, R. Abramovich, J. Bezos, and others beyond what they currently have makes no sense from a numerical standpoint. Whether W. Buffett, for example, has 10 billion more or less will hardly affect his actual standard of living, not to mention the fact that you can't take anything with you. Earning beyond a reasonable measure resembles:
 
 <blockquote>
+I fight... simply because I fight!
 
-А мне, что говорить не станут,
-
-Я буду все твердить своё:
-
-Что впереди - бог весть,
-
-А что моё - моё!
-
-
-_И. А. Крылов_
+_Porthos_
 </blockquote>
 
-Возможно, это звучит не слишком красиво и амбициозно, но в этой формуле есть и сравнение с тем, что было - брать лучшее из прошлого, учиться на ошибках и опыте и при этом осторожный взгляд и постепенное движение в будущее.
+The solution, in my view, should be a movement towards a society where everyone can continue doing what they love (e.g., W. Buffett investing, etc.) while maintaining a "normal" standard of living, but where the means of production, as a result of economic activity, are gradually distributed more evenly through consensual agreements. This would lead to a **gradual** improvement in wealth distribution.
 
-Сделать "справедливо"/"поровну" и т.д. - это утопия.
+Regarding the ability to negotiate:
+<blockquote>
+We can't agree on anything, any tool or resource becomes a weapon.
 
-Также утопия, если кто-то говорит, что _я знаю_ как лучше будет всем - система управления нашим кораблём слишком усложнилась. Стоит ориентироваться на этот _вектор_ и на _непрерывную обратную связь_ пассажиров корабля.
+_A. Kubyshkin_
+</blockquote>
 
-Обратите внимание, что при таком движении пассажиры неизбежно вынуждены направлять внимание вовнутрь, чтобы понять что им надо и стало ли не хуже, а это неизбежно приведёт к переосмыслению культуры потребления и других ценностей. С таким движением нам и не требуется сильный исскуственный интеллект - аргумент в пользу оного (для распределения ресурсов, например) некоторых мыслителей; хотя и концептуального противоречия тоже нет.
+Any technology, philosophy, concept... becomes a weapon: democracy, rumors, car/ship insurance, financial accounting protocols, money, life resources, talents, the internet, history, good intentions, and in any medium: Earth, air, water, underwater, space, consciousness, soul...
 
-В следующих статьях расскажу какие у нас могут быть опции и почему мышление в рамках капитализм и/или социализм и/или ... другого ..изма ошибочно в самой сути вопроса.
+### **What’s Next**
 
-Да прибудет с Вами выгода, ведь это самое главное, разве нет?
+**The main question**: **Why and how do we interact with each other?** within relationships, companies, cities, countries, Earth... _how else can we interact?_ The answer to this question, it seems to me, lies in deciding what is primary-secondary:
+
+**(a)**
+
+1. Mutual aid (compassion and mercy)
+2. Competition
+
+or
+
+**(b)**
+
+1. Competition
+2. Mutual aid (compassion and mercy)
+
+If **(b)**, then we should take an example from nature and animals. For instance, a pride of lions, having captured a territory and defeated the previous leaders, first kills the cubs of the former leaders—
+
+_it's easier to get rid of competitors while they're weak, ideally, while they're embryos or not born at all._
+
+Accordingly, it is most profitable to compete by eliminating the children of our competitors—either by killing them, creating unfavorable conditions for their development, feeding them harmful products, and so on. Instead of blocking Ukrainian products, it would be better to neutralize all Ukrainian, African children entirely. And we should treat others' children the same way, teaching them skills that hinder adaptation and development. It's better to develop DNA-based weapons to make women of a particular nationality/group infertile, then we wouldn't need to fight adult warriors later. Let the profit be with us, for it's the most important thing, isn’t it?
+
+But if **(a)**, the direction I see is improving the quality of life (in many dimensions) for all participants—enhancing well-being. The criterion for correct movement is to "_make it not worse than it was_."
 
 <blockquote>
-Я боюсь стать таким, как взрослые, которым ничто не интересно, кроме цифр...
 
-_Маленький принц, А. де Сент-Экзюпери_
+Whatever they say to me,
+
+I will still say mine:
+
+What lies ahead—who knows,
+
+But what's mine—is mine!
+
+_I. A. Krylov_
 </blockquote>
+
+Perhaps this doesn’t sound too glamorous or ambitious, but in this formula there is also a comparison with what was—taking the best from the past, learning from mistakes and experience, and cautiously moving toward the future.
+
+Trying to make everything "fair"/"equal" is a utopia.
+
+It’s also a utopia if someone claims _I know_ what's best for everyone—the system governing our ship has become too complex. We should focus on this _vector_ and on the _continuous feedback_ from the passengers of the ship.
+
+Please note that with such a movement, passengers will inevitably have to turn their attention inward to understand what they need and whether things have improved, which will inevitably lead to a rethinking of consumer culture and other values. With this direction, we don't necessarily need a strong artificial intelligence—an argument made by some thinkers (e.g., for resource allocation); though there is no conceptual contradiction either.
+
+In the following articles, I’ll discuss the options we have and why thinking in terms of capitalism and/or socialism and/or ... another ...ism is inherently flawed in its premise.
+
+Let the profit be with you, for that’s what matters most, isn’t it?
+
+<blockquote>
+I’m afraid of becoming like those grown-ups who are only interested in numbers...
+
+_The Little Prince, A. de Saint-Exupéry_
+</blockquote>
+
 
 <!-- ### **Просьба от автора**
 
 Мне важна обратная связь. Поскольку, метафорически выражаясь, я десятилетиями взимодействовал с внешним миром "из бункера", то у меня есть некоторые несостыковки в понимании меня и моих мыслей окружающими. Усложняет ситуацию тот факт, что я мыслю довольно нестандартно и замечаю вещи, которые обычно вне "радаров" большинства. Соответсвенно, критически важна обратная связь заинтересованного читателя: на каком место меня потеряли? какой пример/аллегория непонятны, а какие понятны? какая причинно-следственная связь видится неочевидной/"натянутой"? какие вещи банальны и стоило бы их не писать, а какие наоборот требуют бОльшей детализации? и т.д. Разумеется, все мои доводы проходят мою критическую проверку, а также проверку на логическую последовательность. Соответсвенно, всё, что я пишу, подразумевает, что я выстроил в голове логические причинно-сдедственные связи. Разумеется, я что-то не вижу, упускаю, указание на оное тоже важно и ценится мной.
  -->
 
-##### **Примеры того, как я обрабатываю информацию, материалы с основными тезисами и моими комментариями**
+##### **Examples of how I process information, materials with key points and my comments**
 
 <details>
   <summary><b>
-    1. Александр Кубышкин, "ИИ, мировая экономика, чего ожидать" (ENG), основные тезисы:
+    1. Alexander Kubyshkin, "AI, World Economy, What to Expect" (ENG), key points:
   </b></summary>
 
-- энергия - базис
-- всё в этом мире - экономическое (ментальное, духовное, культурное) оружие, невозможно ни о чём договориться // политическое оружие
-- 6ая технологическая волна
-- 1-5 волны (x2 больше энергии в каждой волне/переходе)
-- новые технологии - много энергии
-- новая технология: замкнутый круг производства энергии//не протестировано
-- не верю в переход зелёной энергии (пример станции в космосе с огромными идеальными батареями и условиями), мало места + мало ресурсов для батарей нужно смотреть на "уг" (узкое горлышко) = Китай
-- крипто/блокчейн + ии
-- мы не будем жить в глобальном мире!!!
-- цепочки доставок будут локализованы
-- ии этому в помощь, не будет в глобальном мире
-- технологии двигаются быстрее, чем общество адаптируется
-- нет инициатив брать риски в управлении
-- персональные данные через блокчейн
-- запрет технологии децентрализации
-- движение в сторону модели "Китая"
-- изменение парадигмы мышления (капитализма)
-- рост невозможен если ограничены ресурсы
-- нет возможности расширяться - космос; Маск старается несмотря на то, что технологии атомные были заморожены на 25 лет после Чернобыля будут конфликты
-- 40% компаний в NASDAQ "лалаленд" компании - непонятно что как и кому они продают и смогут ли достичь того, что обещают
-- если всё посчитать (влияние на природу, цену копания минералов и тд) - самая чистая форма энергии это атомная
-- растут риски, нестабильность, нужно быстро реагировать + сигнал обратно
-- единственный неудачник - Европа:
-- нет энергии
-- система управления неэфективна (политики как клоуны - неспособны ничего решить)
-- невозможен переход в новую экономику без войны: вопрос она будет большая или нет?
-- сша/китай - два способа организации обществ
-- китайская модель при турбулентности может быть перенята другими странам
-- япония - предсказание (проблема с демографией), что роботы будут "частью" общества
-- конфликт при турбулентности не обязательно между 2мы странами, но многими
-- Крымсие войны 1900 века позволили Британии сохранить доминирующее положение на другие 100 лет
-- Швабс идея инклюзивного капитализма: элиты-хорошие и другие-рабы
-- Книга [Tom Burgis "Kleptonia: How dirty money is conquering the world"](https://www.amazon.de/-/en/Tom-Burgis/dp/0062883658)
-- корупция верхушки - деньга на западе - через банковскую систему контроль денег и верхушки - государства (Казахстан например)
-- финансовый пузырь должен лопнуть (40 лет) и только после можно что-то строить
-- деньги
-- налог - механизм государства поощрять людей что-то делать
-- создаются не государством, но банками меньше 1% процент это деньги 95% "денег" - приватный банковский сектор (я думаю, что это занижено) никто не может дать определение, что есть деньги (шутка: в сша не могут дать определение, что есть женщина) у банков есть разные методы печатания/создавания денег и создавать таким образом фин отчёты во всей системе: центральный банк, банки, не банковские фин институты:  450-470 триллионов долларов глобальная экономика: 90 триллионов (финансовые ценности в gdp x6) классические банки: 200 триллионов серые "банки" (хэдж фонды, страховки...): 250 триллионов центральные банки: 40 триллионов мы не знаем как именно система работает, мы не знаем что есть деньги, что считается деньгами...
-- 50% всех переводов - доллары; 95% всех дериватив - доллары
-- 2% - не доллары
-- только 50% квартиры в NY заняты
+- Energy is the foundation
+- Everything in this world—economic (mental, spiritual, cultural)—is a weapon, impossible to agree on anything // political weapon
+- 6th technological wave
+- 1-5 waves (x2 more energy with each wave/transition)
+- New technologies = more energy
+- New technology: closed-loop energy production // untested
+- Skeptical about the green energy transition (example: a space station with ideal batteries and conditions), limited space + few resources for batteries, need to focus on the "bottleneck" = China
+- Crypto/blockchain + AI
+- We won’t live in a globalized world!!!
+- Supply chains will be localized
+- AI will aid this, global world won't persist
+- Technologies are advancing faster than society can adapt
+- No initiatives to take risks in governance
+- Personal data through blockchain
+- Banning decentralization technology
+- Moving towards a "China" model
+- Paradigm shift in thinking (capitalism)
+- Growth impossible if resources are limited
+- No room to expand—space; Musk is trying despite atomic tech being frozen for 25 years after Chernobyl—conflicts will arise
+- 40% of NASDAQ companies are "lala-land" companies—not clear what, how, or to whom they sell and whether they will achieve their promises
+- If we calculate everything (impact on nature, cost of mining minerals, etc.)—the cleanest form of energy is nuclear
+- Rising risks, instability, need for quick reaction + feedback signal
+- Only loser—Europe:
+    - No energy
+    - Governance system ineffective (politicians like clowns—unable to resolve anything)
+    - Transition to a new economy impossible without war: the question is whether it will be a big one or not
+- USA/China—two ways of organizing societies
+- China's model may be adopted by other countries during turbulence
+- Japan prediction (demography problem)—robots will become "part" of society
+- Conflict during turbulence not necessarily between 2 countries but many
+- Crimean Wars of the 1900s allowed Britain to maintain dominance for another 100 years
+- Schwab’s idea of inclusive capitalism: elites-good, others-slaves
+- Book: [Tom Burgis "Kleptonia: How dirty money is conquering the world"](https://www.amazon.de/-/en/Tom-Burgis/dp/0062883658)
+- Corruption at the top—money in the West—through banking system control of money and top leaders—states (e.g., Kazakhstan)
+- Financial bubble must burst (40 years), and only then can something be built
+- Money
+    - Taxation—a state mechanism to encourage people to do something
+    - Not created by the state, but by banks—less than 1% of money is state-created—95% of "money" is from the private banking sector (though I think this is underestimated). Nobody can define what money is (joke: in the US they can’t define what a woman is either). Banks have different methods of printing/creating money, thus forming financial reports throughout the system: central bank, banks, non-bank financial institutions: 450-470 trillion dollars. Global economy: 90 trillion (financial values in GDP x6). Classical banks: 200 trillion. Shadow "banks" (hedge funds, insurance...): 250 trillion. Central banks: 40 trillion. We don’t know exactly how the system works, we don’t know what money is, what is considered money...
+    - 50% of all transfers are in dollars; 95% of all derivatives are in dollars
+    - 2% are not dollars
+    - Only 50% of apartments in NY are occupied
 
 [YouTube channel Alexander Kubyshkin](https://www.youtube.com/@FinFak)
 
@@ -889,11 +864,11 @@ _Маленький принц, А. де Сент-Экзюпери_
 
 <details>
   <summary><b>
-    2. Economist on AI & Society, основные тезисы:
+    2. Economist on AI & Society, key points:
   </b></summary>
 
-- скептичны - теперешние технологии ещё не "там"
-- риск не исчезновение человечества, но баяс с дискриминационными социальными последствиями, приватность и интеллектуальная собственность и тд
+- Skeptical—current technologies aren’t "there" yet
+- The risk is not the extinction of humanity, but biases with discriminatory social consequences, privacy, intellectual property, etc.
 
 [Economist on AI & Society](https://www.economist.com/leaders/2023/04/20/how-to-worry-wisely-about-artificial-intelligence)
 
@@ -902,200 +877,203 @@ _Маленький принц, А. де Сент-Экзюпери_
 
 <details>
   <summary><b>
-    3. Sam Altman | Lex Fridman #367 (ENG), основные тезисы:
+    3. Sam Altman | Lex Fridman #367 (ENG), key points:
   </b></summary>
 
+- OpenAI has made huge breakthroughs in AI.
+- **However, it's important to note AI risks (according to Lex)** — we are on the brink of significant changes (expected within our lifetime).
+- **This is inspiring**: we know many applications, but many remain unknown. AI could help us defeat poverty and bring humanity closer to happiness, which we all strive for. _On what basis is this assumption made?_ There is the danger that we might be destroyed — akin to *1984* by Orwell or *Brave New World* by Huxley — losing our ability to think.
+- We need to find a balance between AGI’s potential and its dangers.
+- In 2015, OpenAI declared its goal of working on strong AI, and many in the field laughed or mocked them. Sam admits that poor marketing and branding contributed to this perception.
+- Lex notes that DeepMind & OpenAI were small groups unafraid to declare their goal of creating AGI.
+- Sam: Now, nobody mocks us anymore (they used to laugh at the idea of building AGI).
+- This conversation is about **power**, the psychology of AI creators, and more.
+- **Why GPT-4 and what is it?**
+- Sam: GPT-4 is a system we’ll one day look back on and say it was the first AI, slow, buggy, etc., but it will be significant in the future, like computers are today.
+- Sam: I believe progress is exponential, and we won’t be able to point to a specific moment where AGI happened.
+- Lex: There's too much data! The bigger problem is filtering it.
+- Sam: Many pieces need to come together in one pipeline — either by coming up with new ideas or implementing existing ones well.
+- Lex quotes, "ChatGPT teaches **something**...."
+- Sam: **The most important thing is, 'How useful is it to people?'**
+- Lex: **I'm not sure we'll ever fully understand these models**, because they compress the entire internet and texts into a small number of parameters.
+- Sam: "For certain definitions of intelligence and reasoning, ChatGPT can do it at a certain level — it’s somewhat incredible."
+- Lex: Yes, many would agree, especially those who've interacted with ChatGPT.
+- Sam: I agree with the overall ideas.
+- Lex: Peterson asked ChatGPT if Jordan Peterson is a fascist.
+- Sam: "The questions people ask say a lot about them." Peterson was asking about message lengths and concluded that ChatGPT lies and knows it lies… because it couldn’t count the length of its messages correctly.
+
+- Sam: I hope that these **models will bring nuance back to life**! _On what basis is this hope/prediction grounded? Will the model really return objective, well-balanced answers to complex questions? This is not obvious to me, but maybe I'm wrong._
+- Sam: Progress is exponential in nature... It’s impossible to pinpoint the exact “moment” (of a breakthrough).
+- Sam: We continue to fine-tune LLM models with feedback from people (reinforcement learning), otherwise, the models wouldn’t be as useful.
+- Sam: Some things that seem trivial to us are not for the model (e.g., counting the number of characters in a message).
+- Sam: We release models to the public early because we believe that if this is going to shape the future, collective intelligence will help identify the "good" and "bad" aspects of what the model does.
+- **We could never have discovered things inside companies without the feedback from "collective intelligence."** It’s an iterative process of improvement.
+- GPT-4 is much better and less biased than 3.5... I wasn’t particularly **proud** of the biases in 3.5. _!!! Interesting—what role does ego play here, and what role does the desire to "make the world better" play? How can you decide what’s better for others if you haven't experienced their challenges (e.g., poverty)? !!!_
+- Sam: There will never be two people who agree on the quality of the model. I think the solution is to eventually give **personalized control to individuals over the model**.
+- Sam: I always dreamed of building AI, but I didn’t think I’d have the chance to do it.
+- **I couldn’t imagine**, after the very first "primitive" iteration, that **I’d have to spend my time** answering people’s concerns about the model’s performance: "How many characters are in the answer to a question about two different people?" (hinting that this doesn’t matter much). "**You give people AGI, and that’s what they focus on?!**" _So, you’re building something incredibly powerful, making it accessible to everyone, and you don’t know what they’ll do with it... Maybe we should decide what we want to do with this first before creating it?_ !!! This is very important (comments about character counts and similar things). _!!! Contradiction with previous statements; political correctness or lack of sincerity?_ !!!... Perhaps... **But I wouldn’t have guessed that in advance!** _Is he trolling?_ _What else might happen that you haven’t anticipated? Worst-case scenario? Best? Most likely?_
+- Lex: How much do you spend on safety concerns?
+- Sam: We invest a lot in "alignment" (safety, reducing bias, doing "all good things against all bad things"). I'm proud of the work done on GPT-4 and the tests we conducted. (!!! _He didn’t specify how much exactly._ !!!)
+- Lex: Could you share your experiences with alignment?
+- Sam: We **still haven’t found a way to do alignment for super-powerful systems**.
+- Not everyone understands the nuances, and the challenge of alignment is as complex as all the other work we’re doing in creating and making these models useful (like DALL·E).
+- Sam: We need to come to an agreement on the boundaries of these models (what’s good/bad).
+- People will have control over what they can do, depending on the query (e.g., "answer like xxx"). Prompt engineering: learning from interaction.
+- Lex: **Since this is based on "our" data, we might learn something about ourselves.**
+- With experience, the system gets smarter and smarter, and it feels more like communicating with a person.
+- Lex: **I think LLM/ChatGPT will change the "nature" of programming/how we program.**
+- Sam: **This is already happening, and it’s the biggest short-term change** (allowing people to do their jobs and creative tasks better and better). _!!! Better or faster? Will this kill creativity in the long run? Will this atrophy the skills needed to develop expertise, such as the long road of becoming a skilled programmer after being inexperienced?_ !!!
+- Lex/Sam: You can ask for code generation, and in new systems, you can iteratively improve it by "conversing with the model." A new way of debugging?
+- Sam: **A creative-dialogue partner... This is a very big thing!** _!!! He views it as an assistant... But why do things faster? Is it always necessary to do them faster and more efficiently? What are the long-term consequences: What qualities and skills will these systems foster in our children/next generations? Will it lead to laziness? If something can be done in a few clicks, why bother to exert effort?_ !!!
+- They’re trying to define what "hate speech" is, and what models should do with hate and other human qualities.
+- They bring up the example of a constitution as an analogy for a social contract... created democratically. _!!! Are we sure democracy is what’s needed in this context? If you let children decide, they will eat candy and play games... Hitler came to power through democratic elections... What’s the foundation for this assumption?_ !!!
+- Lex: How bad is the baseline model — **Sam dodged the answer**. _!!! Openness means being transparent, especially about unpleasant things._ !!!
+- Sam: We’re open/welcome criticism... I’m not sure I understand all the consequences of how criticism affects us... I’m not sure.
+- Sam: I don’t like when a computer "teaches" me... It’s important to remember that I "control" the process, and I can "throw out" the computer. _!!! Not sure if he's sincere here or just playing to people’s fear of losing control... maybe it’s a smart salesperson's manipulation — showing that he understands and shares your fears... He’s like you... You're in the "same boat."_ !!!
+- **I often say in the office that we should treat people like adults**. _!!! What’s this assumption based on? What does it mean to be an adult? Empirical data shows that not everyone is psychologically mature (whatever that means... I'll leave definitions aside here); this also contradicts the earlier statement that "models will bring nuance back to discussions," implying the model will play the role of "teacher/adult": so is the model supposed to teach people or not? Are we sure the majority of people are adults? This is fundamental to understanding how we should interact with people._ !!!
+- Sam: The difference between ChatGPT 3.5 and 4 is huge. We at OpenAI are good at finding small technical improvements, and with enough incremental improvements, we got GPT-4 (improvements at every step).
 
 
-- openAI - сделали огромные прорывы в области ИИ
-- **но важно отметить риски ИИ (Лекс) -** мы на пороге изменений (думает при нашей жизни)
-- **это вдохновляет**: мы знаем много апликаций, многие не знаем, это поможет нам победить бедность и приблизится к счастью, к которому мы все люди стремимся !!! _на чём обосновано это предположение?_ !!! опасность, что мы можем быть уничтожены - 1984 Оурэл/ Хаксли.. перестанем мыслить и т.д.
-- нужно найти баланс между возможностями AGI и опасностью
-- 2015 -> заявлена цель работать на сильным ИИ, многие в области смеялись/издёвки; говорит, что плохой маркетинг/брендинг
-- утверждение Лекса: deepmind & OpenAI были небольшая группа, которая не побоялась заявить о цели создать сильный ИИ;
-- Сэм: теперь никто над нами сильно не смеётся (до этого их критиковали/насмехались, что они хотят построить AGI)
-- это разговор о **власти**, психологии создателей ИИ и т.д.
-- **GPT4 зачем она и что это**
-- Сэм: это система, на которую мы оглянёмся когда-то и скажем, что это был первый ИИ, медленный, с багами и т.д. это будет что-то важное в будущем, как сейчас компьютеры
-- Сэм: я думаю прогресс экспоненциальный, мы не сможем указать точку - где это случилось.. (ИИ)
-- Лекс: слишком много! проблема больше в фильтрации данных
-- Сэм: много кусочков нужно собрать вместе в одну пайплайн (придумать новые идеи или хорошо имплементировать известные)
-- Лекс: цитирует "....чатgpt учит **что-то**...."
-- Сэм: **что самое главное: "на сколько это полезно для людей?"**
-- Лекс: **не уверен, что вообще когда-нибудь мы будем понимать эти модели**, потому что они сжимаю/компрессируют весь интернет/тексты в небольшое количество параметров
-- Сэм: "для определённых определений интеллекта/способности руссуждать - чатгпт может это делать на определённом уровне - как-то невероятно"
-- Лекс: да, многие согласятся, особенно если имели опыта переписки с чатгпт..
-- Сэм: я согласен на счёт идей
-- Лекс: Питерсон спросил если Дж. Питерсон фашист:
-- Сэм: "какие вопросы спрашивают люди - говорит о многом о них самих" Питерсон спрашивал про длину сообщений Заключил, что чатгбт лжёт и знает, что он лжёт.. не может посчитать длину своих сообщений
-- Сэм: я надеюсь, что эти **модели вернут опять в жизнь нюансы** !!! _на чём основано эта надежда/предположение? что модель будет возвращать объективную разносторонне взвешенные ответы на непростые вопросы? мне неочевидно это предположение, но может я и не прав_ !!!
-- Сэм: прогресс имеет экспоненциальную природу.. невозможно указать "точку" (например, рывок)
-- Сэм: мы доучиваем LLM модели с помощью обратной связи от людей (обучение с подкреплением), иначе модели не на столько полезны
-- Сэм: некоторые вещи для нас тривиальные - для модели нет (счёт знаков в сообщении и т.д.)
-- Сым: мы выкладываем в общественный доступ модель рано, потому что верим, что если ЭТО будет определять будущее, то общими усилиями мы находим "хорошие"/"плохие" вещи, которые делает модель
-- **мы никогда не могли бы обнаружить вещи внутри компаний, если бы не обратная связь "коллективного интеллекта"** это итеративный процесс улучшения
-- чатгпт 4 намного лучше, меньше баяса чем 3.5 .. я не был особенно **горд** за баясы 3.5 _!!! интересно какую роль играет здесь Эго и какую роль желание сделать "Мир лучше".. и что есть лучше? как ты можешь решать что есть лучше за других? если ты не голодал и т.д.? то есть не "ходил в их макасинах"? !!!_
-- Сэм: никогда не будет 2х людей согласных о качестве модели, думаю выход это со временем дать **персонализированный контроль человека над моделью**
-- Сэм: я мечтал строит ИИ раньше и не думал, что у меня будет шанс этим заниматься
-- **Я не мог себе представить**, что после самой первой "примитивной" итерации **мне надо будет тратить своё время**, чтобы отвечать людям на замечания касательно работы модели: "сколько знаков в ответах вопроса о двух разных людях" (намекая, что это не важно..) "**Ты даёшь людям AGI и это ТО, чем они хотят заниматься?!**" !!! _то есть ты делаешь что-то невероятно мощное, делаешь это доступным каждому и ты не знаешь ЧТО потом будет делаеть с этим.. может вначале решить что и как мы хотим делать с этим и только потом делать?_ !!! это очень важно (замечания людей о количестве знаков и прочее подобное) !!! _противоречие с предыдущим утверждением; политкоректность а не искренность?_ !!!.. возможно... **но я бы не догадался вначале** !!! _тролит?_ _а что ещё случится, о чём ты не догадался бы раннее? худший сценарий? лучший? самый вероятный?_ !!!
-- Лекс: сколько Вы тратите на вопросы связанные с безопасность?
-- Сэм: мы много тратим на "алайнмент" (безопасность, не баяс и "за всё хорошее против всего плохого").. горжусь чатгпт 4 и проделанной работой; много времени потратили на тесты (!!! _не говорит сколько именно_ !!!)
-- Лекс: поделитесь опытом "алайнмент"
-- Сэм: мы **не нашли ещё способ как делать "алайнмент" для супер мощных систем**
-- не все люди понимают нюансы и какая это непростая проблемы работа по "алайнмент" похожа на всю остальную работу мы ведём по созданию и делаением полезными другие мощные модели (дал-и)
-- Сым: нам нужно будет "согласиться"/"договориться" о границах моделей (что хорошо/плохо..)
-- люди получат контроль что они могут делать в зависимости от запроса (например "отвечай как ххх..") промпт инженерия: опыт от взаимодействия
-- Лекс: **поскольку это основано на "наших" данных, мы можем что-то выучить/понять о себе самих**
-- с опытом система умнее и умнее отвечает, ощущения как от общения с человеком
-- Лекс: **я думаю LLM/ChftGPT изменит "природу" програмирования/как мы програмируем**
-- Сэм: **это уже происходит и это самое большое краткосрочное изменение** (позволяет делать их работу/креативное занятие лучше и лучше) !!! _лучше или быстрее? не убъёт ли это креативность в долгосрок? не атрафирует ли это умение долго работать над получением новых навыков в долгосрок? (чтобы опытный програмист стал опытным ему надо пройти долгий путь пребывания неопытным)_ !!!
-- Лекс/Сэм: можно попросить сгенерировать код и в новых системах уже можно итереативно его улучшать "общаясь с моделью".. новый способ дебагинга?
-- Сэм: **креативный-диалоговый партнёр.. это очень большая вещь**! !!! _он расматривает его как помощника.. а зачем что-то делать быстрее? всегда ли нужно быстрее и эфективнее? какие последствия в долгосрок: какие качества и навыки такие системы будут способствовать вырабатывать у наших детей/следующих поколений? не лень ли? если что-то можно сделать в пару кликов, зачем напрягаться?_ !!!
-- Пытаются определить, что такое "ненавистное общение" и т.д., что должены делать модели с ненавистью и другими качествами людей
-- пример Конституции как аналог общественного договора.. демократическим путём !!! _а мы уверены, что демократия это то, что нужно в этом месте? если детям дать волю, они будут кушать слдадкое и играть в игры.. Гитлер пришёл к власти демократическим путём выборов.. на чём основывается это предположение?_ !!!
-- Лекс: на сколько плоха базисная модель - **Сэм ушёл от ответа** !!! _открытость означает во всём, впервую очередь в вещах, которые неприятны_ !!!
-- Сэм: мы открыты/хорошо воспринимаем к критике.. не уверен, что понимаю все последствия как критика на нас влияет.. не уверен
-- Сэм: мне не нравится, когда компьютер меня "учит".. важно помнить, что я "контролирую" процесс, и могу "выкинуть" компьютер !!! _не уверен, что он здесь искренен и не давит на точку людей - страх потерять контроль.. быть может манипуляции умного продажника.. что он понимает и разделяет твои страхи.. он как ты.. вы в "одной лодке"_ !!!
-- **я часто в офисе говорю, что нужно обращаться как со взрослыми** !!! _на чём основывается это предположение? что значит быть взрослым? эмпирические данные показывают, что далеко не все являются психологически взрослыми (что бы это не означало.. опущу определения тут); это также противоречит вышесказанному, что "модели вернут нюансы в дискуссии", то есть модель будет выполнять роль "учителя/взрослого": так модель должна учить людей или .. ? мы уверены, что критическая масса людей взрослые? Это фундаментально для понимания дальнейших действий по тому как взаимодействовать с людьми_ !!!
-- Сэм: разница между чатгпт 3.5 и 4 очень большая, мы в опенай хороши в том, чтобы находить небольшие технические улучшения и набрав критическую массу улучшений мы получили 4 (улучшения на каждом шаге)
 
-<figure id=fig10>
-<!-- <figcaption style="text-align: center;">"Facing the Mirror"</figcaption> -->
+<figure id="fig10">
     <img src="/posts/Ω/lodka/fig/fig10.png" alt="Description of the image" style="width:77%; display: block; margin: auto;">
-<!-- <figcaption style="text-align: center;">""</figcaption> -->
+    <!-- Optional figcaption below the image -->
+    <!-- <figcaption style="text-align: center;">Facing the Mirror</figcaption> -->
 </figure><br>
 
 
+- Lex and Sam discuss the **training cost and the number of parameters** in AI models, comparing it to the number of connections in the brain. Sam emphasizes how impressive it is that the **AI model has been trained on all human data** produced throughout history, compressing the entire human experience into its parameters.
 
-Стоимость тренировки и количество параметров в модели (в мозгу соеденений)
+- Lex asks about the number of parameters in the model. Sam explains that OpenAI focuses on results rather than chasing the number of parameters in the model. **"We avoid the trap of parameter count competition,"** he says. Instead, they prioritize making the models work well, although Sam avoids directly answering how many parameters the model has.
 
-- Лекс/Сэм: сравнение мозга и нейроных сетей, что это очень впечатляет
-- также, что дискусия вырываются из контекста
-- Сэм: это самое сложное, что людти делали; через какое-то время это будет тривиальным и многие смогут это повторить
-- Лекс: **модель натренирована на всех данных, которое человечество произвело за всю историю; это компрессия всего человечества**
-- Лекс: сколько параметрпов в модели?
-- Сэм: мы попали в ловушку гонки количества параметров, но в опенай мы хороши в том, чтобы фокусироваться на результате, а не на "красоту" подхода/алгоритмов !!! _вопрос: сколько параметров? ответ: мы хороши в том, чтобы модели хорошо работали_!!!
-- Лекс: Ноам Хомски один из основных критиков, что LLM смогут достичь AGI
-- ты действительно думаешь, что LLM это путь для построения AGI (сильный ИИ - "сознание") Сэм: думаю это часть "уравнения", но нужны другие супер важные вещи; расширение парадигмы чатгпт в направлении идей, про которые мы ещё не знаем; если бы "Оракл" (отсылка к Дельфийскому, древнегреческому) сказал бы мне, что чатгпт 10 будет сильным ИИ, то я бы не сильно удивился, даже если бы не было какой-то большой новой идеи; может мы и никогда и не построми сильный ИИ, но сделаем людей "супер грэйт" !!! _в чём именно? в том, что мы делаем сейчас: войны, конфликты и т.д.?_ !!! и это огромное достижение !!! _может перед тем как людей делать "супер", нам вспомнить что значит быть Человеком, а уже потом "супер"; может быть нам и не захочется быть "супер" после этого?_ !!! Сэм: система, которая не может добавить кардинально новые знания в науке, не является "супер интеллектом" !!! _я читаю:_ "_я не знаю, что такое сильный интеллект, но я это хочу построить, и я верю, что это сделаеть нашу жизнь лучше.. и я также строю себе бункер.. и готовлюсь к выживанию, когда случится колапс"_ !!!
-- Сэм: меня вдохновляет мир, где чатгпт это инструмент, который расширяет возможности человека, "его волю" !!! _а зачем тогда готовиться к выживанию? бункер? ты уверен, что мы хотим дать ВСЕМ людям возможность легче и быстрее реализовывать их планы, вытекающие из существующего уровня нашего развития, ценностей и смыслов; почему тогда мы потеряли "нюансы" и нам нужна модель это вернуть? мы точно не деградируем? для меня ответ неочевиден; мне думается, что без изменения нашего развития, способов мышления, ценностей и смыслов, мы будем получать те же результаты, но быстрее_ !!!
+- Lex brings up **Noam Chomsky's critique**, who doubts that **Large Language Models (LLMs)** can lead to AGI (Artificial General Intelligence). Sam acknowledges that LLMs are part of the equation but insists that other essential pieces are still required. Expanding the paradigm of models like ChatGPT may introduce new ideas that can advance AGI.
+
+- Sam reflects on the possibility of ChatGPT reaching **AGI status** in the future, noting that if an oracle (referencing the ancient Greek Oracle of Delphi) told him that **ChatGPT-10** would be AGI, he wouldn’t be surprised. He says **"It might not require a big breakthrough,"** but at the same time, AGI might never be achieved. Instead, Sam sees value in making people "super great" in what they already do, though this **raises questions** about the current trajectory of humanity, including conflicts and wars.
+
+- Sam adds that a system that can’t **generate radically new scientific knowledge** isn’t a **"superintelligence."** He admits that there is still much to learn. _"I don’t know what strong AI is, but I want to build it."_ Interestingly, Sam shares that **he has built a bunker to prepare for a potential collapse,** hinting at the complexity and potential risks involved with developing such technologies.
+
+- Sam expresses excitement for a future where **ChatGPT** becomes a tool that extends human capabilities and **"amplifies people's will."** However, this raises concerns about preparing for survival scenarios, including building bunkers. If the tool is intended to empower humanity, why focus on survival preparations? Sam's readiness for a collapse contradicts the optimism surrounding AI as a tool for advancing human development. **"Are we sure we’re not just speeding towards the same old problems?"** Sam wonders whether we might need to rethink our values and ways of thinking before rushing ahead with technological advancements.
 
 
-<figure id=fig11>
-<!-- <figcaption style="text-align: center;">"Facing the Mirror"</figcaption> -->
+<figure id="fig11">
     <img src="/posts/Ω/lodka/fig/fig11.png" alt="Description of the image" style="width:77%; display: block; margin: auto;">
-<figcaption style="text-align: center;">Мем касательно того, что ИИ лишит програмистов работы</figcaption>
+    <figcaption style="text-align: center;">Meme about AI taking away programmers' jobs</figcaption>
 </figure><br>
 
-- Лекс: мне нравится програмировать с ИИ;
-- **есть опасения, что ИИ лишит програмистов работы**; **если тебя лишит работы, значит ты не такой хороший работний/програмист** - это только частично так; **есть креативная составляющая** !!! _логически_ _неверное утверждение: если 80% работы стандартная, то неважно какого уровня ты програмист, дешевле сделать её с ИИ; уровень компетенции нужен для небольшого количества работ, обычно она шаблонизирована_ !!! Сэм: многие програмисты вдохновлены возможностыми ИИ, что я могу быть х10 продуктивен; немногие выключают эту опцию !!! _это типичное применение Закон 24. "Лестницы в (китайском) кинотеатре": в какой-то момент если ты не будешь это использовать, то ты будешь проигрывать в "нашей коллективной гонке", соответсвенно момент -выбора- выключить или нет эту функцию забирается у человека_ !!!
-- Сэм: Каспаров когда проиграл компьютеру сказал, что шахматам конец, но никогда шахматы не были так популярны;
-- мы не смотрим как ИИ играют друг против друга !!! _а ты уверен, что мы получаем бОльшее удовольствие от игры? или быть может ушёл элементы "сюрпризных/неожиданных" ходов уступая место сухому компьютерному расчёту? мы уверены, что уподобляясь "машинам", нам лучше/интереснее и прочее?_ !!!
-- Лекс: **ИИ будет лучше и бла бла, но нам нужны будут эмоции/неидеальность...**
-- Сэм: то, на сколько мы можем повысить уровень жизни людей с ИИ просто невероятно, мы сможем сделать невероятные вещи !!! _а на чём основывается это предположение? разве в Японии/Южной Корее/Швейцарии/Скандинавских странах процент самоубийств не выше, чем на Ямайке/Бали...? разве там люди не вымерают? разве они счастливее, чем в местах с меньшим достатком? ты решаешь что-то улучшить (уровень жизни в данном случае): а в чём причина такого положения вещей? разве можно решить проблему не разобравшись в первопричине?! быть может если мы её поймём, то и ИИ не понадобиться? быть может это наша жадность? лицемерие? лобирование военных заводов и их продукции? политика неявной колонизации? использование рабского труда других людей? провоцирование военных конфликтов где нам выгодно получить дешёвый доступ к ресурсам (нефть, литий, кобальт, паладиум, уран...)? может нам выгодно, чтобы другие люди жили в бедности и нищите, тогда мы можем покупать их ресурсы, товары, "мозги" (фриланс) задёшево (как себестоимость эппл телефонов меньше 20 доларов, например) и т.д.? может стоит понять причину проблемы, перед тем как что-то делать?_ !!! но людям нравятся быть полезным, драма.. и мы найдём способ это предоставить !!! _а так ИИ сделает их бесполезными?! а может мы, люди, сами решим, что и как нам надо, а ты займёшься своей жизнью.. "не причиняя нам добра"?_ !!!
-- Лекс: Элиезер Юдковски пример того, кто **продостерегает перед сильным ИИ, поскольку считает, что он уничтожит человечество**
-- основной посыл: **невозможно контролировать супер интеллект** Сэм: **есть шанс, что он прав** нужно фокусировано решать эту проблему подход: **итеративное улучшение**/**ранняя обратная связь**\-**реагирование**/ограничение сценариев "одна попытка" (one shot) Элиезер описал почему AI alignment ("делание ИИ норм для человека") такая сложная проблема, Сэм считает есть логические ошибки (не указывает), но Элиезер продумал хорошо аргументы в целом
-- Лекс: сильный ИИ как появится, быстро или постепенно? повседневная жизнь изменится?
-- Сэм: я думаю (Лекс согласен), что для "мира лучше медленное постепенно работа над/появление" сильного ИИ
-- я боюсь быстрого развития сильного ИИ
-- Сэм: ты думаешь чатгпт 4 сильный ИИ?
-- Лекс: думаю как и с видео об НЛО, мы бы сразу узнали это. С какой частью чатгпт 4 я общаюсь, мне кажется, что не все возможности доступны
-- Сэм: думаю чатгпт 4 не сильный ИИ !!! _ушёл от ответа про недоступные возможности_ !!!
-- Лекс: ты думаешь у чатгпт 4 есть сознание?
-- Сэм: думаю нет, ты думаешь у чатгпт 4 есть сознание?
-- Лекс: думаю он умеет притворяется, что у него есть сознание
-- Лекс: я верю, что ИИ будет иметь сознание, как это будет? страдание, память, будет общаться и т.д.
-- Сэм: я скажу, что раннее говорил Илья (Суцкевер) касательно как мы узнаем, что у модели есть сознание: если в тренировочных данных нет "про сознание", но модель может ответить, что "она понимает как переживается сознание" (вольный перевод) - то, вот... (есть сознание)
-- Лекс: сознание про переживание жизни (Сэм считает, что созание не вкл. эмоции); в приведённом фильме улыбка робота/ии самому себе (переживание опыта ради самого переживания опыта) - признак сознание.. утверждает, что эмоции играют важную, возможно ведущую роль
-- Не могут сказать что-то понятное про сознание
-- Лекс: какие есть причины, что в процессе работы над сильным ИИ, что-то пойдёт не так? что может пойти не так? ты говорил, что ты очень вдохновлён разработками но и боишься немного..
-- Сэм: да, я боюсь немного, но думаю, что странно, как можно вообще не бояться
-- я симпатизирую людям, которые сильно боятся !!! _"мы на одной стороне, я Вам сочувствую"; это может быть приём "эфективной комунгикации, за которым не стоит ничего реального_ !!! !!! **_не ответил не вопос_** !!!
-- Лекс: ты думаешь ты узнаешь момент, когда система станет супер умной?
-- Сэм: мои тепершние переживания
-- будут проблемы вранья/дезинформации экономические шоки/кризисы **другое, что кратно превосходит всё, к чему мы готовы** вышесказанное не требует супер ИИ, мне думается немногие уделяют достаточно внимание этим проблемам...ещё до сильного ИИ !!! _на вопрос он не ответил, но сказал, что ещё до того как мы начнём говорить про сильный ИИ, есть другие вещи, про которые нам стоит переживать_ !!!
-- Лекс: то есть ты думаешь, что даже сейчас шкалируя теперешние модели это может поменять геополитику и т.д.?
-- Сэм: как мы знаем, что в твитере, например, LLMs не управляют потоки информации/дискусси и прочее? и так далее?
-- мы не можем знать! и это опасность... может регуляция, более сильные ИИ !!! _то есть создали мощные гениратор для заблуждения, сделали его мощным и "умным достаточно", но последствия его применения контролировать не в состоянии.. это учитывая на сколько огромное значение соц. сети и прочее имеют - "делались революции через них", например; так себе делание мира лучшим_ !!!
-- Лекс: как ты справляешься с давлением рынка (большие компании как Гугл и т.д.), опен сорс проекты...? как расставляешь приоритеты?
-- Сэм: **я придерживаюсь своей веры и миссии** !!! _а от куда миссия взялась? какой её "источник"/базис? у Гитлера и прочих тоже была миссия? ты уверен, что "источник" этой миссии "светлый!?_ !!!
-- будет много сильных ИИ, мы предложим один из.. разнообразие это хорошо вначале над нами смеялись, но мы были смелы объявить, что мы занимаемся созданием сильного ИИ... !!! _почему это важно, что вы были смелы и т.д.... какую роль играет Эго в этом и какую желание помочь другим людям сделав мир лучше?_ !!!
-- Сэм: сложная структура OpenAI... некомерческая орг контролирует, но чисто некомерческая структура у нас не сработала.. мы пришли к пониманию, что нам нужны некоторые "ништяки капитализма"
-- я думаю, что никто не хочет уничтожить мир, поэтому капитализм и т.д... приведёт к тому, что "хорошие ангелы" и компании победят в конце !!! _здесь логическая ошибка.. и опасное необоснованное предположение пример с Гитлером.. люди совершают самоубийства, люди уничтожают свою жизнь осознано/неосознанно; нужны факты, а не.._ !!! мы **сообща** обсуждаем и пытаемся митигировать ужасные риски
-- Лекс: никто не хочет уничтожения мира !!! _необоснованное предположение_ !!!
-- Лекс: может случиться, что пару парней в комнате друг-другу скажут: "Ахренеть!!" (от увиденного результата от своей работы)
-- Сэм: это случается уже сейчас чаще, чем ты можешь себе подумать
-- Лекс: это может сделать Вас самыми могущественными людьми на свете; ты переживаешь, что власть может тебя испортить?
-- Сэм: конечно! мне думается, что решения как применять ИИ должно быть всё больше и больше демократизировано (примечание: больше людей имеют право голоса), но мы пока не знаем как это может быть сделано. Одна из причин, чтобы мир (примечание: люди) имели время адаптироваться, рефлексировать, принять поправки к законодательствам.
-- Сэм: это очень плохо если один человек будет иметь доступ к этим технологиям; я НЕ хочу никаких привелегий, в совете директоров !!! _а что случилось у Вас в совете директоров?_ !!!
-- Лекс: создание сильного ИИ даёт огромную власть
-- Сэм: (примечание: спрашивает вопросы) ты думаешь мы делаем хорошо? что можно улучшить? На заметку Лекса о бОльшей открытости спросил если открыть доступ к чат-гпт4. Лекс сказал нет, он считает много людей в опен-аи хороших и доверяет им.
-- Сэм: Гугл врядли бы открыли API, а мы сделали; возможно мы не на столько открытые как многие хотели бы, но мы делаем много.
-- Лекс соглашается и говорит, что они не так боятся рисков связанным с PR но больше с доступностью технологии (примечание: рисков связанных с её применением)
-- Сэм: утверждает, что люди в нашей компании чувствуют ответсвенность !!! _перед кем?_ !!! за результаты своей работы; показывает открытость к идеям о том, как они могут делать вещи лучше; говорит, что обратную связь он черпает от таких разговоров, как этот !!! _их интервью? разве самые важные вопросы можно так обсудить?_ !!!
-- Лекс: в чём вы согласны с Илон Маском касательно сильного ИИ?
-- Сэм: мы сходимся касательно оценки рисков и опасностей и в том, что **в результате появления сильного ИИ людям в общем должно быть лучше в сравнение если бы его не существовало** !!! _как Вы думаете это должно быть достугнуто? какую роль именно должен сыграть сильный ИИ в этом?_ !!!!!! _Сэм часто спрашивает встречные вопросы на "неудобные" ремарки_ !!!
-- Лекс: в чём ты согласен и не согласен с Илон Маском касательно ИИ?
-- Сэм: мы согласны касательно потенциальных рисков сильного ИИ
-- мы согласны, что в результате появления сильного ИИ людям на Земле должно стать жить лучше нежели если бы сильный ИИ никогда не был создан Илон атакует нас в твиттере и тд по нескольким направлениям у меня к нему эмпатия / сочувствие, поскольку я думаю он очень переживает по поводу вопросов безопасности касательно сильного ИИ !!! _Сэм не впервый раз использует это выражение - у меня си/эмпатия к ... - возможно это такой коммуникационный приём, за которым нет никаких переживаний_ !!! я уверен есть другие мотивы его (Илона) претензий !!! _намекает о какой-то игре? непорядочном?_ !!! я видел давнее видео Илона, где он говорит про SpaceX и многие известные люди из космической отрасли его критиковали, и что Илон говорил, что они (эти люди) были его героями и ему неприятно/больно, что его так сильно критикует, и что хотелось бы, чтобы было заметно как мы (Илон и ко) сильно стараются осуществить задуманное. Илон был героем Сэма, несмотря, что он козёл в твитере !!! _сильное суждение человека_ !!!, я рад, что он существут, но мне бы хотелось, чтобы он больше замечал нашу тяжёлую работу, чтобы сделать всё правильно !!! _очень удачный коммуникационный приём - приведение в пример критику на самого Илона_ !!!
-- Лекс: больше любви! Что ты ценишь в Илон Маске в контексте любви / принятия?
-- Сэм: он двигал мир вперёд по важным направлениям
-- электрический транспорт космос несмотря, что он козёл !!! оценка второй раз !!!, он весёлый и тёплый парень
-- Лекс: мне нравится разнообразие (мнений, людей..) и что в твитере идёт настоящая битва мнений...
-- Сэм: может мне стоит ответить ... но это не мой стиль... (может когда-нибудь отвечу)
-- Лекс: Вы оба (Сэм + Илон), хорошие люди и глубоко озабочены сильным ИИ и большой надеждой/верой в него !!! _может людьми стоит быть озабоченным, а не технологиями?_ !!!
-- Лекс: цитирую Илона Маска, кажется, chatGPT слишком WOKE (слишком толерантный, лгбт+, гендер и тд)? это вопрос касательно баяса?
-- Сэм: не знаю уже что значит WOKE !!! _сомнение_ !!!, но первые гпт были слишком баяс; не будет существовать версии чатгпт, чтобы у мира был консенсус, что у него нет баяса !!! _хороший коммуникационный приём - можно сказать, что что-то недостижимо и не надо отвечать касательно неудобных вопросов про баяс_ !!!
-- мы будем пытаться сделать базисную модель нейтральнее
-- Лекс: пару слов касательно баяса модели связанного с работниками фирмы?
-- Сым: 100% есть такой баяс, мы пытаемся избежать пребывания в "когнитивном пузыре Сан Франсиско"; я собираюсь в поездку по миру и буду говорить с людьми (клиентами) в совершенно разнообразных контекстах (в YC я так часто делал) !!! _это показывает, что он целенаправленно старается использовать мета-ментальные модели, понять-моделировать других людей_ !!!
-- думаю мы лучше других избегаем попадания в "сумасшедший пузырь Сан Франсиско", но думаю всё равно довольно глубоко в нём !!! _признаёт несовершенство - оч хороший коммуникативный приём; располагает и вызывает доверие_ !!!
-- Лекс: можно ли отличить баяс модели и баяса работников?
-- Сэм: я больше всего переживаю за баяс людей, которые дотренировывают модель после! эту часть мы понимаем меньше всего.
-- **\->**[Это центральное место и самое](https://youtu.be/L_Guz73e6fw?si=zHbpxWaj9O40cV75&t=5280), на мой взгляд, важное во всём интервью и в принципе в этой теме - решения проблем с каким бы то ни было инструментом (будь это ИИ или ещё что): **есть проблема в том, что мы** [не умеем](https://youtu.be/L_Guz73e6fw?si=dJQBd7JEbgrG5S9m&t=5374) **понимать и слушать друг-друга**; если это не решать, то никакой ИИ, ни сильный ИИ не поможет нам договариваться с друг другом, будем и дальше в противном случае воевать, только теперь уже с ИИ и его производными.
+- Lex: I enjoy programming with AI;
+- **There are concerns that AI will take programmers' jobs**; **if it takes your job, it means you're not a good enough worker/programmer** - this is only partially true; **there is a creative component** !!! _logically_ _incorrect statement: if 80% of the work is standardized, it doesn't matter what level of programmer you are, it’s cheaper to do it with AI; competence is needed for a small portion of jobs, usually already templated_ !!! Sam: many programmers are inspired by AI's capabilities, thinking they can be 10x more productive; few are turning off this option !!! _this is a typical application of Law 24. "Ladders in a (Chinese) cinema": at some point, if you don't use it, you’ll lose in the "collective race," so the moment of choice - to turn it off or not - is taken away from a person_ !!!
+- Sam: Kasparov, after losing to a computer, said chess was finished, but chess has never been more popular;
+- We don’t watch AI play against each other!!! _Are you sure we get more enjoyment from the game? Or maybe the element of "surprising/unexpected" moves has been lost, replaced by dry computer calculations? Are we sure that by becoming more like "machines," life is better/more interesting for us?_ !!!
+- Lex: **AI will get better and blah blah, but we will need emotions/imperfectness...**
+- Sam: The extent to which we can raise people's standard of living with AI is just incredible; we can do amazing things!!! _On what is this assumption based? Aren't suicide rates higher in Japan/South Korea/Switzerland/Scandinavian countries than in Jamaica/Bali...? Aren't people dying out there? Are they happier than in places with less wealth? You decide to improve something (standard of living in this case): but what is the cause of this state of affairs? Can you solve a problem without understanding its root cause?! Perhaps if we understand it, AI wouldn't even be necessary? Perhaps it's our greed? Hypocrisy? Lobbying for military factories and their products? The politics of implicit colonization? The use of slave labor in other countries? Provoking wars where it’s profitable for us to gain cheap access to resources (oil, lithium, cobalt, palladium, uranium...)? Is it profitable for us that other people live in poverty and misery, so we can buy their resources, goods, "brains" (freelancers) for cheap (like the production cost of Apple phones being less than $20, for example), etc.? Maybe we should understand the cause of the problem before doing anything?_ !!! but people like to feel useful, the drama... and we'll find a way to provide that!!! _But will AI make them useless?! Maybe we, humans, should decide what we need, and you can focus on your life... without "causing us any good"?_ !!!
+
+- Lex: Eliezer Yudkowsky is an example of someone who **warns against strong AI, as he believes it will destroy humanity.**
+- The main message: **it is impossible to control superintelligence.** Sam: **there is a chance he’s right.** We need to focus on solving this problem with an approach: **iterative improvement**/**early feedback**\-**response**/limiting "one-shot" scenarios. Eliezer explained why AI alignment ("making AI aligned with human interests") is such a complex problem. Sam believes there are logical flaws (doesn’t specify), but Eliezer's arguments are generally well thought out.
+- Lex: Will strong AI emerge suddenly or gradually? Will everyday life change?
+- Sam: I think (Lex agrees) that for the "world, it's better for strong AI to emerge gradually and slowly."
+- I’m afraid of rapid development of strong AI.
+- Sam: Do you think GPT-4 is strong AI?
+- Lex: I think, like with videos of UFOs, we would know immediately. From my interactions with GPT-4, it seems not all its capabilities are available.
+- Sam: I think GPT-4 is not strong AI!!! _dodged the question about unavailable features_!!!
+- Lex: Do you think GPT-4 has consciousness?
+- Sam: I don’t think so. Do you think GPT-4 has consciousness?
+- Lex: I think it can pretend to have consciousness.
+- Lex: I believe AI will have consciousness. How will that work? Will it experience suffering, memory, communication, etc.?
+- Sam: I’ll refer to what Ilya (Sutskever) said earlier about how we’ll know if a model has consciousness: if there’s nothing in the training data "about consciousness," but the model can answer that "it understands what consciousness feels like" (loosely translated)—then, there you go… (there’s consciousness).
+- Lex: Consciousness is about experiencing life (Sam thinks consciousness doesn’t include emotions); in the film referenced, a robot/AI smiles to itself (experiencing the experience for the sake of experiencing it) — a sign of consciousness… he claims emotions play an important, possibly leading, role.
+- They can’t provide a clear answer about consciousness.
+- Lex: What are the reasons that, during the development of strong AI, something might go wrong? What could go wrong? You said you’re very inspired by the developments, but also a little afraid...
+- Sam: Yes, I’m a little afraid, but I think it’s strange not to be afraid at all.
+- I sympathize with people who are very afraid!!! _"we’re on the same side, I sympathize with you"; this could be an effective communication technique without any real substance_!!! !!! **_did not answer the question_** !!!
+
+- Lex: Do you think you'll recognize the moment when the system becomes super-intelligent?
+- Sam: My current concerns...
+- There will be issues with deception/disinformation, economic shocks/crises, **something far beyond what we're prepared for**. These problems don’t require super AI, and I think not enough attention is being paid to these issues... even before strong AI!!! _He didn’t answer the question but pointed out other things we should worry about before we start talking about strong AI_!!!
+- Lex: So, do you think even scaling current models can change geopolitics, etc.?
+- Sam: How do we know that, for example, LLMs aren’t already controlling the flow of information/discussions on Twitter, and so on?
+- We can’t know! And that’s the danger... maybe regulation, stronger AI!!! _So, we’ve created a powerful tool for generating deception, made it powerful and "smart enough," but can’t control the consequences of its use... considering how much influence social media, etc., have had — like revolutions triggered through them. Not exactly making the world better..._!!!
+- Lex: How do you deal with market pressures (big companies like Google, open-source projects, etc.)? How do you prioritize?
+- Sam: **I stick to my beliefs and mission**!!! _Where did this mission come from? What’s its "source" or foundation? Hitler and others had a mission too. Are you sure the "source" of this mission is pure?_!!!
+- There will be many strong AIs, and we will offer one of them... diversity is good. At first, people laughed at us, but we were brave enough to announce that we’re working on strong AI...!!! _Why is it important that you were brave? What role does ego play here, and what part is the desire to help others by making the world better?_!!!
+- Sam: OpenAI has a complex structure... a nonprofit controls us, but a purely nonprofit structure didn’t work for us. We came to understand that we need some "benefits of capitalism."
+- I think no one wants to destroy the world, so capitalism, etc., will lead to "good angels" and companies prevailing in the end!!! _This is a logical fallacy... and a dangerous, unfounded assumption. Consider Hitler... people commit suicide, people consciously/unconsciously destroy their lives. We need facts, not..._!!!
+- We **discuss together** and try to mitigate terrible risks.
+- Lex: No one wants to destroy the world!!! _An unfounded assumption_!!!
+
+
+- Lex: It might happen that a couple of guys in a room will say to each other, "Holy crap!!" (upon seeing the results of their work).
+- Sam: This already happens more often than you might think.
+- Lex: This could make you the most powerful people in the world; are you worried that power might corrupt you?
+- Sam: Of course! I think decisions on how to use AI should become more and more democratized (note: more people having a say), but we don’t yet know how this can be done. One reason is to give the world (note: people) time to adapt, reflect, and pass laws.
+- Sam: It's really bad if one person gets access to these technologies; I do NOT want any privileges in the board of directors!!! _What happened to your board of directors?_!!!
+- Lex: Creating strong AI gives immense power.
+- Sam: (note: asks questions) Do you think we are doing well? What can we improve? On Lex's note about more openness, he asked if opening access to ChatGPT-4 was an option. Lex said no, he trusts many people at OpenAI and believes in them.
+- Sam: Google probably wouldn’t have opened an API, but we did; maybe we’re not as open as some would like, but we do a lot.
+- Lex agrees and says they’re less concerned about PR risks and more about the availability of the technology (note: the risks related to its application).
+- Sam: He claims people at OpenAI feel responsibility!!! _To whom?_!!! for the results of their work; he shows openness to ideas on how they can do things better and says he gets feedback from conversations like this!!! _In interviews? Are the most important issues really discussed here?_!!!
+- Lex: What do you and Elon Musk agree on regarding strong AI?
+- Sam: We agree on assessing risks and dangers and that **as a result of strong AI, people’s lives, in general, should improve compared to if it had never existed**!!! _How do you think this should be achieved? What role should strong AI play in this?_!!! _Sam often asks counter-questions to "uncomfortable" remarks._!!!
+- Lex: What do you agree and disagree with Elon Musk on regarding AI?
+- Sam: We agree on the potential risks of strong AI.
+- We agree that after the appearance of strong AI, people on Earth should live better than if strong AI had never been created. Elon attacks us on Twitter and in other ways on several fronts. I empathize with him / sympathize because I think he’s very concerned about the safety issues of strong AI!!! _Sam frequently uses this expression — I have sympathy/empathy for... — perhaps it’s an effective communication tactic without any real emotions behind it_!!! I’m sure there are other motives behind his (Elon’s) complaints!!! _Is he hinting at some game or dishonesty?_!!! I saw an old video of Elon where he talked about SpaceX, and many famous people in the space industry criticized him. Elon said they were his heroes, and it hurt him to be so heavily criticized. He wished they could see how hard they (Elon and co.) were working to make their vision a reality. Elon was Sam’s hero, even though he’s a jerk on Twitter!!! _Strong personal judgment._!!! I’m glad he exists, but I wish he would recognize more of our hard work to do things right!!! _Very clever communication tactic — using criticism of Elon himself as an example._!!!
+- Lex: More love! What do you appreciate about Elon Musk in the context of love/acceptance?
+- Sam: He moved the world forward in significant ways.
+
+- Electric transportation, space... even though he's a jerk!!! _second assessment!!!_ He's a fun and warm guy.
+- Lex: I enjoy the diversity (of opinions, people...) and the real battle of opinions happening on Twitter...
+- Sam: Maybe I should respond... but it's not my style... (maybe I'll answer someday).
+- Lex: You both (Sam + Elon) are good people, deeply concerned about strong AI and with a lot of hope and belief in it!!! _Maybe we should be more concerned with people rather than technology?_!!!
+- Lex: Quoting Elon Musk, it seems chatGPT is too WOKE (too tolerant, LGBTQ+, gender issues, etc.). Is this a question of bias?
+- Sam: I don’t even know what WOKE means anymore!!! _doubt_!!! The first GPTs were too biased; there will never be a version of chatGPT that the world agrees is unbiased!!! _Good communication tactic — stating that something is unattainable so as not to answer uncomfortable questions about bias_!!!
+- We will try to make the base model more neutral.
+- Lex: A few words about the bias of the model related to the company's employees?
+- Sam: There is 100% such bias. We try to avoid being stuck in the "San Francisco cognitive bubble." I plan to travel the world and talk to people (clients) in entirely different contexts (as I often did at YC)!!! _This shows that he is consciously trying to use meta-mental models, to understand and model other people._!!!
+- I think we’re better than others at avoiding the "crazy San Francisco bubble," but I still think we’re pretty deep in it!!! _Admitting imperfection — a very good communicative tactic; it builds trust and rapport._!!!
+- Lex: Can you distinguish between the model’s bias and the bias of the employees?
+- Sam: What worries me the most is the bias of the people who fine-tune the model afterward! This is the part we understand the least.
+- **\->** [This is the central and most important](https://youtu.be/L_Guz73e6fw?si=zHbpxWaj9O40cV75&t=5280) point of the entire interview and, in principle, the entire topic: **the problem is that we** [don’t know how to](https://youtu.be/L_Guz73e6fw?si=dJQBd7JEbgrG5S9m&t=5374) **understand and listen to each other**. If we don’t solve this, no AI, no strong AI, will help us come to agreements, and we will continue to fight, only now with AI and its derivatives.
+
 
 \=====================================
+At this point, I will stop, because:
 
-Тут я остановлюсь, поскольку:
+a. I don’t see the point in writing further if the "basis" is already clear, and there isn't enough focus on it.
 
-а. не вижу дальше смысла что-то выписывать, если "базис" уже понятен и на нём нет достаточного фокуса
+b. It is energy-consuming, and I’m not sure if it’s interesting or useful to anyone.
 
-б. это энергозатратно и не уверен, что кому-то это интересно и/или полезно
+**General comments/questions**:
 
-**Общие комментарии/вопросы**:
-
-- Ты даёшь людям мощнейший инструмент, с тем уровнем развития и сознания (ценности, смыслы..), что у них есть сейчас - значит, что они будут реализовывать те же потребности и смыслы, что и до / сейчас, но с новым инструментом.. значит, что все процессы ускорятся: а ты уверен, чтор мы не на "Титанике", чтобы ускорять ход корабля?
-- Ты не можешь просчитать ходы / последствия в рамках одной компании, зачем берёшься думать и делать за остальных?
-- Какую роль твои Эго и амбиции тут играют?
-- Правда ли, что ты строишь/построил себе бункер (как и Цукерберг и ко): если да, то зачем? если мы не на "Титанике", то зачем тебе "бункер", если же на "Титанике", то зачем ускоряешь движение?
-- Почему название компании не отвечает содержанию: почему не откроете код? как тренируете? какие данные используете? развые это не начальная цель - сделать OPEN AI для всего человечества? может тогда опен сорс?
-- Такие модели натренированы на труде всего человечества (тексты, перводы, дизайны, картины, видео (уже в новой модели), игры, код..): почему взяв продукты всего человечества кто-то имеет право присваивать себе результаты = модели? их бы невозможно было бы получить без коллективного труда всех людей: разве они не должны тогда быть опен сорс?
-- Универсальный базисный доход: большая ошибка, поскольку не учитывается природа человека - будет много деградации
+- You are giving people a powerful tool with the level of development and consciousness (values, meanings...) they have now, which means they will pursue the same needs and purposes as before, but with a new tool. This means that all processes will accelerate: are you sure we're not on the "Titanic," speeding up its course?
+- You can't foresee all the outcomes within one company, so why take on the responsibility to think and act for everyone else?
+- What role do your ego and ambitions play here?
+- Is it true that you are building/have built a bunker (like Zuckerberg and others)? If so, why? If we're not on the "Titanic," why do you need a bunker? And if we are on the "Titanic," why are you speeding it up?
+- Why doesn’t the company’s name reflect its mission: why not open-source the code? How are the models trained? What data do you use? Isn’t the original goal to create OPEN AI for all humanity? Maybe then it should be open-source?
+- These models are trained on the collective work of all humanity (texts, translations, designs, artwork, videos — already in the new model — games, code). Why does someone have the right to claim ownership of these models, which wouldn't exist without the collective labor of all people? Shouldn’t they be open-source then?
+- Universal basic income: a big mistake because it doesn’t take into account human nature — there will be a lot of degradation.
 
 <https://www.youtube.com/watch?v=L_Guz73e6fw>
+
 
 </details><br>
 
 
 <details>
   <summary><b>
-    4. Sam Altman | Lex Fridman #419 (ENG), основные тезисы и сравнение с первым интервью:
+    4. Sam Altman | Lex Fridman #419 (ENG), main points and comparison with the first interview:
   </b></summary>
 
-Не вижу смысла анализировать здесь также второе интервью и сравнивать с первым - непонятно если это кому-то нужно и интересно; если да, то потом просмотрю и проанализирую, сравню.
+I don't see the point in analyzing the second interview and comparing it with the first—it's unclear if anyone needs or is interested in it. If someone is, I will review and analyze it later, comparing both.
 
-Я его не смотрел - мне врядли там что-то будет новое.
+I haven't watched it yet—most likely, there won't be anything new for me.
 
 </details><br>
 
-
 <blockquote>
-Человек уже так устроен, что и на счастье-то как будто неохотно и недоверчиво смотрим, так что и счастье ему надо навязывать.
+A person is already so arranged that we look at happiness reluctantly and distrustfully, so happiness has to be imposed on us.
 
-_М. Е. Салтыков-Щедрин_
+_М. Е. Saltykov-Shchedrin_
 </blockquote>
-
 
 [**Ω**](https://t.me/artiomkovnatsky)
 
-Вы можете записаться на встречу через <a href="https://calendly.com/artiom_kovnatsky" target="_blank">Calendly</a>, или через <a href="https://cal.read.ai/artiomkovnatsky" target="_blank">Read.ai</a>, написать мне <a href="mailto:artiomkovnatsky@pm.me" target="_blank">Email</a> или в <a href="https://t.me/soul_from_crete" target="_blank">Telegram</a>.
-
+You can schedule a meeting via <a href="https://calendly.com/artiom_kovnatsky" target="_blank">Calendly</a>, or via <a href="https://cal.read.ai/artiomkovnatsky" target="_blank">Read.ai</a>, write to me at <a href="mailto:artiomkovnatsky@pm.me" target="_blank">Email</a> or in <a href="https://t.me/soul_from_crete" target="_blank">Telegram</a>.

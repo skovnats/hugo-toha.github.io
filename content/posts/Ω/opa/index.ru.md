@@ -78,12 +78,12 @@ _"Картина будущего" должна быть "простой" и "н
 _Таких "ракурсов" и смыслов глубины там бесконечно много. С или без "сложных слов" можно эту картину описать._
 
 ...
-<div style="text-align: center;">
+<!-- <div style="text-align: center;">
 <video width="560" height="315" controls>
   <source src="/posts/Ω/opa/fig/rakursy.mp4" type="video/mp4">
 </video>
 <figcaption style="text-align: center;">Ракурсы</figcaption>
-</div><br><br>
+</div><br><br> -->
 
 <blockquote>
 Кубок жизни был бы сладок до приторности, если бы не падало в него горьких слёз.

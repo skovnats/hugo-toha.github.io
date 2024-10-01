@@ -5,7 +5,7 @@ date: 2024-05-26 # T06:00:20+06:00
 # hero: /posts/Ω/fig/back1.jpg
 menu:
   sidebar:
-    name: Metaphorical Autobiography or The Bunker Stories of the Professor
+    name: "Metaphorical Autobiography or The Bunker Stories of the Professor"
     identifier: meta-bio
     parent: omega-posts
     weight: 1000
@@ -31,26 +31,6 @@ _After reading this, the reader will have an understanding of:_
 - _where I am going_
 - _if we are on the same path and for how long, if yes_
 
-<!-- ----- -->
-**Favourite Songs:**
-
-- "Robot", A. Pugachova
-- "Truth", G. Zavolokin
-- "The Wolf Hunt", "I Don’t Like", Vladimir Vysotsky
-
-**Favourite Books:**
-
-- The New Testament
-- "Les Misérables", V. Hugo
-- "The Death of Ivan Ilyich", L. Tolstoy
-
-**Favourite Movies:**
-
-- "White Bim Black Ear"
-- "Garage"
-- "Office Romance"
-
-<!-- ----- -->
 
 <blockquote>
 <i>Ω. There are meanings that are worth expressing.</i>
@@ -229,3 +209,22 @@ Ideally, we are one big family, and we have one common home, our Earth. I see Ru
 <!-- _"Playing the melody of my soul with my life — for the protection of women and children"_ -->
 
 You can book a meeting via <a href="https://calendly.com/artiom_kovnatsky" target="_blank">Calendly</a>, or via <a href="https://cal.read.ai/artiomkovnatsky" target="_blank">Read.ai</a>, or write to me at <a href="mailto:artiomkovnatsky@pm.me" target="_blank">Email</a> or in <a href="https://t.me/soul_from_crete" target="_blank">Telegram</a>.
+
+
+<!-- **Favourite Songs:**
+
+- "Robot", A. Pugachova
+- "Truth", G. Zavolokin
+- "The Wolf Hunt", "I Don’t Like", Vladimir Vysotsky
+
+**Favourite Books:**
+
+- The New Testament
+- "Les Misérables", V. Hugo
+- "The Death of Ivan Ilyich", L. Tolstoy
+
+**Favourite Movies:**
+
+- "White Bim Black Ear"
+- "Garage"
+- "Office Romance" -->
