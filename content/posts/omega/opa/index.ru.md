@@ -15,7 +15,7 @@ categories: ["Personal", "Professional"]
 
 <figure id=fig0>
 <!-- <figcaption style="text-align: center;">"Facing the Mirror"</figcaption> -->
-    <img src="/posts/Ω/opa/fig/fig0.png" alt="Description of the image" style="width:77%; display: block; margin: auto;">
+    <img src="/posts/omega/opa/fig/fig0.png" alt="Description of the image" style="width:77%; display: block; margin: auto;">
 <figcaption style="text-align: center;">Рис. 0 Представьте свой образ будущего. Ω — символизирует конец/финал; Ω — Омега, последняя буква Греческого алфавита.</figcaption>
 </figure><br>
 
@@ -101,7 +101,7 @@ _А. Т. Аверченко_
 
 <figure id=fig1>
 <!-- <figcaption style="text-align: center;">"Facing the Mirror"</figcaption> -->
-    <img src="/posts/Ω/opa/fig/fig1.jpeg" alt="Description of the image" style="width:99%; display: block; margin: auto;">
+    <img src="/posts/omega/opa/fig/fig1.jpeg" alt="Description of the image" style="width:99%; display: block; margin: auto;">
 <figcaption style="text-align: center;">"Ω — семья" — Ракурс</figcaption>
 </figure><br>
 
@@ -114,7 +114,7 @@ _А. Т. Аверченко_
 
 <figure id=fig2>
 <!-- <figcaption style="text-align: center;">"Facing the Mirror"</figcaption> -->
-    <img src="/posts/Ω/opa/fig/fig2.png" alt="Description of the image" style="width:99%; display: block; margin: auto;">
+    <img src="/posts/omega/opa/fig/fig2.png" alt="Description of the image" style="width:99%; display: block; margin: auto;">
 <!-- <figcaption style="text-align: center;"></figcaption> -->
 </figure><br>
 
@@ -205,7 +205,7 @@ _Демокрит_
 
 <figure id=fig3>
 <!-- <figcaption style="text-align: center;">"Facing the Mirror"</figcaption> -->
-    <img src="/posts/Ω/opa/fig/fig3.jpeg" alt="Description of the image" style="width:99%; display: block; margin: auto;">
+    <img src="/posts/omega/opa/fig/fig3.jpeg" alt="Description of the image" style="width:99%; display: block; margin: auto;">
 <figcaption style="text-align: center;">Ракурс</figcaption>
 </figure><br>
 
@@ -213,7 +213,7 @@ _Демокрит_
 
 <figure id=fig4>
 <!-- <figcaption style="text-align: center;">"Facing the Mirror"</figcaption> -->
-    <img src="/posts/Ω/opa/fig/fig4.jpeg" alt="Description of the image" style="width:99%; display: block; margin: auto;">
+    <img src="/posts/omega/opa/fig/fig4.jpeg" alt="Description of the image" style="width:99%; display: block; margin: auto;">
 <figcaption style="text-align: center;">Рис. 3 "Судьи"-"воины" нужны, чтобы избегать "таких ситуаций" (читай "2." и/или "3.")</figcaption>
 </figure><br>
 
@@ -270,7 +270,7 @@ _Б. Паскаль_
 
 <figure id=fig5>
 <!-- <figcaption style="text-align: center;">"Facing the Mirror"</figcaption> -->
-    <img src="/posts/Ω/opa/fig/fig5.png" alt="Description of the image" style="width:77%; display: block; margin: auto;">
+    <img src="/posts/omega/opa/fig/fig5.png" alt="Description of the image" style="width:77%; display: block; margin: auto;">
 <figcaption style="text-align: center;">Рис. 4 "Чёрный вектор" — "Марксизм" в "векторном выражении" в "референтной группе, состоящей преимущественно из Марксистов, представленных индивидуальными векторами", "выраженный в базисах в ценностно-смысловом когнитивном пространстве"</figcaption>
 </figure><br>
 
@@ -320,13 +320,13 @@ _А. П. Чехов_
 
 <figure id=fig6>
 <!-- <figcaption style="text-align: center;">"Facing the Mirror"</figcaption> -->
-    <img src="/posts/Ω/opa/fig/fig6.jpeg" alt="Description of the image" style="width:55%; display: block; margin: auto;">
+    <img src="/posts/omega/opa/fig/fig6.jpeg" alt="Description of the image" style="width:55%; display: block; margin: auto;">
 <figcaption style="text-align: center;">Рис. 5 "Вечизм" как "организационный конструктор"</figcaption>
 </figure><br>
 
 <figure id=fig7>
 <!-- <figcaption style="text-align: center;">"Facing the Mirror"</figcaption> -->
-    <img src="/posts/Ω/opa/fig/fig7.png" alt="Description of the image" style="width:99%; display: block; margin: auto;">
+    <img src="/posts/omega/opa/fig/fig7.png" alt="Description of the image" style="width:99%; display: block; margin: auto;">
 <figcaption style="text-align: center;">Рис. 6 График "ползунка" для "измов" в рамках "организационного конструктора" из Рис. 5</figcaption>
 </figure><br>
 
@@ -381,7 +381,7 @@ _Марк Аврелий_
 
 <figure id=fig8>
 <!-- <figcaption style="text-align: center;">"Facing the Mirror"</figcaption> -->
-    <img src="/posts/Ω/opa/fig/fig8.png" alt="Description of the image" style="width: 444px; display: block; margin: auto;">
+    <img src="/posts/omega/opa/fig/fig8.png" alt="Description of the image" style="width: 444px; display: block; margin: auto;">
 <figcaption style="text-align: center;">Рис. 7 График "ползунка" для "измов"</figcaption>
 </figure><br>
 
@@ -390,26 +390,26 @@ _Марк Аврелий_
 
 <figure id=fig9>
 <!-- <figcaption style="text-align: center;">"Facing the Mirror"</figcaption> -->
-    <img src="/posts/Ω/opa/fig/fig9.jpeg" alt="Description of the image" style="width:99%; display: block; margin: auto;">
+    <img src="/posts/omega/opa/fig/fig9.jpeg" alt="Description of the image" style="width:99%; display: block; margin: auto;">
 <figcaption style="text-align: center;">Рис. 8 Пример "шаблонов" в Miro</figcaption>
 </figure><br>
 
 <figure id=fig10>
 <!-- <figcaption style="text-align: center;">"Facing the Mirror"</figcaption> -->
-    <img src="/posts/Ω/opa/fig/fig10.png" alt="Description of the image" style="width:99%; display: block; margin: auto;">
+    <img src="/posts/omega/opa/fig/fig10.png" alt="Description of the image" style="width:99%; display: block; margin: auto;">
 <figcaption style="text-align: center;">Рис. 9 Пример "шаблонов" в Notion</figcaption>
 </figure><br>
 
 
 <figure id=fig11>
 <!-- <figcaption style="text-align: center;">"Facing the Mirror"</figcaption> -->
-    <img src="/posts/Ω/opa/fig/fig11.png" alt="Description of the image" style="width:99%; display: block; margin: auto;">
+    <img src="/posts/omega/opa/fig/fig11.png" alt="Description of the image" style="width:99%; display: block; margin: auto;">
 <figcaption style="text-align: center;">Рис. 10 Пример "шаблонов" в Canva</figcaption>
 </figure><br>
 
 <figure id=fig12>
 <!-- <figcaption style="text-align: center;">"Facing the Mirror"</figcaption> -->
-    <img src="/posts/Ω/opa/fig/fig12.png" alt="Description of the image" style="width: 1111px; display: block; margin: auto;">
+    <img src="/posts/omega/opa/fig/fig12.png" alt="Description of the image" style="width: 1111px; display: block; margin: auto;">
 <figcaption style="text-align: center;">Рис. 11 55 "шаблонов" в бизнес моделях. Business model navigator (<https://bmilab.com>)</figcaption>
 </figure><br>
 
@@ -444,7 +444,7 @@ _Д. Дефо_
 
 <figure id=fig13>
 <!-- <figcaption style="text-align: center;">"Facing the Mirror"</figcaption> -->
-    <img src="/posts/Ω/opa/fig/fig13.jpeg" alt="Description of the image" style="width:77%; display: block; margin: auto;">
+    <img src="/posts/omega/opa/fig/fig13.jpeg" alt="Description of the image" style="width:77%; display: block; margin: auto;">
 <figcaption style="text-align: center;">\*на/в Украине: я говорю "по старинке", как говорили у нас "во дворе и не только" в Николаеве</figcaption>
 </figure><br>
 
@@ -472,24 +472,24 @@ _А. де Сент-Экзюпери_
 ##### **Примеры.**
 <figure id=fig14>
 <!-- <figcaption style="text-align: center;">"Facing the Mirror"</figcaption> -->
-    <img src="/posts/Ω/opa/fig/fig14.png" alt="Description of the image" style="width:77%; display: block; margin: auto;">
+    <img src="/posts/omega/opa/fig/fig14.png" alt="Description of the image" style="width:77%; display: block; margin: auto;">
 <!-- <figcaption style="text-align: center;">xxx</figcaption> -->
 </figure><br>
 <figure id=fig15>
 <!-- <figcaption style="text-align: center;">"Facing the Mirror"</figcaption> -->
-    <img src="/posts/Ω/opa/fig/fig15.png" alt="Description of the image" style="width:77%; display: block; margin: auto;">
+    <img src="/posts/omega/opa/fig/fig15.png" alt="Description of the image" style="width:77%; display: block; margin: auto;">
 <!-- <figcaption style="text-align: center;">xxx</figcaption> -->
 </figure><br>
 
 <figure id=fig16>
 <!-- <figcaption style="text-align: center;">"Facing the Mirror"</figcaption> -->
-    <img src="/posts/Ω/opa/fig/fig16.jpeg" alt="Description of the image" style="width:44%; display: block; margin: auto;">
+    <img src="/posts/omega/opa/fig/fig16.jpeg" alt="Description of the image" style="width:44%; display: block; margin: auto;">
 <figcaption style="text-align: center;">P: 25% — Государство E: 25% — Высший менеджмент M: 25% — Рабочие Y: 25% — Население России</figcaption>
 </figure><br>
 
 <figure id=fig17>
 <!-- <figcaption style="text-align: center;">"Facing the Mirror"</figcaption> -->
-    <img src="/posts/Ω/opa/fig/fig17.jpeg" alt="Description of the image" style="width:44%; display: block; margin: auto;">
+    <img src="/posts/omega/opa/fig/fig17.jpeg" alt="Description of the image" style="width:44%; display: block; margin: auto;">
 <figcaption style="text-align: center;">
 P: 25% — Инвестор без права вмешательства, но с правом вето<br>
 E: 25% — Дуров и/или Высший менеджмент<br>
@@ -559,7 +559,7 @@ _Марк Аврелий_
 
 <figure id=fig18>
 <!-- <figcaption style="text-align: center;">"Facing the Mirror"</figcaption> -->
-    <img src="/posts/Ω/opa/fig/fig18.jpeg" alt="Description of the image" style="width:99%; display: block; margin: auto;">
+    <img src="/posts/omega/opa/fig/fig18.jpeg" alt="Description of the image" style="width:99%; display: block; margin: auto;">
 <!-- <figcaption style="text-align: center;">xxx</figcaption> -->
 </figure><br>
 
@@ -571,7 +571,7 @@ _А. де Сент-Экзюпери_
  
 <figure id=fig19>
 <!-- <figcaption style="text-align: center;">"Facing the Mirror"</figcaption> -->
-    <img src="/posts/Ω/opa/fig/fig19.png" alt="Description of the image" style="width:99%; display: block; margin: auto;">
+    <img src="/posts/omega/opa/fig/fig19.png" alt="Description of the image" style="width:99%; display: block; margin: auto;">
 <figcaption style="text-align: center;">"2+2=4"</figcaption>
 </figure><br>
 
@@ -599,7 +599,7 @@ _О. Бузина_
 
 <figure id=fig20>
 <!-- <figcaption style="text-align: center;">"Facing the Mirror"</figcaption> -->
-    <img src="/posts/Ω/opa/fig/fig20.jpeg" alt="Description of the image" style="width:66%; display: block; margin: auto;">
+    <img src="/posts/omega/opa/fig/fig20.jpeg" alt="Description of the image" style="width:66%; display: block; margin: auto;">
 <figcaption style="text-align: center;">Ракурс</figcaption>
 </figure><br>
 
@@ -633,6 +633,6 @@ _Мы не сможем построить идеальное общество, 
 
 <figure id=amen>
 <!-- <figcaption style="text-align: center;">"Facing the Mirror"</figcaption> -->
-    <img src="/posts/Ω/opa/fig/amen.jpeg" alt="Description of the image" style="width:99%; display: block; margin: auto;">
+    <img src="/posts/omega/opa/fig/amen.jpeg" alt="Description of the image" style="width:99%; display: block; margin: auto;">
 <figcaption style="text-align: center;">Amen (<a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%BD%D1%8C%2C_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87">Александр Мень</a>)</figcaption>
 </figure><br>

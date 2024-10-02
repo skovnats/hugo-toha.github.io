@@ -14,7 +14,7 @@ categories: ["Personal", "Professional"]
 ---
 
 <figure id="fig0">
-    <img src="/posts/Ω/opa/fig/fig0.png" alt="Description of the image" style="width:77%; display: block; margin: auto;">
+    <img src="/posts/omega/opa/fig/fig0.png" alt="Description of the image" style="width:77%; display: block; margin: auto;">
     <figcaption style="text-align: center;">Fig. 0 Imagine your image of the future. Ω symbolizes the end/final point; Ω is Omega, the last letter of the Greek alphabet.</figcaption>
 </figure><br>
 
@@ -78,7 +78,7 @@ _Such "perspectives" and deep meanings are infinitely many there. With or withou
 ...
 <!-- <div style="text-align: center;">
 <video width="560" height="315" controls>
-  <source src="/posts/Ω/opa/fig/rakursy.mp4" type="video/mp4">
+  <source src="/posts/omega/opa/fig/rakursy.mp4" type="video/mp4">
 </video>
 <figcaption style="text-align: center;">Perspectives</figcaption>
 </div><br><br> -->
@@ -99,7 +99,7 @@ _A. T. Averchenko_
 </blockquote>
 
 <figure id="fig1">
-    <img src="/posts/Ω/opa/fig/fig1.jpeg" alt="Description of the image" style="width:99%; display: block; margin: auto;">
+    <img src="/posts/omega/opa/fig/fig1.jpeg" alt="Description of the image" style="width:99%; display: block; margin: auto;">
     <figcaption style="text-align: center;">"Ω — Family" — Perspective</figcaption>
 </figure><br>
 
@@ -110,7 +110,7 @@ _A. T. Averchenko_
 Thus, **family** is both the **foundation** and at the same time the **aspiration**. Therefore, **traditions** and **lineage** are very important. We complement and help each other, learning the best from everyone and supporting each other in "difficult times," sharing "worldviews," "traditions," "advice," "resources"...
 
 <figure id="fig2">
-    <img src="/posts/Ω/opa/fig/fig2.png" alt="Description of the image" style="width:99%; display: block; margin: auto;">
+    <img src="/posts/omega/opa/fig/fig2.png" alt="Description of the image" style="width:99%; display: block; margin: auto;">
 </figure><br>
 
 Therefore, **the concept of family is central**.
@@ -192,14 +192,14 @@ I'm interested in 1, while 2 and 3 are possible if there is **aggression** that 
 Let's take a simplified example using the game of chess.
 
 <figure id="fig3">
-    <img src="/posts/Ω/opa/fig/fig3.jpeg" alt="Description of the image" style="width:99%; display: block; margin: auto;">
+    <img src="/posts/omega/opa/fig/fig3.jpeg" alt="Description of the image" style="width:99%; display: block; margin: auto;">
 <figcaption style="text-align: center;">Perspective</figcaption>
 </figure><br>
 
 When "playing" within the framework of the "chess game," we are **inevitably** "enemies" and "act" only within the "prescribed" roles: the knight moves in an "L" shape, the bishop moves "diagonally"... According to [Einstein’s Law No. 9 on Problem-Solving and System Analysis](#lodka), "conflict" cannot be resolved within this "game." To "resolve" it, one must "step outside" the prescribed roles.
 
 <figure id="fig4">
-    <img src="/posts/Ω/opa/fig/fig4.jpeg" alt="Description of the image" style="width:99%; display: block; margin: auto;">
+    <img src="/posts/omega/opa/fig/fig4.jpeg" alt="Description of the image" style="width:99%; display: block; margin: auto;">
 <figcaption style="text-align: center;">Fig. 3 "Judges"-"warriors" are needed to avoid "such situations" (see "2." and/or "3.").</figcaption>
 </figure><br>
 
@@ -252,7 +252,7 @@ The basis of any "ism" can be determined by answering three questions:
 </blockquote>
 
 <figure id=fig5>
-    <img src="/posts/Ω/opa/fig/fig5.png" alt="Description of the image" style="width:77%; display: block; margin: auto;">
+    <img src="/posts/omega/opa/fig/fig5.png" alt="Description of the image" style="width:77%; display: block; margin: auto;">
 <figcaption style="text-align: center;">Fig. 4: "Black vector" — "Marxism" expressed as a "vector" within a "reference group consisting mainly of Marxists, represented by individual vectors," shown in terms of bases in the value-meaning cognitive space.</figcaption>
 </figure><br>
 
@@ -301,12 +301,12 @@ Note that I am not excluding aggression and war. I define violence as the forcib
 Since we "love" "..isms," I propose calling the implementation of method 1 "[Vecheism](https://ru.wiktionary.org/wiki/%D0%B2%D0%B5%D1%87%D0%B5)." "Vecheism" is a mechanism for reaching "contractual" "collective consensus" to solve "collective cognitive tasks" (including a "force component" to avoid "Fig. 3").
 
 <figure id="fig6">
-    <img src="/posts/Ω/opa/fig/fig6.jpeg" alt="Description of the image" style="width:55%; display: block; margin: auto;">
+    <img src="/posts/omega/opa/fig/fig6.jpeg" alt="Description of the image" style="width:55%; display: block; margin: auto;">
     <figcaption style="text-align: center;">Fig. 5 "Vecheism" as an "organizational constructor"</figcaption>
 </figure><br>
 
 <figure id="fig7">
-    <img src="/posts/Ω/opa/fig/fig7.png" alt="Description of the image" style="width:99%; display: block; margin: auto;">
+    <img src="/posts/omega/opa/fig/fig7.png" alt="Description of the image" style="width:99%; display: block; margin: auto;">
     <figcaption style="text-align: center;">Fig. 6 A "slider" graph for "isms" within the "organizational constructor" from Fig. 5</figcaption>
 </figure><br>
 
@@ -360,29 +360,29 @@ It seems that our people value "substance" more than "form." Perhaps this is why
 The basis of Vecheism is an "organizational constructor" (based on blockchain) with fast feedback. Smart contracts reduce "bureaucracy," outlining all "roles," "legal nuances and templates," allowing the creation of any organization ([LLC](https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE_%D1%81_%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C%D1%8E_%28%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%29), [DAO](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization), etc.) with just a few clicks and concluding contracts (using electronic signatures). [Initial groundwork is already underway](https://copenomics.world/). The establishment of any form of interaction, modification, and more will be predefined and integrated into the legal system, significantly speeding up task resolution.
 
 <figure id="fig8">
-    <img src="/posts/Ω/opa/fig/fig8.png" alt="Description of the image" style="width: 444px; display: block; margin: auto;">
+    <img src="/posts/omega/opa/fig/fig8.png" alt="Description of the image" style="width: 444px; display: block; margin: auto;">
     <figcaption style="text-align: center;">Fig. 7 A "slider" graph for "isms"</figcaption>
 </figure><br>
 
 Each "point on the slider" ([Fig. 7](fig8)) is an organization. The platform can suggest templates for interactions and more.
 
 <figure id="fig9">
-    <img src="/posts/Ω/opa/fig/fig9.jpeg" alt="Description of the image" style="width:99%; display: block; margin: auto;">
+    <img src="/posts/omega/opa/fig/fig9.jpeg" alt="Description of the image" style="width:99%; display: block; margin: auto;">
     <figcaption style="text-align: center;">Fig. 8 Example of "templates" in Miro</figcaption>
 </figure><br>
 
 <figure id="fig10">
-    <img src="/posts/Ω/opa/fig/fig10.png" alt="Description of the image" style="width:99%; display: block; margin: auto;">
+    <img src="/posts/omega/opa/fig/fig10.png" alt="Description of the image" style="width:99%; display: block; margin: auto;">
     <figcaption style="text-align: center;">Fig. 9 Example of "templates" in Notion</figcaption>
 </figure><br>
 
 <figure id="fig11">
-    <img src="/posts/Ω/opa/fig/fig11.png" alt="Description of the image" style="width:99%; display: block; margin: auto;">
+    <img src="/posts/omega/opa/fig/fig11.png" alt="Description of the image" style="width:99%; display: block; margin: auto;">
     <figcaption style="text-align: center;">Fig. 10 Example of "templates" in Canva</figcaption>
 </figure><br>
 
 <figure id="fig12">
-    <img src="/posts/Ω/opa/fig/fig12.png" alt="Description of the image" style="width: 1111px; display: block; margin: auto;">
+    <img src="/posts/omega/opa/fig/fig12.png" alt="Description of the image" style="width: 1111px; display: block; margin: auto;">
     <figcaption style="text-align: center;">Fig. 11 55 "templates" in business models. Business model navigator (<https://bmilab.com>)</figcaption>
 </figure><br>
 
@@ -416,7 +416,7 @@ You must be accountable for your words:
 It seems that "hot phases of confrontation" were not our weak point, but rather the "cold phases of struggle." When the "hot phase" ends, if there is no striving for justice (whatever it may be called in form) "internally," this will, in the long run, lead to an accumulation of internal contradictions with the risk of repeating our past mistakes. Personally, I felt ashamed when I still lived in Ukraine\*, seeing how our pensioners and others lived.
 
 <figure id="fig13">
-    <img src="/posts/Ω/opa/fig/fig13.jpeg" alt="Description of the image" style="width:77%; display: block; margin: auto;">
+    <img src="/posts/omega/opa/fig/fig13.jpeg" alt="Description of the image" style="width:77%; display: block; margin: auto;">
     <figcaption style="text-align: center;">\*on/in Ukraine: I say it "the old-fashioned way," as we used to say "in the yard and beyond" in Mykolaiv.</figcaption>
 </figure><br>
 
@@ -440,19 +440,19 @@ _Antoine de Saint-Exupéry_
 
 ##### **Examples.**
 <figure id="fig14">
-    <img src="/posts/Ω/opa/fig/fig14.png" alt="Description of the image" style="width:77%; display: block; margin: auto;">
+    <img src="/posts/omega/opa/fig/fig14.png" alt="Description of the image" style="width:77%; display: block; margin: auto;">
 </figure><br>
 <figure id="fig15">
-    <img src="/posts/Ω/opa/fig/fig15.png" alt="Description of the image" style="width:77%; display: block; margin: auto;">
+    <img src="/posts/omega/opa/fig/fig15.png" alt="Description of the image" style="width:77%; display: block; margin: auto;">
 </figure><br>
 
 <figure id="fig16">
-    <img src="/posts/Ω/opa/fig/fig16.jpeg" alt="Description of the image" style="width:44%; display: block; margin: auto;">
+    <img src="/posts/omega/opa/fig/fig16.jpeg" alt="Description of the image" style="width:44%; display: block; margin: auto;">
     <figcaption style="text-align: center;">P: 25% — State E: 25% — Top Management M: 25% — Workers Y: 25% — Population of Russia</figcaption>
 </figure><br>
 
 <figure id="fig17">
-    <img src="/posts/Ω/opa/fig/fig17.jpeg" alt="Description of the image" style="width:44%; display: block; margin: auto;">
+    <img src="/posts/omega/opa/fig/fig17.jpeg" alt="Description of the image" style="width:44%; display: block; margin: auto;">
     <figcaption style="text-align: center;">
         P: 25% — Investor with no right of intervention, but with veto power<br>
         E: 25% — Durov and/or Top Management<br>
@@ -519,7 +519,7 @@ _Marcus Aurelius_
 </blockquote>
 
 <figure id="fig18">
-    <img src="/posts/Ω/opa/fig/fig18.jpeg" alt="Description of the image" style="width:99%; display: block; margin: auto;">
+    <img src="/posts/omega/opa/fig/fig18.jpeg" alt="Description of the image" style="width:99%; display: block; margin: auto;">
 </figure><br>
 
 <blockquote>
@@ -529,7 +529,7 @@ _A. de Saint-Exupéry_
 </blockquote>
  
 <figure id="fig19">
-    <img src="/posts/Ω/opa/fig/fig19.png" alt="Description of the image" style="width:99%; display: block; margin: auto;">
+    <img src="/posts/omega/opa/fig/fig19.png" alt="Description of the image" style="width:99%; display: block; margin: auto;">
     <figcaption style="text-align: center;">"2+2=4"</figcaption>
 </figure><br>
 
@@ -554,7 +554,7 @@ _O. Buzina_
 #### **_Type 2_** 
 
 <figure id="fig20">
-    <img src="/posts/Ω/opa/fig/fig20.jpeg" alt="Description of the image" style="width:66%; display: block; margin: auto;">
+    <img src="/posts/omega/opa/fig/fig20.jpeg" alt="Description of the image" style="width:66%; display: block; margin: auto;">
     <figcaption style="text-align: center;">Perspective</figcaption>
 </figure><br>
 
@@ -585,6 +585,6 @@ _We will never be able to build a perfect society, that's a utopia, but if "toda
 </blockquote>
 
 <figure id="amen">
-    <img src="/posts/Ω/opa/fig/amen.jpeg" alt="Description of the image" style="width:99%; display: block; margin: auto;">
+    <img src="/posts/omega/opa/fig/amen.jpeg" alt="Description of the image" style="width:99%; display: block; margin: auto;">
     <figcaption style="text-align: center;">Amen (<a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%BD%D1%8C%2C_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87">Alexander Men</a>)</figcaption>
 </figure><br>

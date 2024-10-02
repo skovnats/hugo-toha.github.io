@@ -17,7 +17,7 @@ categories: ["Personal", "Professional"]
 
 <figure>
 <!-- <figcaption style="text-align: center;">"Facing the Mirror"</figcaption> -->
-    <img src="/posts/Ω/meta-bio/fig/hero.jpg" alt="Description of the image" style="width:99%; display: block; margin: auto;">
+    <img src="/posts/omega/meta-bio/fig/hero.jpg" alt="Description of the image" style="width:99%; display: block; margin: auto;">
 <figcaption style="text-align: center;">Fig. 1 The Metaphorical Professor's Dwelling</figcaption>
 </figure><br>
 

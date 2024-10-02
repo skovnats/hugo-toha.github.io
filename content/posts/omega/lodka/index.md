@@ -2,7 +2,7 @@
 title: "#1: The Boat, Kandinsky 7.0, and ChatGPT 42.0 or Value-Meaning Journeys"
 date: 2024-05-26 # T06:00:20+06:00
 # hero: /images/posts/back1.jpg
-# hero: /posts/Ω/fig/back1.jpg
+# hero: /posts/omega/fig/back1.jpg
 menu:
   sidebar:
     name: "The Boat, Kandinsky 7.0, and ChatGPT 42.0 or Value-Meaning Journeys"
@@ -41,7 +41,7 @@ The training-article was written with a deliberately "jagged pace," containing n
 
 <figure id=matrix>
 <!-- <figcaption style="text-align: center;">"Facing the Mirror"</figcaption> -->
-    <img src="/posts/Ω/lodka/fig/matrix.jpeg" alt="Description of the image" style="width:99%; display: block; margin: auto;">
+    <img src="/posts/omega/lodka/fig/matrix.jpeg" alt="Description of the image" style="width:99%; display: block; margin: auto;">
 <figcaption style="text-align: center;">(c) Morpheus from the movie "The Matrix", who in turn paraphrases Plato</figcaption>
 </figure>
 
@@ -51,7 +51,7 @@ It is obvious that AI "has arrived," at least AI models. [The beginning of the a
 
 <figure id=fig1>
 <!-- <figcaption style="text-align: center;">"Facing the Mirror"</figcaption> -->
-    <img src="/posts/Ω/lodka/fig/fig1.png" alt="Description of the image" style="width:99%; display: block; margin: auto;">
+    <img src="/posts/omega/lodka/fig/fig1.png" alt="Description of the image" style="width:99%; display: block; margin: auto;">
 <figcaption style="text-align: center;">Fig. 1. The metaphorical boat we are sailing on (neuroArt)</figcaption>
 </figure><br>
 
@@ -113,7 +113,7 @@ I will provide some facts that have influenced the formation of my mental models
 ### **Bon Voyage, Captain!**
 <figure id=fig2>
 <!-- <figcaption style="text-align: center;">"Facing the Mirror"</figcaption> -->
-    <img src="/posts/Ω/lodka/fig/fig2.png" alt="Description of the image" style="width:99%; display: block; margin: auto;">
+    <img src="/posts/omega/lodka/fig/fig2.png" alt="Description of the image" style="width:99%; display: block; margin: auto;">
 <figcaption style="text-align: center;">Fig. 2. You are the captain, and this is your Metaphorical Ship</figcaption>
 </figure><br>
 
@@ -154,7 +154,7 @@ _\- <b>Inanimate</b>: A phenomenon can be modeled as a_ [_Riemannian manifold_](
 **_Justification_**_:_ [_Riemannian geometry_](https://en.wikipedia.org/wiki/Riemannian_geometry) _and_ [_differential geometry_](https://en.wikipedia.org/wiki/Differential_geometry)_,_ [_orthogonal functions_](https://en.wikipedia.org/wiki/Orthogonal_functions)_:_ [_Fourier functions_](https://en.wikipedia.org/wiki/Fourier_series)_,_ [_spectral decomposition_](https://en.wikipedia.org/wiki/Spectral_theorem) _and others; for example, the existence of the science of psychology, which can find patterns and "catalog personalities"; the existence and "successful" application of "scripts" used by fraudsters; the existence and use of pickup techniques for seduction, and so on._
 <figure id=fig3>
 <!-- <figcaption style="text-align: center;">"Facing the Mirror"</figcaption> -->
-    <img src="/posts/Ω/lodka/fig/fig3.png" alt="Description of the image" style="width:99%; display: block; margin: auto;">
+    <img src="/posts/omega/lodka/fig/fig3.png" alt="Description of the image" style="width:99%; display: block; margin: auto;">
 <figcaption style="text-align: center;">Fig. 3. Example of several 2D "parameterizations" of a 3D globe</figcaption>
 </figure><br>
 </i>
@@ -235,7 +235,7 @@ Those with children know that their attention can be directed towards something 
 </i>
 
 <figure id=fig4>
-    <img src="/posts/Ω/lodka/fig/fig4.png" alt="Description of the image" style="width:99%; display: block; margin: auto;">
+    <img src="/posts/omega/lodka/fig/fig4.png" alt="Description of the image" style="width:99%; display: block; margin: auto;">
 <figcaption style="text-align: center;">Fig. 4. The Girl in the Red Dress from the movie "The Matrix"</figcaption>
 </figure><br>
 </details><br>
@@ -395,7 +395,7 @@ If we look at the distribution of (most) things or events, it will resemble a "b
 </i>
 
 <figure id=fig5>
-    <img src="/posts/Ω/lodka/fig/fig5.png" alt="Description of the image" style="width:99%; display: block; margin: auto;">
+    <img src="/posts/omega/lodka/fig/fig5.png" alt="Description of the image" style="width:99%; display: block; margin: auto;">
 <figcaption style="text-align: center;">Fig. 5. Normal distribution (μ-mean, σ-variance)</figcaption>
 </figure><br>
 
@@ -523,7 +523,7 @@ Examples: first-time use of a subscription-based business model (now considered 
 
 </i>
 <figure id=fig6>
-    <img src="/posts/Ω/lodka/fig/fig6.png" alt="Description of the image" style="width:99%; display: block; margin: auto;">
+    <img src="/posts/omega/lodka/fig/fig6.png" alt="Description of the image" style="width:99%; display: block; margin: auto;">
 <figcaption style="text-align: center;">Fig. 7. The famous meme that inspired the name of Law 25.</figcaption>
 </figure><br>
 </details><br>
@@ -549,7 +549,7 @@ I don't think most will understand it, so I’ll limit myself to these words:
 
 </i>
 <figure id=fig7>
-    <img src="/posts/Ω/lodka/fig/fig7.png" alt="Description of the image" style="width:99%; display: block; margin: auto;">
+    <img src="/posts/omega/lodka/fig/fig7.png" alt="Description of the image" style="width:99%; display: block; margin: auto;">
 <figcaption style="text-align: center;">Ōm</figcaption>
 </figure><br>
 </details><br>
@@ -648,14 +648,14 @@ Almost any task we have (translation, facial recognition, text generation, etc.)
 Elementary functions, which are the foundation of deep learning models, and how they are combined into a unified structure allow us to encode _patterned structures_ of the task at hand (this is especially apparent in tasks involving [computer vision](https://www.google.com/search?q=weights+neural+network+images+patterns&bih=944&biw=1920&hl=en&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiji-TY5O3-AhVS6aQKHdWtC_QQ_AUoAXoECAEQAw#imgrc=J-ZAOPTCQr3QoM&imgdii=K4h-EXfPIgYBUM)).
 
 <figure id=fig8>
-    <img src="/posts/Ω/lodka/fig/fig8.png" alt="Description of the image" style="width:50%; display: block; margin: auto;">
+    <img src="/posts/omega/lodka/fig/fig8.png" alt="Description of the image" style="width:50%; display: block; margin: auto;">
 <figcaption style="text-align: center;">Figure 3. Illustration of patterns learned by functions at different depths of a neural network</figcaption>
 </figure><br>
 
 [Approximation theorems](https://en.wikipedia.org/wiki/Universal_approximation_theorem) serve as theoretical justification for applying deep learning models to practically any task. Patterns and transformation functions are expressed through the model's parameters:
 
 <figure id=fig9>
-    <img src="/posts/Ω/lodka/fig/fig9.png" alt="Description of the image" style="width:77%; display: block; margin: auto;">
+    <img src="/posts/omega/lodka/fig/fig9.png" alt="Description of the image" style="width:77%; display: block; margin: auto;">
 <figcaption style="text-align: center;">Definition 2. Schematic illustration of how learning models work</figcaption>
 </figure><br>
 
@@ -936,7 +936,7 @@ _The Little Prince, A. de Saint-Exupéry_
 
 
 <figure id="fig10">
-    <img src="/posts/Ω/lodka/fig/fig10.png" alt="Description of the image" style="width:77%; display: block; margin: auto;">
+    <img src="/posts/omega/lodka/fig/fig10.png" alt="Description of the image" style="width:77%; display: block; margin: auto;">
     <!-- Optional figcaption below the image -->
     <!-- <figcaption style="text-align: center;">Facing the Mirror</figcaption> -->
 </figure><br>
@@ -956,7 +956,7 @@ _The Little Prince, A. de Saint-Exupéry_
 
 
 <figure id="fig11">
-    <img src="/posts/Ω/lodka/fig/fig11.png" alt="Description of the image" style="width:77%; display: block; margin: auto;">
+    <img src="/posts/omega/lodka/fig/fig11.png" alt="Description of the image" style="width:77%; display: block; margin: auto;">
     <figcaption style="text-align: center;">Meme about AI taking away programmers' jobs</figcaption>
 </figure><br>
 

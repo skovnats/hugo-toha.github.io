@@ -2,7 +2,7 @@
 title: "#1: Лодка, Kandinsky 7.0 и ChatGPT 42.0 или Ценностно-Смысловые путешествия"
 date: 2024-05-26 # T06:00:20+06:00
 # hero: /images/posts/back1.jpg
-# hero: /posts/Ω/fig/back1.jpg
+# hero: /posts/omega/fig/back1.jpg
 menu:
   sidebar:
     name: "Лодка, Kandinsky 7.0 и ChatGPT 42.0 или Ценностно-Смысловые путешествия"
@@ -40,7 +40,7 @@ _...также будет иметь представление:_
 
 <figure id=matrix>
 <!-- <figcaption style="text-align: center;">"Facing the Mirror"</figcaption> -->
-    <img src="/posts/Ω/lodka/fig/matrix.jpeg" alt="Description of the image" style="width:99%; display: block; margin: auto;">
+    <img src="/posts/omega/lodka/fig/matrix.jpeg" alt="Description of the image" style="width:99%; display: block; margin: auto;">
 <figcaption style="text-align: center;">(c) Морфеус из фильма "Matrix", который в свою очередь перефразирует Платона</figcaption>
 </figure>
 
@@ -50,7 +50,7 @@ _...также будет иметь представление:_
 
 <figure id=fig1>
 <!-- <figcaption style="text-align: center;">"Facing the Mirror"</figcaption> -->
-    <img src="/posts/Ω/lodka/fig/fig1.png" alt="Description of the image" style="width:99%; display: block; margin: auto;">
+    <img src="/posts/omega/lodka/fig/fig1.png" alt="Description of the image" style="width:99%; display: block; margin: auto;">
 <figcaption style="text-align: center;">Рис. 1. Метафорическая Лодка на которой мы плывём (нейроАрт)</figcaption>
 </figure><br>
 
@@ -109,7 +109,7 @@ _В. О. Ключевский_
 ### **В добрый путь, капитан!**
 <figure id=fig2>
 <!-- <figcaption style="text-align: center;">"Facing the Mirror"</figcaption> -->
-    <img src="/posts/Ω/lodka/fig/fig2.png" alt="Description of the image" style="width:99%; display: block; margin: auto;">
+    <img src="/posts/omega/lodka/fig/fig2.png" alt="Description of the image" style="width:99%; display: block; margin: auto;">
 <figcaption style="text-align: center;">Рис. 2. Ты - капитан, а это твой Метафорический Корабль</figcaption>
 </figure><br>
 
@@ -148,7 +148,7 @@ _\- <b>Неодушевлённое</b>: рассматриваемое явле
 **_Обоснование_**_:_ [_Риманова геометрия_](https://ru.wikipedia.org/wiki/%D0%A0%D0%B8%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0_%D0%B3%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%8F) _и_ [_дифференциальная геометрия_](https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D1%84%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B3%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%8F)_,_ [_ортогональные функции_](https://ru.wikipedia.org/wiki/%D0%9E%D1%80%D1%82%D0%BE%D0%B3%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8)_:_ [_функции Фурье_](https://ru.wikipedia.org/wiki/%D0%A0%D1%8F%D0%B4_%D0%A4%D1%83%D1%80%D1%8C%D0%B5)_,_ [_спектральное разложение_](https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%82%D0%B5%D0%BE%D1%80%D0%B5%D0%BC%D0%B0) _и прочее; например, существование науки психология, которая способна находить закономерности и "каталогизировать" личности; существование и "успешное" применение "скриптов", используемых мошенниками; существование и применение пикапа для соблазнения и прочее._
 <figure id=fig3>
 <!-- <figcaption style="text-align: center;">"Facing the Mirror"</figcaption> -->
-    <img src="/posts/Ω/lodka/fig/fig3.png" alt="Description of the image" style="width:99%; display: block; margin: auto;">
+    <img src="/posts/omega/lodka/fig/fig3.png" alt="Description of the image" style="width:99%; display: block; margin: auto;">
 <figcaption style="text-align: center;">Рис. 3. Пример нескольких 2D-"параметризаций" глобуса в 3D</figcaption>
 </figure><br>
 </i>
@@ -236,7 +236,7 @@ _К. Г. Юнг_
 
 <figure id=fig4>
 <!-- <figcaption style="text-align: center;">"Facing the Mirror"</figcaption> -->
-    <img src="/posts/Ω/lodka/fig/fig4.png" alt="Description of the image" style="width:99%; display: block; margin: auto;">
+    <img src="/posts/omega/lodka/fig/fig4.png" alt="Description of the image" style="width:99%; display: block; margin: auto;">
 <figcaption style="text-align: center;">Рис. 4. Девушка в красном из фильма "Матрица"</figcaption>
 </figure><br>
 </details><br>
@@ -403,7 +403,7 @@ _Альберт Эйнштейн_
 
 <figure id=fig5>
 <!-- <figcaption style="text-align: center;">"Facing the Mirror"</figcaption> -->
-    <img src="/posts/Ω/lodka/fig/fig5.png" alt="Description of the image" style="width:99%; display: block; margin: auto;">
+    <img src="/posts/omega/lodka/fig/fig5.png" alt="Description of the image" style="width:99%; display: block; margin: auto;">
 <figcaption style="text-align: center;">Рис. 5. Нормальное распределение (μ-среднее/мат.ожидание, σ-дисперсия)</figcaption>
 </figure><br>
 
@@ -534,7 +534,7 @@ _Альберт Эйнштейн_
 </i>
 <figure id=fig6>
 <!-- <figcaption style="text-align: center;">"Facing the Mirror"</figcaption> -->
-    <img src="/posts/Ω/lodka/fig/fig6.png" alt="Description of the image" style="width:99%; display: block; margin: auto;">
+    <img src="/posts/omega/lodka/fig/fig6.png" alt="Description of the image" style="width:99%; display: block; margin: auto;">
 <figcaption style="text-align: center;">Рис. 7. Знамениетый мем, который вдохновил название Закона 25.</figcaption>
 </figure><br>
 </details><br>
@@ -561,7 +561,7 @@ _Альберт Эйнштейн_
 </i>
 <figure id=fig7>
 <!-- <figcaption style="text-align: center;">"Facing the Mirror"</figcaption> -->
-    <img src="/posts/Ω/lodka/fig/fig7.png" alt="Description of the image" style="width:99%; display: block; margin: auto;">
+    <img src="/posts/omega/lodka/fig/fig7.png" alt="Description of the image" style="width:99%; display: block; margin: auto;">
 <figcaption style="text-align: center;">Ōm</figcaption>
 </figure><br>
 </details><br>
@@ -668,7 +668,7 @@ _Лао Цзы_
 
 <figure id=fig8>
 <!-- <figcaption style="text-align: center;">"Facing the Mirror"</figcaption> -->
-    <img src="/posts/Ω/lodka/fig/fig8.png" alt="Description of the image" style="width:50%; display: block; margin: auto;">
+    <img src="/posts/omega/lodka/fig/fig8.png" alt="Description of the image" style="width:50%; display: block; margin: auto;">
 <figcaption style="text-align: center;">Рис. 3. Иллюстрация шаблонов, которые выучили функции на разных глубинах нейроной сети</figcaption>
 </figure><br>
 
@@ -677,7 +677,7 @@ _Лао Цзы_
 
 <figure id=fig9>
 <!-- <figcaption style="text-align: center;">"Facing the Mirror"</figcaption> -->
-    <img src="/posts/Ω/lodka/fig/fig9.png" alt="Description of the image" style="width:77%; display: block; margin: auto;">
+    <img src="/posts/omega/lodka/fig/fig9.png" alt="Description of the image" style="width:77%; display: block; margin: auto;">
 <figcaption style="text-align: center;">Определение 2. Схематическая иллюстрация работы моделей обучения</figcaption>
 </figure><br>
 
@@ -959,7 +959,7 @@ _Маленький принц, А. де Сент-Экзюпери_
 
 <figure id=fig10>
 <!-- <figcaption style="text-align: center;">"Facing the Mirror"</figcaption> -->
-    <img src="/posts/Ω/lodka/fig/fig10.png" alt="Description of the image" style="width:77%; display: block; margin: auto;">
+    <img src="/posts/omega/lodka/fig/fig10.png" alt="Description of the image" style="width:77%; display: block; margin: auto;">
 <!-- <figcaption style="text-align: center;">""</figcaption> -->
 </figure><br>
 
@@ -980,7 +980,7 @@ _Маленький принц, А. де Сент-Экзюпери_
 
 <figure id=fig11>
 <!-- <figcaption style="text-align: center;">"Facing the Mirror"</figcaption> -->
-    <img src="/posts/Ω/lodka/fig/fig11.png" alt="Description of the image" style="width:77%; display: block; margin: auto;">
+    <img src="/posts/omega/lodka/fig/fig11.png" alt="Description of the image" style="width:77%; display: block; margin: auto;">
 <figcaption style="text-align: center;">Мем касательно того, что ИИ лишит програмистов работы</figcaption>
 </figure><br>
 
