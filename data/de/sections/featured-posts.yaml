@@ -6,10 +6,8 @@ section:
   showOnNavbar: false # Boolean to determine if a link should be shown for this section on the navbar
   # hideTitle: false # Can optionally hide the title in sections (default: false)
 
-# posts to feature
+  # posts to feature
 posts:
 - meta-bio
-- services
-- philosophy
-# - services-consult
-# - services-activate
+- love
+- sokrates

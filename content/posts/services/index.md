@@ -5,18 +5,16 @@ date: 2024-09-26 # T06:00:20+06:00
 menu:
   sidebar:
     name: Services
-    identifier: services
+    identifier: love
     weight: 1
 mermaid: true
 featured: true
 tags: ["Opa", "Services"]
 categories: ["Personal", "Professional"]
 ---
-
 {{< split 6 6>}}
 
 #### Data Specialist
-
 
 <ol>
 <li>
@@ -34,7 +32,8 @@ The startup suddenly lost its main client, <a href=https://www.immobilienscout24
 
 The company founders asked all employees for ideas on how to save the business and ensure its survival at this critical moment. We entered the “make it or break it” phase.
 
-I proposed my vision and gave two presentations, one to the entire company. Ultimately, one of my ideas, after some refinement, was chosen as the main strategy. My understanding of both data and business processes played a key role in this situation. 
+I proposed my vision and gave two presentations, one to the entire company. Ultimately, one of my ideas, after some refinement, was chosen as the main strategy. My understanding of both data and business processes played a key role in this situation.
+
 </details>
 </li>
 <li>
@@ -44,6 +43,7 @@ I proposed my vision and gave two presentations, one to the entire company. Ulti
 The data was poor: for example, the construction date in some cases was later than the date the object was first entered into the database, with a discrepancy of years. This was just one of many problems. Using another database, I was able to build a model that improved the main database, and then, using methods I developed, trained a final model. It delivered sufficiently good results, allowing us to attract a new client (Skoda GmbH) and open new horizons for the company, including the creation of a new division.
 
 The final refinement of the results was later handled by another data scientist, as the task became more “classical” at that point.
+
 </details>
 </li>
 <li>
@@ -63,6 +63,7 @@ The final refinement of the results was later handled by another data scientist,
 A consulting company with extensive experience in securing such grants prepared the application. I designed and proposed a solution for the technical part of the application, based on cutting-edge approaches (SOTA) and offering innovative solutions. The text of the application was handled by the consulting company.
 
 I was invited to present the technical part of the application to the commission. I proposed my vision of which aspects to emphasize and how to present the material. The commission approved the application for 1.2 million euros on the condition that changes be made to reflect the focus points I had proposed.
+
 </details>
 </li>
 
@@ -87,7 +88,7 @@ Encoding a list of strings into a numerical representation for machine learning 
 </li>
 <li>
 
-<b>Companies working with big data and developing data-driven products</b><br>
+`<b>`Companies working with big data and developing data-driven products`</b><br>`
 
 </li>
 </ol>
@@ -95,7 +96,6 @@ Encoding a list of strings into a numerical representation for machine learning 
 ---
 
 #### Mentor - Coach
-
 
 <ol>
 <li>
@@ -109,6 +109,7 @@ I understand people well and often notice things that others miss, stuck in thei
 If you need to resolve a conflict, understand someone, or find the right words to be heard, maybe I can help, drawing on my life experience. I don’t use specific methods — my approach is based solely on the task at hand, the context, and the people involved. Everyone has a unique story, their own “personal dictionary” or “language,” where the same words can carry entirely different meanings, emotions, and values. For one, “love” might mean calling or texting every hour, while for another, it’s not bothering them during work. And that’s just one example of how words in a “personal dictionary” can have different meanings depending on context, time of year, mood, and other factors.
 
 Maybe I can be the “translator” between different “personal dictionaries” to help find a “new point” or “angle” on the situation, from which new opportunities and mutually beneficial solutions become visible.
+
 </details>
 </li>
 <li>
@@ -126,6 +127,7 @@ Now this man wants other “children” to be “heard.” He wants to ease thei
 One day, a “girl” came to him, with a “storm” raging inside her, and she needed a “shelter.” “Externally,” this looked like erratic behavior, and she was even sent to a “home for such people.” The man did not judge her but tried to help within his ability and her capacity to “see at that moment” what he was showing. He pointed out the “currents” and “whirlpools” that, perhaps, she shouldn’t “sail into,” and where there were “islands” she could “row” toward.
 
 The man knew there were “forces” that didn’t want “ships” to leave certain “currents” and “whirlpools.” While they were there, these forces could “transport what they needed on those ships,” even if it “sank the boats.” The man challenged these forces, and the “girl’s boat,” in her “storm,” found “understanding, sustenance, and refuge” for further independent sailing. The next day, the man’s “port” was robbed, but that’s how it goes. The main thing is that the “girl’s boat” is now sailing independently, deciding for itself what to “carry” and where to “sail.”
+
 </details>
 </li>
 </ol>
@@ -141,7 +143,6 @@ The man knew there were “forces” that didn’t want “ships” to leave cer
 
 {{< /split >}}
 
-
 [**Ω**](https://t.me/artiomkovnatsky)
 
-You can schedule an appointment using <a href="https://calendly.com/artiom_kovnatsky" target="_blank">Calendly</a>, or through <a href="https://cal.read.ai/artiomkovnatsky" target="_blank">Read.ai</a>, write me an <a href="mailto:artiomkovnatsky@pm.me" target="_blank">Email</a> or in <a href="https://t.me/soul_from_crete" target="_blank">Telegram</a>.
+You can schedule an appointment using `<a href="https://calendly.com/artiom_kovnatsky" target="_blank">`Calendly`</a>`, or through `<a href="https://cal.read.ai/artiomkovnatsky" target="_blank">`Read.ai`</a>`, write me an `<a href="mailto:artiomkovnatsky@pm.me" target="_blank">`Email`</a>` or in `<a href="https://t.me/soul_from_crete" target="_blank">`Telegram`</a>`.

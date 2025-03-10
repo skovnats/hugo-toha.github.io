@@ -5,26 +5,25 @@ description: Einführung in meine Lebensphilosophie
 menu:
   sidebar:
     name: Philosophie
-    identifier: philosophy
+    identifier: sokrates
     weight: 10
 tags: [ "Ómega", "Philosophy"]
 categories: ["Personal", "Ómega"]
 ---
-
 <blockquote>Hinterlasse alles mindestens nicht schlechter, als es vor dir war.</blockquote>
 
 Ich folge diesem Prinzip sowohl bei großen Lebensentscheidungen als auch im Alltag, von wichtigen Lebensentscheidungen bis hin zu etwas so Einfachem wie der Benutzung einer Toilette auf einer Konferenz.
 
-
 #### Sinnvolles Engagement
+
 Ich vermeide es, an Projekten und Aktivitäten teilzunehmen, die keine bedeutenden Probleme lösen oder von wichtigen, systemischen Veränderungen ablenken. Zum Beispiel interessieren mich in den meisten Fällen LGBTQIA+/Transgender-Rechtsinitiativen, „Revolutionen“ in Zahlungssystemen, die die tatsächliche Verteilung von Reichtum nicht ändern, sondern lediglich Transaktionen reibungsloser gestalten, oder Start-up-„Revolutionen“, die letztlich nur die sozialen und finanziellen Spannungen in der Gesellschaft verstärken, nicht.
 
 Ich fühle mich von Initiativen angezogen, die zu echten und langfristigen Veränderungen führen. Dazu gehören Bemühungen zur Bekämpfung von Pädophilie, Sklaverei, Konflikten, die durch den militärisch-industriellen Komplex geschürt werden, und der Widerstand gegen entmenschlichende politische Programme. Ich schätze auch Projekte, die Leben transformieren, natürliche Ressourcen an ihre rechtmäßigen Länder zurückgeben, Bildungssysteme stärken, indem sie Menschen das „Fischen“ beibringen, anstatt sie einfach zu „füttern“, und Unternehmen schaffen, die allen Gesellschaftsschichten zugutekommen — von den Ärmsten bis zu den Reichsten.
 
 Es ist mir auch wichtig, dass ich die Welt und den Zustand der Dinge für unsere Kinder nicht schlechter hinterlasse, als ich sie von meinen Eltern geerbt habe.
 
-
 #### Werte
+
 <ol>
 <li>Mitgefühl und Menschlichkeit</li>
 Ich bemühe mich, Menschen zu verstehen, die Welt aus ihrer Perspektive zu betrachten und ihre inneren Eigenschaften und ihr Verhalten zu berücksichtigen.
@@ -66,33 +65,29 @@ Das Wort „Teufel“ stammt vom griechischen διάβολος (diábolos), was 
 <li>Ich „baue und stärke Brücken“ und vermeide es, ihre „Zerstörung oder Schwächung“ zu unterstützen.</li>
 </ul>
 
-Alles Wichtige wurde bereits vor mir gesagt. In meinen Überlegungen und Bestrebungen wird es Ideen geben, die bei einigen Anklang finden könnten. Wenn dies der Fall ist, schließen Sie sich gerne an: <a href="https://cal.read.ai/artiomkovnatsky" target="_blank">Treffen</a>, <a href="mailto:artiomkovnatsky@pm.com">E-Mail</a>, <a href="https://t.me/soul_from_crete" target="_blank">Telegram</a>, <a href="https://www.linkedin.com/in/artiomkovnatsky" target="_blank">LinkedIn</a>.
+Alles Wichtige wurde bereits vor mir gesagt. In meinen Überlegungen und Bestrebungen wird es Ideen geben, die bei einigen Anklang finden könnten. Wenn dies der Fall ist, schließen Sie sich gerne an: `<a href="https://cal.read.ai/artiomkovnatsky" target="_blank">`Treffen `</a>`, `<a href="mailto:artiomkovnatsky@pm.com">`E-Mail `</a>`, `<a href="https://t.me/soul_from_crete" target="_blank">`Telegram `</a>`, `<a href="https://www.linkedin.com/in/artiomkovnatsky" target="_blank">`LinkedIn `</a>`.
 
 [**Ω**](https://t.me/artiomkovnatsky)
-<br><br><br>
-
+`<br><br>``<br>`
 
 # Anhang
 
-
 #### Die Bedeutung der Symbole
+
 <img src="/posts/philosophy/fig/master_splinter_icon.png" style="float: left; height: 99px; margin-right: 9px;" alt="Meister Splinter">
 <img src="/posts/philosophy/fig/logo_opa.png" style="float: left; height: 99px; margin-right: 9px;" alt="Opa">
 <img src="/posts/philosophy/fig/logo_Omega.png" style="float: left; height: 99px; margin-right: 9px;" alt="Ómega">
 <div style="clear: both;"></div>
 <br>
 
-
 Ich wurde im Jahr der Ratte geboren und fühle mich mit der Figur des Meister Splinter aus den „Teenage Mutant Ninja Turtles“ verbunden — der weise alte Ratte, die liebevoll die Ninja-Krieger großzog, die für Gerechtigkeit kämpften. Meister Splinter und die Turtles lebten viele Jahre „unsichtbar“ vor den Menschen im Untergrund und halfen gelegentlich, Verbrechen zu bekämpfen. Auch mein Name spielt mit Buchstaben und Worten: Art(iom) → Art ... the rAt.
 
-Omega und A sind Anspielungen auf Gott (Jesus sagte: „Ich bin das Alpha und Omega“) und auch auf meinen Geburtstag: der letzte Tag aller Tierkreiszeichen und der letzte Tag des Kalenderjahres nach dem Sonnenkalender, der Tag vor <a href="https://en.wikipedia.org/wiki/Nowruz" target="_blank">„Nowruz“</a> — dem „neuen Tag“. Omega symbolisiert Vollendung und Endgültigkeit; in der Numerologie entspricht mein Geburtsdatum der Zahl 9, die ebenfalls die letzte Zahl im Dezimalsystem ist.
+Omega und A sind Anspielungen auf Gott (Jesus sagte: „Ich bin das Alpha und Omega“) und auch auf meinen Geburtstag: der letzte Tag aller Tierkreiszeichen und der letzte Tag des Kalenderjahres nach dem Sonnenkalender, der Tag vor `<a href="https://en.wikipedia.org/wiki/Nowruz" target="_blank">`„Nowruz“`</a>` — dem „neuen Tag“. Omega symbolisiert Vollendung und Endgültigkeit; in der Numerologie entspricht mein Geburtsdatum der Zahl 9, die ebenfalls die letzte Zahl im Dezimalsystem ist.
 
 A steht auch für den ersten Buchstaben meines Namens und symbolisiert einen „neuen Tag“ oder Anfang — denn jedes Ende (Omega) ist der Beginn von etwas Neuem (A).
 π (pi) ist der erste Buchstabe des griechischen Wortes πνεῦμα (pneuma), was „Geist“ oder „Seele“ bedeutet. π kommt vor A, da die Seele der Form oder Materie vorausgeht.
 
 Wenn Sie weitere Fragen haben, zögern Sie nicht zu fragen!
-
-
 
 #### Meine Sicht auf die Akademia
 

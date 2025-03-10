@@ -5,18 +5,16 @@ date: 2024-09-26 # T06:00:20+06:00
 menu:
   sidebar:
     name: Dienstleistungen
-    identifier: services
+    identifier: love
     weight: 1
 mermaid: true
 featured: true
 tags: ["Opa", "Services"]
 categories: ["Personal", "Professional"]
 ---
-
 {{< split 6 6>}}
 
 #### Datenexperte
-
 
 <ol>
 <li>
@@ -34,7 +32,8 @@ Das Startup verlor plötzlich seinen Hauptkunden, <a href=https://www.immobilien
 
 Die Unternehmensgründer baten alle Mitarbeiter um Ideen, wie das Unternehmen gerettet und in dieser kritischen Situation überleben könnte. Wir traten in die "make it or break it"-Phase ein.
 
-Ich stellte meine Vision vor und hielt zwei Präsentationen, eine davon vor der gesamten Firma. Letztendlich wurde eine meiner Ideen nach einigen Verfeinerungen als Hauptstrategie gewählt. Mein Verständnis sowohl für Daten als auch für Geschäftsprozesse spielte in dieser Situation eine Schlüsselrolle. 
+Ich stellte meine Vision vor und hielt zwei Präsentationen, eine davon vor der gesamten Firma. Letztendlich wurde eine meiner Ideen nach einigen Verfeinerungen als Hauptstrategie gewählt. Mein Verständnis sowohl für Daten als auch für Geschäftsprozesse spielte in dieser Situation eine Schlüsselrolle.
+
 </details>
 </li>
 <li>
@@ -44,6 +43,7 @@ Ich stellte meine Vision vor und hielt zwei Präsentationen, eine davon vor der 
 Die Daten waren schlecht: Zum Beispiel war in einigen Fällen das Baujahr später als das Datum, an dem das Objekt erstmals in die Datenbank eingetragen wurde, mit einer Diskrepanz von Jahren. Dies war nur eines von vielen Problemen. Durch die Verwendung einer anderen Datenbank konnte ich ein Modell entwickeln, das die Hauptdatenbank verbesserte, und dann mit Methoden, die ich entwickelt hatte, das endgültige Modell trainieren. Es lieferte ausreichend gute Ergebnisse, um einen neuen Kunden (Skoda GmbH) zu gewinnen und neue Horizonte für das Unternehmen zu eröffnen, einschließlich der Schaffung einer neuen Abteilung.
 
 Die endgültige Verfeinerung der Ergebnisse wurde später von einem anderen Datenwissenschaftler durchgeführt, da die Aufgabe zu diesem Zeitpunkt "klassischer" wurde.
+
 </details>
 </li>
 <li>
@@ -63,6 +63,7 @@ Die endgültige Verfeinerung der Ergebnisse wurde später von einem anderen Date
 Eine Beratungsfirma mit umfangreicher Erfahrung in der Beschaffung solcher Zuschüsse bereitete den Antrag vor. Ich entwickelte und schlug eine Lösung für den technischen Teil des Antrags vor, basierend auf modernsten Ansätzen (SOTA) und innovativen Lösungen. Der Text des Antrags wurde von der Beratungsfirma erstellt.
 
 Ich wurde eingeladen, den technischen Teil des Antrags vor der Kommission zu präsentieren. Ich schlug meine Vision vor, welche Aspekte betont werden sollten und wie das Material präsentiert werden sollte. Die Kommission genehmigte den Antrag in Höhe von 1,2 Millionen Euro unter der Bedingung, dass Änderungen vorgenommen werden, um die von mir vorgeschlagenen Schwerpunkte zu berücksichtigen.
+
 </details>
 </li>
 
@@ -87,7 +88,7 @@ Das Codieren einer Liste von Strings in eine numerische Darstellung für das Tra
 </li>
 <li>
 
-<b>Unternehmen, die mit Big Data arbeiten und datengetriebene Produkte entwickeln</b><br>
+`<b>`Unternehmen, die mit Big Data arbeiten und datengetriebene Produkte entwickeln`</b><br>`
 
 </li>
 </ol>
@@ -95,7 +96,6 @@ Das Codieren einer Liste von Strings in eine numerische Darstellung für das Tra
 ---
 
 #### Mentor - Coach
-
 
 <ol>
 <li>
@@ -109,6 +109,7 @@ Ich verstehe Menschen gut und bemerke oft Dinge, die anderen entgehen, gefangen 
 Wenn Sie einen Konflikt lösen, jemanden verstehen oder die richtigen Worte finden müssen, um gehört zu werden, kann ich Ihnen vielleicht mit meiner Lebenserfahrung helfen. Ich verwende keine speziellen Methoden — mein Ansatz basiert ausschließlich auf der jeweiligen Aufgabe, dem Kontext und den beteiligten Personen. Jeder hat eine einzigartige Geschichte, sein eigenes „persönliches Wörterbuch“ oder seine „Sprache“, in der dieselben Wörter völlig unterschiedliche Bedeutungen, Emotionen und Werte haben können. Für den einen bedeutet „Liebe“ vielleicht, jede Stunde anzurufen oder zu schreiben, während es für den anderen bedeutet, während der Arbeit nicht gestört zu werden. Und das ist nur ein Beispiel dafür, wie Wörter im „persönlichen Wörterbuch“ je nach Kontext, Jahreszeit, Stimmung und anderen Faktoren unterschiedliche Bedeutungen haben können.
 
 Vielleicht kann ich der „Übersetzer“ zwischen verschiedenen „persönlichen Wörterbüchern“ sein, um zu helfen, einen „neuen Standpunkt“ oder „Blickwinkel“ auf die Situation zu finden, aus denen neue Möglichkeiten und gegenseitig vorteilhafte Lösungen sichtbar werden.
+
 </details>
 </li>
 <li>
@@ -126,6 +127,7 @@ Jetzt will dieser Mann, dass andere „Kinder“ „gehört“ werden. Er will i
 Eines Tages kam ein „Mädchen“ zu ihm, in dem ein „Sturm“ tobte, und sie brauchte einen „Zufluchtsort“. „Äußerlich“ sah es aus wie unberechenbares Verhalten, und sie wurde sogar in ein „Heim für solche Menschen“ gebracht. Der Mann verurteilte sie nicht, sondern versuchte, ihr im Rahmen seiner Möglichkeiten und ihrer Fähigkeit, „in diesem Moment zu sehen“, zu helfen. Er zeigte ihr die „Strömungen“ und „Strudel“, in die sie vielleicht nicht „hineinsegeln“ sollte, und wo es „Inseln“ gab, zu denen sie „rudern“ konnte.
 
 Der Mann wusste, dass es „Kräfte“ gab, die nicht wollten, dass „Schiffe“ bestimmte „Strömungen“ und „Strudel“ verließen. Solange sie dort waren, konnten diese Kräfte „auf diesen Schiffen transportieren, was sie brauchten“, selbst wenn es die „Schiffe versenkte“. Der Mann forderte diese Kräfte heraus, und das „Mädchen-Schiff“ fand in ihrem „Sturm“ „Verständnis, Nahrung und Zuflucht“ für eine weitere unabhängige Fahrt. Am nächsten Tag wurde der „Hafen des Mannes“ ausgeraubt, aber so läuft es. Das Wichtigste ist, dass das „Mädchen-Schiff“ jetzt unabhängig segelt und selbst entscheidet, was es „transportiert“ und wohin es „segelt“.
+
 </details>
 </li>
 </ol>
@@ -141,8 +143,6 @@ Der Mann wusste, dass es „Kräfte“ gab, die nicht wollten, dass „Schiffe�
 
 {{< /split >}}
 
-
 [**Ω**](https://t.me/artiomkovnatsky)
 
-
-Sie können einen Termin über <a href="https://calendly.com/artiom_kovnatsky" target="_blank">Calendly</a> oder über <a href="https://cal.read.ai/artiomkovnatsky" target="_blank">Read.ai</a> buchen, mir eine <a href="mailto:artiomkovnatsky@pm.me" target="_blank">Email</a> schreiben oder mir in <a href="https://t.me/soul_from_crete" target="_blank">Telegram</a> schreiben.
+Sie können einen Termin über `<a href="https://calendly.com/artiom_kovnatsky" target="_blank">`Calendly`</a>` oder über `<a href="https://cal.read.ai/artiomkovnatsky" target="_blank">`Read.ai`</a>` buchen, mir eine `<a href="mailto:artiomkovnatsky@pm.me" target="_blank">`Email`</a>` schreiben oder mir in `<a href="https://t.me/soul_from_crete" target="_blank">`Telegram`</a>` schreiben.
