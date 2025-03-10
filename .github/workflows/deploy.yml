@@ -1,0 +1,25 @@
+name: Deploy Public Folder to GitHub Pages
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout hugo-toha.github.io
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 3  # Shallow clone to speed up for large repo
+
+    - name: Push public folder to skovnats.github.io
+      run: |
+        cd public
+        git init
+        git config user.name "GitHub Actions"
+        git config user.email "actions@github.com"
+        git add .
+        git commit -m "Deploy public folder from hugo-toha.github.io - $(date)"
+        git push --force https://x-access-token:${{ secrets.DEPLOY_TOKEN }}@github.com/skovnats/skovnats.github.io.git HEAD:master
